@@ -1,0 +1,159 @@
+# --------------------------------------------
+# Mapping reads on circular viral genome
+# --------------------------------------------
+#
+# Command lines:
+# conda activate /beegfs/data/bguinet/Bguinet_conda/
+#
+# Dry RUN:
+# nohup snakemake -j 8 -s Snakemake_mapping_sp1_sp2_ViralGenome -n --cluster "sbatch -J {params.name} -p {params.partition} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb[14-27]" &> nohup_Snakemake_mapping_sp1_sp2_ViralGenome.out &
+#
+# Unlock:
+# nohup snakemake -j 8 -s Snakemake_mapping_sp1_sp2_ViralGenome --unlock --cluster "sbatch -J {params.name} -p {params.partition} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb[14-27]" &> nohup_Snakemake_mapping_sp1_sp2_ViralGenome.out &
+#
+# Real run:
+# nohup snakemake -j 8 -s Snakemake_mapping_sp1_sp2_ViralGenome --cluster "sbatch -J {params.name} -p {params.partition} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb[14-27]" &> nohup_Snakemake_mapping_sp1_sp2_ViralGenome.out &
+
+import os
+
+# Paths
+Genome = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Viral_Genome/scaffold3_circularized.fa"
+Output_dir = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Viral_Genome/Mapping/"
+Logs_dir = Output_dir + "Logs/"
+Soft_dir = "/beegfs/home/soukkal/miniconda3/bin/"
+
+# Input reads for the two specimens
+Reads_R1 = [
+    "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Xiphosomella_wirra_assembly/DHJPAR0036296_1.fastq.gz",
+    "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Xiphosomella_wirra_assembly/DHJPAR0041296_1.fastq.gz"
+]
+Reads_R2 = [
+    "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Xiphosomella_wirra_assembly/DHJPAR0036296_2.fastq.gz",
+    "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Xiphosomella_wirra_assembly/DHJPAR0041296_2.fastq.gz"
+]
+
+# Define specimen IDs and map them to their read files
+SAMPLES = [
+    "Xiphosomella_wirra_DHJPAR0036296",
+    "Xiphosomella_wirra_DHJPAR0041296"
+]
+SAMPLE_READS = {
+    SAMPLES[0]: {"R1": Reads_R1[0], "R2": Reads_R2[0]},
+    SAMPLES[1]: {"R1": Reads_R1[1], "R2": Reads_R2[1]},
+}
+
+# Helpers to fetch inputs by wildcard
+def get_R1(wc):
+    return SAMPLE_READS[wc.sample]["R1"]
+
+def get_R2(wc):
+    return SAMPLE_READS[wc.sample]["R2"]
+
+rule all:
+    input:
+        # Per-sample outputs
+        expand(Output_dir + "bam/{sample}.bam.gz", sample=SAMPLES),
+        expand(Output_dir + "bed/{sample}.per-base.bed.gz", sample=SAMPLES),
+        expand(Output_dir + "mapped_reads/{sample}_R1.fastq.gz", sample=SAMPLES),
+        expand(Output_dir + "mapped_reads/{sample}_R2.fastq.gz", sample=SAMPLES)
+
+rule index_genome:
+    input:
+        Genome
+    output:
+        flag = Logs_dir + "index_done.txt"
+    params:
+        threads = "4",
+        partition = "normal",
+        time = "12:00:00",
+        mem = "8G",
+        name = "IndexViralGenome",
+        out = Logs_dir + "index.out",
+        err = Logs_dir + "index.err"
+    shell:
+        """
+        mkdir -p {Logs_dir}
+        {Soft_dir}bwa-mem2.avx2 index {input}
+        touch {output.flag}
+        """
+
+rule mapping:
+    input:
+        flag = Logs_dir + "index_done.txt",
+        Genome = Genome,
+        R1 = get_R1,
+        R2 = get_R2
+    output:
+        bam_gz = Output_dir + "bam/{sample}.bam.gz"
+    params:
+        threads = "4",
+        partition = "normal",
+        time = "06:00:00",
+        mem = "10G",
+        name = "Map_{sample}",
+        out = lambda wc: Logs_dir + f"{wc.sample}.map.out",
+        err = lambda wc: Logs_dir + f"{wc.sample}.map.err"
+    shell:
+        """
+        mkdir -p {Output_dir}/bam
+        {Soft_dir}bwa-mem2.avx2 mem -t {params.threads} {input.Genome} {input.R1} {input.R2} > {Output_dir}/bam/{wildcards.sample}.bam
+        gzip -f {Output_dir}/bam/{wildcards.sample}.bam
+        """
+
+rule sort_bam:
+    input:
+        BAM = Output_dir + "bam/{sample}.bam.gz"
+    output:
+        SortedBAM = temp(Output_dir + "bam/{sample}_sorted.bam")
+    params:
+        threads = "1",
+        partition = "normal",
+        time = "01:00:00",
+        mem = "1G",
+        name = "Sort_{sample}",
+        out = lambda wc: Logs_dir + f"{wc.sample}_sort.out",
+        err = lambda wc: Logs_dir + f"{wc.sample}_sort.error"
+    shell:
+        """
+        {Soft_dir}samtools sort -@ {params.threads} -o {output.SortedBAM} {input.BAM}
+        """
+
+rule depth_per_base:
+    input:
+        SortedBAM = Output_dir + "bam/{sample}_sorted.bam"
+    output:
+        BED = Output_dir + "bed/{sample}.per-base.bed.gz"
+    params:
+        threads = "1",
+        partition = "normal",
+        time = "02:00:00",
+        mem = "1G",
+        name = "Depth_{sample}",
+        out = lambda wc: Logs_dir + f"{wc.sample}_depth.out",
+        err = lambda wc: Logs_dir + f"{wc.sample}_depth.error"
+    shell:
+        """
+        mkdir -p {Output_dir}/bed
+        {Soft_dir}samtools depth -a {input.SortedBAM} > {Output_dir}/bed/{wildcards.sample}.per-base.bed
+        gzip -f {Output_dir}/bed/{wildcards.sample}.per-base.bed
+        """
+
+rule extract_mapped_reads_fastq:
+    input:
+        SortedBAM = Output_dir + "bam/{sample}_sorted.bam"
+    output:
+        R1 = Output_dir + "mapped_reads/{sample}_R1.fastq.gz",
+        R2 = Output_dir + "mapped_reads/{sample}_R2.fastq.gz"
+    params:
+        threads = "1",
+        partition = "normal",
+        time = "01:00:00",
+        mem = "1G",
+        name = "bam2fastq_{sample}",
+        out = lambda wc: Logs_dir + f"{wc.sample}_bam2fastq.out",
+        err = lambda wc: Logs_dir + f"{wc.sample}_bam2fastq.error"
+    shell:
+        """
+        mkdir -p {Output_dir}/mapped_reads
+        {Soft_dir}samtools fastq -1 {output.R1} -2 {output.R2} -0 /dev/null -s /dev/null -n {input.SortedBAM}
+        """

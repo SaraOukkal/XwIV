@@ -1,0 +1,124 @@
+# Activate conda :
+## conda activate /beegfs/data/bguinet/Bguinet_conda
+
+# Command lines :
+## DRY run :
+# nohup snakemake -j 500 -s Snakemake_align_phylogeny -n --cluster  "sbatch -J {params.name} -t {params.time} --cpus-per-task {params.threads} --mem={params.mem}  -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb27"  &> nohup_Snakemake_Cluster_ali.out &
+## Unlock :
+# nohup snakemake -j 500 -s Snakemake_align_phylogeny --unlock --cluster "sbatch -J {params.name} -t {params.time} --cpus-per-task {params.threads} --mem={params.mem}  -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb27"  &> nohup_Snakemake_Cluster_ali.out &
+## Real run :
+# nohup snakemake -j 500 -s Snakemake_align_phylogeny --cluster  "sbatch -J {params.name} -t {params.time} --cpus-per-task {params.threads} --mem={params.mem}  -o {params.out} -e {params.err} --qos=horizon --exclude=pbil-deb27"  &> nohup_Snakemake_Cluster_ali.out &
+
+# Importation des packages
+import os
+from Bio import SeqIO
+import pandas as pd
+
+# Software
+Clustal_Omega = "/beegfs/home/soukkal/miniconda3/bin/clustalo"
+Trimal = "/beegfs/home/soukkal/miniconda3/bin/trimal"
+Iqtree = "/beegfs/home/soukkal/miniconda3/bin/iqtree"
+
+# Paths
+Cluster_seqs_path = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Phylogeny/Data/Clusters/"
+Cluster_alignment_path = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Phylogeny/Alignements/"
+Cluster_phylogeny_path = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Phylogeny/Phylogenies/"
+Cluster_plot_path = "/beegfs/data/soukkal/Thesis/Hymenoptera_Project/PDV/Results/Viral_genes/IVSPER_Analysis/Phylogeny/Figures/"
+
+# Get list of cluster filenames (without extension)
+list_Clusters = [f.replace(".faa", "") for f in os.listdir(Cluster_seqs_path) if f.endswith(".faa")]
+
+# Final targets
+rule all:
+    input:
+        expand(Cluster_alignment_path + "{cluster}.faa.aln", cluster=list_Clusters),
+        expand(Cluster_alignment_path + "{cluster}.faa.aln.trimmed", cluster=list_Clusters),
+        expand(Cluster_alignment_path + "{cluster}.faa.aln.trimmed.clean", cluster=list_Clusters),
+        expand(Cluster_phylogeny_path + "{cluster}.faa.aln.trimmed.clean.treefile", cluster=list_Clusters),
+        expand(Cluster_plot_path + "{cluster}.faa.tree.svg", cluster=list_Clusters)
+
+rule Alignment:
+    params:
+        threads = "5",
+        time = "02:00:00",
+        mem = "5G",
+        name = "Align_{cluster}",
+        out = Cluster_alignment_path + "Logs/{cluster}.align.out",
+        err = Cluster_alignment_path + "Logs/{cluster}.align.err"
+    input:
+        Cluster_file = Cluster_seqs_path + "{cluster}.faa"
+    output:
+        alignment_file = Cluster_alignment_path + "{cluster}.faa.aln"
+    shell:
+        """
+        {Clustal_Omega} -i {input.Cluster_file} --outfmt fasta -o {output.alignment_file} --threads {params.threads}
+        """
+
+rule Trimming:
+    params:
+        threads = "1",
+        time = "01:00:00",
+        mem = "5G",
+        name = "Trim_{cluster}",
+        out = Cluster_alignment_path + "Logs/{cluster}.trim.out",
+        err = Cluster_alignment_path + "Logs/{cluster}.trim.err"
+    input:
+        alignment_file = Cluster_alignment_path + "{cluster}.faa.aln"
+    output:
+        trimmed_alignment = Cluster_alignment_path + "{cluster}.faa.aln.trimmed"
+    shell:
+        """
+        {Trimal} -in {input.alignment_file} -out {output.trimmed_alignment} -automated1 -keepheader
+        """
+
+rule SanitizeHeaders:
+    params:
+        threads = "1",
+        time = "00:20:00",
+        mem = "1G",
+        name = "Sanitize_{cluster}",
+        out = Cluster_alignment_path + "Logs/{cluster}.sanitize.out",
+        err = Cluster_alignment_path + "Logs/{cluster}.sanitize.err"
+    input:
+        trimmed_alignment = Cluster_alignment_path + "{cluster}.faa.aln.trimmed"
+    output:
+        clean_alignment = Cluster_alignment_path + "{cluster}.faa.aln.trimmed.clean"
+    shell:
+        """
+        awk '{{ if ($0 ~ /^>/) gsub(/ /, "_"); print }}' {input.trimmed_alignment} > {output.clean_alignment}
+        """
+
+rule Phylogeny:
+    params:
+        threads = "8",
+        time = "96:00:00",
+        mem = "30G",
+        name = "Tree_{cluster}",
+        out = Cluster_phylogeny_path + "Logs/{cluster}.tree.out",
+        err = Cluster_phylogeny_path + "Logs/{cluster}.tree.err"
+    input:
+        clean_alignment = Cluster_alignment_path + "{cluster}.faa.aln.trimmed.clean"
+    output:
+        tree_file = Cluster_phylogeny_path + "{cluster}.faa.aln.trimmed.clean.treefile"
+    shell:
+        """
+        {Iqtree} -s {input.clean_alignment} -m MFP -alrt 1000 -T AUTO -ntmax {params.threads}
+        mv {input.clean_alignment}.* {Cluster_phylogeny_path}
+        """
+
+rule PlotTree:
+    params:
+        threads = "1",
+        time = "00:30:00",
+        mem = "2G",
+        name = "PlotTree_{cluster}",
+        out = Cluster_plot_path + "Logs/{cluster}.plot.out",
+        err = Cluster_plot_path + "Logs/{cluster}.plot.err"
+    input:
+        tree_file = Cluster_phylogeny_path + "{cluster}.faa.aln.trimmed.clean.treefile"
+    output:
+        svg_file = Cluster_plot_path + "{cluster}.faa.tree.svg"
+    shell:
+        """
+        Rscript Plot_phylo.R {input.tree_file} {output.svg_file}
+        """
