@@ -1,0 +1,107 @@
+#Commande :
+#conda activate /beegfs/data/bguinet/Bguinet_conda/
+
+#Dry run :
+#nohup snakemake -j 235 -s Snakemake_Trimming_Assembly -n --cluster "sbatch -J {params.name} -t {params.time} -p {params.partition} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --mem {params.mem} --qos=horizon " &> nohup_Snakemake_trimming_Assembly.out &
+#Unlock :
+#nohup snakemake -j 235 -s Snakemake_Trimming_Assembly --unlock --cluster "sbatch -J {params.name} -t {params.time} -p {params.partition} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --mem {params.mem} --qos=horizon " &> nohup_Snakemake_trimming_Assembly.out &
+#Real run :
+#nohup snakemake -j 235 -s Snakemake_Trimming_Assembly --cluster "sbatch -J {params.name} -t {params.time} -p {params.partition} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon --mem {params.mem} " &> nohup_Snakemake_trimming_Assembly.out &
+
+import pandas as pd
+import re
+import os
+
+#Your paths
+Reads_dir="/beegfs/project/horizon/data/Ongoing/Reads/"
+Output_dir="/beegfs/project/horizon/data/"
+Scripts_dir="/beegfs/data/soukkal/Thesis/Horizon/Scripts/"
+logs_dir="/beegfs/data/soukkal/Thesis/Horizon/Logs/"
+soft_dir="/beegfs/home/soukkal/miniconda3/bin/"
+
+Genome_IDS_table=pd.read_csv("/beegfs/data/soukkal/Thesis/Horizon/Specimens_to_trim_assemble.txt",header=None)
+list_Genome_IDs=list(Genome_IDS_table[0])
+
+#les rules spécifiées ici ne font pas l'objet de jobs sur le cluster, elles sont executées en local sur pbil-deb
+localrules : Contig_Rehead
+
+#This rule contains all the expected output from all your rules within the snakefile
+rule all:
+        input:
+                expand(Output_dir+"trimmed_reads/{Genome_ID}_1.fq", Genome_ID = list_Genome_IDs), #Remettre GZ
+                expand(Output_dir+"trimmed_reads/{Genome_ID}_2.fq", Genome_ID = list_Genome_IDs),
+                expand(Output_dir+"assembly/specimens/{Genome_ID}/assembly.contigs.fa", Genome_ID = list_Genome_IDs),
+                expand(Output_dir+"assembly/specimens/{Genome_ID}/assembly2.contigs.fa", Genome_ID = list_Genome_IDs),
+                expand(Output_dir+"assembly/specimens/{Genome_ID}/redundans/scaffolds.reduced.fa", Genome_ID = list_Genome_IDs)
+
+#Trmming : retrait des bases et reads de mauvaise qualité et nettoyage des séquences d'adaptateurs :
+rule Trimming:
+        params:
+                threads="16",
+                partition="normal",
+                time="24:00:00",
+                mem="1G",
+                name="Trimming_{Genome_ID}",
+                out=logs_dir+"{Genome_ID}_trim.out",
+                err=logs_dir+"{Genome_ID}_trim.error"
+        output:
+                R1=Output_dir+"trimmed_reads/{Genome_ID}_1.fq", #Remettre GZ après avoir fait tourner l'assemblage
+                R2=Output_dir+"trimmed_reads/{Genome_ID}_2.fq"
+        shell:
+                """
+                {soft_dir}fastp --thread {params.threads} --in1 {Reads_dir}{wildcards.Genome_ID}_1.fastq.gz --in2 {Reads_dir}{wildcards.Genome_ID}_2.fastq.gz --out1 {output.R1} --out2 {output.R2} --adapter_sequence AGATCGGAAGAGCACACGTCTGAACTCCAGTCA --adapter_sequence_r2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT --length_required 100 --correction  2> {params.err} > {params.out}
+                """
+
+rule Assembly :
+        params:
+                threads="24",
+                partition="bigmem",
+                time="90:00:00",
+                mem="100G",
+                name="Assembly_{Genome_ID}",
+                out=logs_dir+"{Genome_ID}_assembly.out",
+                err=logs_dir+"{Genome_ID}_assembly.error"
+        input:
+                R1=Output_dir+"trimmed_reads/{Genome_ID}_1.fq",
+                R2=Output_dir+"trimmed_reads/{Genome_ID}_2.fq"
+        output:
+                Genome=Output_dir+"assembly/specimens/{Genome_ID}/assembly.contigs.fa"
+        shell:
+                """
+                mkdir -p {Output_dir}assembly/specimens/{wildcards.Genome_ID}/
+                {soft_dir}megahit -1 {input.R1} -2 {input.R2} -f -t {params.threads} -o {Output_dir}assembly/specimens/{wildcards.Genome_ID} --out-prefix assembly
+                """
+
+rule Contig_Rehead :
+        input:
+                Genome=Output_dir+"assembly/specimens/{Genome_ID}/assembly.contigs.fa"
+        output:
+                Genome2=Output_dir+"assembly/specimens/{Genome_ID}/assembly2.contigs.fa"
+        shell:
+                """
+                cat {input.Genome}| {Scripts_dir}annotate_contigs.pl {wildcards.Genome_ID} > {output.Genome2}
+                """
+
+#Scaffolding (regrouper les contigs grace aux informations des reads paired end)
+rule scaffolding:
+        params:
+                threads="16",
+                partition="normal",
+                time="72:00:00",
+                mem="50G",
+                name="Scaffolding_{Genome_ID}",
+                out=logs_dir+"{Genome_ID}_scaffolding.out",
+                err=logs_dir+"{Genome_ID}_scaffolding.error"
+        input:
+                Assembly=Output_dir+"assembly/specimens/{Genome_ID}/assembly2.contigs.fa",
+                R1=Output_dir+"trimmed_reads/{Genome_ID}_1.fq",
+                R2=Output_dir+"trimmed_reads/{Genome_ID}_2.fq"
+        output:
+                Assembly2=Output_dir+"assembly/specimens/{Genome_ID}/redundans/scaffolds.reduced.fa"
+        shell:
+                """
+                /beegfs/data/soft/anaconda3/bin/python2.7 /beegfs/data/soft/redundans/redundans.py -i {input.R1} {input.R2} -f {input.Assembly} --usebwa --iter 4 --joins 3 --mem 16 -t 16 --log {params.err} -o {Output_dir}assembly/specimens/{wildcards.Genome_ID}/Temporary/
+                mkdir -p {Output_dir}assembly/specimens/{wildcards.Genome_ID}/redundans/
+                mv {Output_dir}assembly/specimens/{wildcards.Genome_ID}/Temporary/*  {Output_dir}assembly/specimens/{wildcards.Genome_ID}/redundans/
+                rm -r {Output_dir}assembly/specimens/{wildcards.Genome_ID}/Temporary/
+                """

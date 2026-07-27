@@ -1,0 +1,67 @@
+import pandas as pd
+import re
+import os
+
+##DRY run :
+#nohup snakemake -j 520  -s Snakemake_BUSCO_Quast_Specimens -n --cluster " sbatch -J {params.name} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon " &> nohup_Snakemake_BUSCO_Specimens.out &
+##Unlock :
+#nohup snakemake -j 520  -s Snakemake_BUSCO_Quast_Specimens --unlock --cluster " sbatch -J {params.name} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon " &> nohup_Snakemake_BUSCO_Specimens.out &
+##Real run :
+#nohup snakemake -j 520  -s Snakemake_BUSCO_Quast_Specimens --cluster " sbatch -J {params.name} -t {params.time} --mem {params.mem} --cpus-per-task {params.threads} -o {params.out} -e {params.err} --qos=horizon " &> nohup_Snakemake_BUSCO_Specimens.out &
+
+#Your paths
+Genomes_path="/beegfs/project/horizon/data/assembly/specimens/"
+BUSCO_output_dir="/beegfs/project/horizon/data/stats/busco/specimens/"
+Quast_output_dir="/beegfs/project/horizon/data/stats/quast/specimens/"
+BUSCO_logs_dir="/beegfs/data/soukkal/Thesis/Horizon/BUSCO/logs/"
+Quast_logs_dir="/beegfs/data/soukkal/Thesis/Horizon/Quast/logs/"
+
+#Open species list :
+Genome_IDS_table=pd.read_csv("/beegfs/data/soukkal/Thesis/Horizon/Specimens_to_BUSCO_Quast.txt",header=None)
+list_Genome_IDs=list(Genome_IDS_table[0])
+
+rule all:
+  input:
+        expand(BUSCO_output_dir+"{Genome_ID}/run_insecta_odb10/full_table.tsv", Genome_ID = list_Genome_IDs),
+        expand(Quast_output_dir+"{Genome_ID}/report.tsv", Genome_ID = list_Genome_IDs)
+
+#Run BUSCO analysis:
+rule BUSCO:
+  params:
+     threads="12",
+     time="48:00:00",
+     mem="12G",
+     name="BUSCO_{Genome_ID}",
+     out=BUSCO_logs_dir+"{Genome_ID}_BUSCO.out",
+     err=BUSCO_logs_dir+"{Genome_ID}_BUSCO.error",
+     lineage="/beegfs/project/horizon/data/stats/busco/species_reconciled/busco_downloads/lineages/insecta_odb10",
+     mode="genome"
+  input:
+     Assembly=Genomes_path+"{Genome_ID}/redundans/scaffolds.reduced.fa"
+  output:
+     BUSCO_result=BUSCO_output_dir+"{Genome_ID}/run_insecta_odb10/full_table.tsv"
+  shell:
+     """
+      hostname
+      cd /beegfs/project/horizon/data/stats/busco/specimens/
+      /beegfs/data/soft/singularity3.11.0/bin/singularity exec --bind /beegfs/:/beegfs/ /beegfs/home/soukkal/BUSCO/busco_v5.5.0_cv1.sif busco -i {Genomes_path}{wildcards.Genome_ID}/redundans/scaffolds.reduced.fa -l {params.lineage} -m {params.mode} -o {wildcards.Genome_ID}/ -c 3 -f
+     """
+
+#Run QUAST analysis:
+rule QUAST:
+  params:
+     threads="5",
+     mem="2000M",
+     time="00:20:00",
+     name="QUAST_{Genome_ID}",
+     out=Quast_logs_dir+"{Genome_ID}_QUAST.out",
+     err=Quast_logs_dir+"{Genome_ID}_QUAST.error"
+  input:
+     Genome_assembly=Genomes_path+"{Genome_ID}/redundans/scaffolds.reduced.fa"
+  output:
+     Result=Quast_output_dir+"{Genome_ID}/report.tsv"
+  shell:
+     """
+     python3 /beegfs/data/soukkal/StageM2/Tools/quast/quast.py {Genomes_path}{wildcards.Genome_ID}/redundans/scaffolds.reduced.fa -o {Quast_output_dir}{wildcards.Genome_ID}/ -t {params.threads}
+     cp {Quast_output_dir}{wildcards.Genome_ID}/report.tsv {Quast_output_dir}Quast_sum/report_{wildcards.Genome_ID}.tsv
+     """
