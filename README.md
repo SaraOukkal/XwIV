@@ -1,6 +1,6 @@
 # Unraveling the origins of ichnoviruses: metagenomic discovery of a free-living relative
 
-This repository contains the scripts and supplementary resources used for the analyses presented in the manuscript. The scripts are organized by analysis step following the workflow used in the study. They do not constitute a single automated pipeline, but rather independent analyses performed throughout the project.
+This repository contains the scripts and supplementary data used for the analyses presented in the manuscript. The scripts do not constitute a single automated pipeline, but rather independent analyses performed throughout the project.
 
 ---
 
