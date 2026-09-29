@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="1471.6pt"
+   height="664pt"
+   viewBox="0 0 1471.5999 664"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="XwIV_ORF_61_midpoint_rooted.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.66289357"
+     inkscape:cx="1182.6936"
+     inkscape:cy="645.65418"
+     inkscape:window-width="1463"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g29"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHwzMTcxLjYwfDAuMDB8ODY0LjAw">
+      <rect
+         x="0"
+         y="0"
+         width="3171.6001"
+         height="864"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs4">
+    <clipPath
+       id="cpMTkuOTN8MzA3MS45N3wxOS45M3w4NDQuMDc=">
+      <rect
+         x="19.93"
+         y="19.93"
+         width="3052.05"
+         height="824.15002"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMTkuOTN8MzA3MS45N3wxOS45M3w4NDQuMDc=)"
+     id="g29">
+    <line
+       x1="61.497929"
+       y1="512.12958"
+       x2="845.28796"
+       y2="512.12958"
+       style="stroke-width:1.71"
+       id="line5" />
+    <line
+       x1="499.62796"
+       y1="178.01956"
+       x2="502.58792"
+       y2="178.01956"
+       style="stroke-width:1.71"
+       id="line6" />
+    <line
+       x1="499.62796"
+       y1="66.649574"
+       x2="499.63791"
+       y2="66.649574"
+       style="stroke-width:1.71"
+       id="line7" />
+    <line
+       x1="363.49792"
+       y1="289.38956"
+       x2="845.28796"
+       y2="289.38956"
+       style="stroke-width:1.71"
+       id="line8" />
+    <line
+       x1="317.06793"
+       y1="400.75955"
+       x2="411.61792"
+       y2="400.75955"
+       style="stroke-width:1.71"
+       id="line9" />
+    <line
+       x1="61.497929"
+       y1="407.71957"
+       x2="61.497929"
+       y2="407.71957"
+       style="stroke-width:1.71"
+       id="line10" />
+    <line
+       x1="363.49792"
+       y1="122.32957"
+       x2="499.62796"
+       y2="122.32957"
+       style="stroke-width:1.71"
+       id="line11" />
+    <line
+       x1="317.06793"
+       y1="205.85957"
+       x2="363.49792"
+       y2="205.85957"
+       style="stroke-width:1.71"
+       id="line12" />
+    <line
+       x1="61.497929"
+       y1="303.30957"
+       x2="317.06793"
+       y2="303.30957"
+       style="stroke-width:1.71"
+       id="line13" />
+    <line
+       x1="61.497929"
+       y1="407.71957"
+       x2="61.497929"
+       y2="512.12958"
+       style="stroke-width:1.71"
+       id="line14" />
+    <line
+       x1="499.62796"
+       y1="122.32957"
+       x2="499.62796"
+       y2="178.01956"
+       style="stroke-width:1.71"
+       id="line15" />
+    <line
+       x1="499.62796"
+       y1="122.32957"
+       x2="499.62796"
+       y2="66.649574"
+       style="stroke-width:1.71"
+       id="line16" />
+    <line
+       x1="363.49792"
+       y1="205.85957"
+       x2="363.49792"
+       y2="289.38956"
+       style="stroke-width:1.71"
+       id="line17" />
+    <line
+       x1="317.06793"
+       y1="303.30957"
+       x2="317.06793"
+       y2="400.75955"
+       style="stroke-width:1.71"
+       id="line18" />
+    <line
+       x1="61.497929"
+       y1="407.71957"
+       x2="61.497929"
+       y2="407.71957"
+       style="stroke-width:1.71"
+       id="line19" />
+    <line
+       x1="363.49792"
+       y1="205.85957"
+       x2="363.49792"
+       y2="122.32957"
+       style="stroke-width:1.71"
+       id="line20" />
+    <line
+       x1="317.06793"
+       y1="303.30957"
+       x2="317.06793"
+       y2="205.85957"
+       style="stroke-width:1.71"
+       id="line21" />
+    <line
+       x1="61.497929"
+       y1="407.71957"
+       x2="61.497929"
+       y2="303.30957"
+       style="stroke-width:1.71"
+       id="line22" />
+    <text
+       x="611.46002"
+       y="201.19"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#600090;fill-opacity:1"
+       textLength="229.52"
+       lengthAdjust="spacingAndGlyphs"
+       id="text23"
+       transform="translate(-97.152066,-20.100427)">HD016118.1-PA_gene_IVSP_U5__Hyposoter_didymator_</text>
+    <text
+       x="608.5"
+       y="89.82"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#600090;fill-opacity:1"
+       textLength="490.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text24"
+       transform="translate(-97.152066,-20.100427)">UniRef50_D7P5M4_Uncharacterized_protein_U5_n_1_Tax_Hyposoter_didymator_TaxID_260305_RepID_D7P5M4_HYPDD</text>
+    <text
+       x="954.15002"
+       y="312.56"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#600090;fill-opacity:1"
+       textLength="572.44"
+       lengthAdjust="spacingAndGlyphs"
+       id="text25"
+       transform="translate(-97.152066,-20.100427)">lcl|KP706799.1_prot_AKD28094.1_7__gene_U5L___protein_U5-like_protein___protein_id_AKD28094.1___location_complement_12921..13574</text>
+    <text
+       x="520.48999"
+       y="423.92999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#600090;fill-opacity:1"
+       textLength="324.35001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text26"
+       transform="translate(-97.152066,-20.100427)">gene.scaffold_50.g588.t1.1-PA_gene_U5-like_protein__Campoletis_sonorensis_</text>
+    <text
+       x="607.32001"
+       y="139.74001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text27"
+       transform="translate(-131.60281,-22.893731)">99.2</text>
+    <text
+       x="471.17999"
+       y="223.25999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text28"
+       transform="translate(-129.74061,-21.031529)">51.3</text>
+    <line
+       x1="58.963764"
+       y1="568.38452"
+       x2="137.34377"
+       y2="568.38452"
+       style="stroke-width:1.49;stroke-linecap:butt"
+       id="line28" />
+    <text
+       x="213.52"
+       y="732.70001"
+       text-anchor="middle"
+       style="font-size:9.96px;font-family:Arial"
+       textLength="69.209999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text29"
+       transform="translate(-113.71041,-187.33968)">0.15078732971</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#9d0000;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6"
+       x="874.57483"
+       y="514.78857"
+       id="text20802"><tspan
+         sodipodi:role="line"
+         id="tspan20800"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4"
+         x="874.57483"
+         y="514.78857">XwIV_ORF61</tspan></text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHwzMTcxLjYwfDAuMDB8ODY0LjAw)"
+     id="g30" />
+  <g
+     id="g8111"
+     transform="matrix(1.6117298,0,0,1.6117298,-1055.0266,85.796723)">
+    <rect
+       style="fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="-16.378145"
+       ry="7.559144" />
+    <rect
+       style="fill:#600090;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-2"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="3.5279188"
+       ry="7.559144" />
+    <rect
+       style="fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-80"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="23.433983"
+       ry="7.559144" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="743.33057"
+       y="-5.1837473"
+       id="text7421"><tspan
+         sodipodi:role="line"
+         id="tspan7419"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9d0000;fill-opacity:1;stroke-width:1.7"
+         x="743.33057"
+         y="-5.1837473">XwIV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#600090;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="749.65826"
+       y="14.722317"
+       id="text7475"><tspan
+         sodipodi:role="line"
+         id="tspan7473"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.7"
+         x="749.65826"
+         y="14.722317">IVSPER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="742.47491"
+       y="34.71627"
+       id="text7479"><tspan
+         sodipodi:role="line"
+         id="tspan7477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0058c8;fill-opacity:1;stroke-width:1.7"
+         x="742.47491"
+         y="34.71627">Virus</tspan></text>
+  </g>
+</svg>

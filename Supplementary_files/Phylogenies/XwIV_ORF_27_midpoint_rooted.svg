@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="1485.2pt"
+   height="864pt"
+   viewBox="0 0 1485.2 864"
+   version="1.1"
+   id="svg201"
+   sodipodi:docname="XwIV_ORF_27_midpoint_rooted.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview201"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.5188513"
+     inkscape:cx="1183.7893"
+     inkscape:cy="992.85558"
+     inkscape:window-width="1463"
+     inkscape:window-height="456"
+     inkscape:window-x="141"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g200"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHwzMDg1LjIwfDAuMDB8ODY0LjAw">
+      <rect
+         x="0"
+         y="0"
+         width="3085.2"
+         height="864"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs4">
+    <clipPath
+       id="cpMTkuOTN8Mjk4NS41N3wxOS45M3w4NDQuMDc=">
+      <rect
+         x="19.93"
+         y="19.93"
+         width="2965.6499"
+         height="824.15002"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMTkuOTN8Mjk4NS41N3wxOS45M3w4NDQuMDc=)"
+     id="g200">
+    <line
+       x1="302.22318"
+       y1="738.94666"
+       x2="767.20312"
+       y2="738.94666"
+       style="stroke-width:1.71"
+       id="line5" />
+    <line
+       x1="508.74319"
+       y1="718.02667"
+       x2="672.66315"
+       y2="718.02667"
+       style="stroke-width:1.71"
+       id="line6" />
+    <line
+       x1="683.32312"
+       y1="697.1167"
+       x2="704.10315"
+       y2="697.1167"
+       style="stroke-width:1.71"
+       id="line7" />
+    <line
+       x1="683.32312"
+       y1="676.19666"
+       x2="683.32312"
+       y2="676.19666"
+       style="stroke-width:1.71"
+       id="line8" />
+    <line
+       x1="683.32312"
+       y1="655.27667"
+       x2="683.32312"
+       y2="655.27667"
+       style="stroke-width:1.71"
+       id="line9" />
+    <line
+       x1="778.90314"
+       y1="780.78668"
+       x2="778.90314"
+       y2="780.78668"
+       style="stroke-width:1.71"
+       id="line10" />
+    <line
+       x1="778.90314"
+       y1="759.8667"
+       x2="914.58313"
+       y2="759.8667"
+       style="stroke-width:1.71"
+       id="line11" />
+    <line
+       x1="448.10318"
+       y1="446.10663"
+       x2="584.31311"
+       y2="446.10663"
+       style="stroke-width:1.71"
+       id="line12" />
+    <line
+       x1="448.10318"
+       y1="425.18665"
+       x2="448.10318"
+       y2="425.18665"
+       style="stroke-width:1.71"
+       id="line13" />
+    <line
+       x1="399.53317"
+       y1="467.01663"
+       x2="399.54315"
+       y2="467.01663"
+       style="stroke-width:1.71"
+       id="line14" />
+    <line
+       x1="475.98318"
+       y1="383.34665"
+       x2="914.58313"
+       y2="383.34665"
+       style="stroke-width:1.71"
+       id="line15" />
+    <line
+       x1="475.98318"
+       y1="362.43665"
+       x2="522.19312"
+       y2="362.43665"
+       style="stroke-width:1.71"
+       id="line16" />
+    <line
+       x1="422.68317"
+       y1="404.26663"
+       x2="501.37314"
+       y2="404.26663"
+       style="stroke-width:1.71"
+       id="line17" />
+    <line
+       x1="251.22316"
+       y1="508.85666"
+       x2="322.30316"
+       y2="508.85666"
+       style="stroke-width:1.71"
+       id="line18" />
+    <line
+       x1="251.22316"
+       y1="487.93665"
+       x2="251.22316"
+       y2="487.93665"
+       style="stroke-width:1.71"
+       id="line19" />
+    <line
+       x1="251.22316"
+       y1="529.77667"
+       x2="317.86316"
+       y2="529.77667"
+       style="stroke-width:1.71"
+       id="line20" />
+    <line
+       x1="272.62317"
+       y1="571.60669"
+       x2="364.62317"
+       y2="571.60669"
+       style="stroke-width:1.71"
+       id="line21" />
+    <line
+       x1="272.62317"
+       y1="550.68665"
+       x2="319.64316"
+       y2="550.68665"
+       style="stroke-width:1.71"
+       id="line22" />
+    <line
+       x1="206.64314"
+       y1="592.52667"
+       x2="297.14316"
+       y2="592.52667"
+       style="stroke-width:1.71"
+       id="line23" />
+    <line
+       x1="275.73315"
+       y1="299.67664"
+       x2="275.73315"
+       y2="299.67664"
+       style="stroke-width:1.71"
+       id="line24" />
+    <line
+       x1="275.73315"
+       y1="278.76663"
+       x2="275.73315"
+       y2="278.76663"
+       style="stroke-width:1.71"
+       id="line25" />
+    <line
+       x1="253.60316"
+       y1="257.84665"
+       x2="414.27316"
+       y2="257.84665"
+       style="stroke-width:1.71"
+       id="line26" />
+    <line
+       x1="253.60316"
+       y1="236.92664"
+       x2="276.07315"
+       y2="236.92664"
+       style="stroke-width:1.71"
+       id="line27" />
+    <line
+       x1="253.58315"
+       y1="48.666645"
+       x2="253.58315"
+       y2="48.666645"
+       style="stroke-width:1.71"
+       id="line28" />
+    <line
+       x1="253.58315"
+       y1="27.756643"
+       x2="253.58315"
+       y2="27.756643"
+       style="stroke-width:1.71"
+       id="line29" />
+    <line
+       x1="253.58315"
+       y1="69.586639"
+       x2="253.58315"
+       y2="69.586639"
+       style="stroke-width:1.71"
+       id="line30" />
+    <line
+       x1="253.58315"
+       y1="90.506645"
+       x2="253.58315"
+       y2="90.506645"
+       style="stroke-width:1.71"
+       id="line31" />
+    <line
+       x1="253.58315"
+       y1="111.42664"
+       x2="253.58315"
+       y2="111.42664"
+       style="stroke-width:1.71"
+       id="line32" />
+    <line
+       x1="253.58315"
+       y1="132.33664"
+       x2="253.58315"
+       y2="132.33664"
+       style="stroke-width:1.71"
+       id="line33" />
+    <line
+       x1="253.58315"
+       y1="153.25664"
+       x2="253.58315"
+       y2="153.25664"
+       style="stroke-width:1.71"
+       id="line34" />
+    <line
+       x1="253.58315"
+       y1="174.17664"
+       x2="253.58315"
+       y2="174.17664"
+       style="stroke-width:1.71"
+       id="line35" />
+    <line
+       x1="253.58315"
+       y1="195.09665"
+       x2="253.58315"
+       y2="195.09665"
+       style="stroke-width:1.71"
+       id="line36" />
+    <line
+       x1="253.58315"
+       y1="216.00664"
+       x2="253.58315"
+       y2="216.00664"
+       style="stroke-width:1.71"
+       id="line37" />
+    <line
+       x1="253.58315"
+       y1="320.59665"
+       x2="275.78317"
+       y2="320.59665"
+       style="stroke-width:1.71"
+       id="line38" />
+    <line
+       x1="253.58315"
+       y1="341.51663"
+       x2="304.79315"
+       y2="341.51663"
+       style="stroke-width:1.71"
+       id="line39" />
+    <line
+       x1="184.84315"
+       y1="613.44666"
+       x2="184.84315"
+       y2="613.44666"
+       style="stroke-width:1.71"
+       id="line40" />
+    <line
+       x1="140.84315"
+       y1="634.35669"
+       x2="140.84315"
+       y2="634.35669"
+       style="stroke-width:1.71"
+       id="line41" />
+    <line
+       x1="116.94315"
+       y1="660.46667"
+       x2="116.94315"
+       y2="660.46667"
+       style="stroke-width:1.71"
+       id="line42" />
+    <line
+       x1="116.94315"
+       y1="744.82666"
+       x2="273.33316"
+       y2="744.82666"
+       style="stroke-width:1.71"
+       id="line43" />
+    <line
+       x1="273.33316"
+       y1="770.32666"
+       x2="778.90314"
+       y2="770.32666"
+       style="stroke-width:1.71"
+       id="line44" />
+    <line
+       x1="273.33316"
+       y1="719.33667"
+       x2="302.22318"
+       y2="719.33667"
+       style="stroke-width:1.71"
+       id="line45" />
+    <line
+       x1="302.22318"
+       y1="699.72668"
+       x2="508.74319"
+       y2="699.72668"
+       style="stroke-width:1.71"
+       id="line46" />
+    <line
+       x1="508.74319"
+       y1="681.4267"
+       x2="683.32312"
+       y2="681.4267"
+       style="stroke-width:1.71"
+       id="line47" />
+    <line
+       x1="683.32312"
+       y1="665.73669"
+       x2="683.32312"
+       y2="665.73669"
+       style="stroke-width:1.71"
+       id="line48" />
+    <line
+       x1="116.94315"
+       y1="576.10669"
+       x2="140.84315"
+       y2="576.10669"
+       style="stroke-width:1.71"
+       id="line49" />
+    <line
+       x1="140.84315"
+       y1="517.84668"
+       x2="184.84315"
+       y2="517.84668"
+       style="stroke-width:1.71"
+       id="line50" />
+    <line
+       x1="184.84315"
+       y1="422.24664"
+       x2="184.84315"
+       y2="422.24664"
+       style="stroke-width:1.71"
+       id="line51" />
+    <line
+       x1="184.84315"
+       y1="535.65668"
+       x2="206.64314"
+       y2="535.65668"
+       style="stroke-width:1.71"
+       id="line52" />
+    <line
+       x1="206.64314"
+       y1="478.78665"
+       x2="231.44316"
+       y2="478.78665"
+       style="stroke-width:1.71"
+       id="line53" />
+    <line
+       x1="231.44316"
+       y1="419.95663"
+       x2="370.24316"
+       y2="419.95663"
+       style="stroke-width:1.71"
+       id="line54" />
+    <line
+       x1="370.24316"
+       y1="451.33664"
+       x2="399.53317"
+       y2="451.33664"
+       style="stroke-width:1.71"
+       id="line55" />
+    <line
+       x1="399.53317"
+       y1="435.64664"
+       x2="448.10318"
+       y2="435.64664"
+       style="stroke-width:1.71"
+       id="line56" />
+    <line
+       x1="370.24316"
+       y1="388.57663"
+       x2="422.68317"
+       y2="388.57663"
+       style="stroke-width:1.71"
+       id="line57" />
+    <line
+       x1="422.68317"
+       y1="372.88663"
+       x2="475.98318"
+       y2="372.88663"
+       style="stroke-width:1.71"
+       id="line58" />
+    <line
+       x1="231.44316"
+       y1="537.6167"
+       x2="251.22316"
+       y2="537.6167"
+       style="stroke-width:1.71"
+       id="line59" />
+    <line
+       x1="251.22316"
+       y1="514.08667"
+       x2="251.22316"
+       y2="514.08667"
+       style="stroke-width:1.71"
+       id="line60" />
+    <line
+       x1="251.22316"
+       y1="498.39664"
+       x2="251.22316"
+       y2="498.39664"
+       style="stroke-width:1.71"
+       id="line61" />
+    <line
+       x1="251.22316"
+       y1="561.14667"
+       x2="272.62317"
+       y2="561.14667"
+       style="stroke-width:1.71"
+       id="line62" />
+    <line
+       x1="184.84315"
+       y1="308.83664"
+       x2="253.58315"
+       y2="308.83664"
+       style="stroke-width:1.71"
+       id="line63" />
+    <line
+       x1="253.58315"
+       y1="276.15665"
+       x2="253.58315"
+       y2="276.15665"
+       style="stroke-width:1.71"
+       id="line64" />
+    <line
+       x1="253.58315"
+       y1="231.71664"
+       x2="253.58315"
+       y2="231.71664"
+       style="stroke-width:1.71"
+       id="line65" />
+    <line
+       x1="253.58315"
+       y1="268.30664"
+       x2="253.58315"
+       y2="268.30664"
+       style="stroke-width:1.71"
+       id="line66" />
+    <line
+       x1="253.58315"
+       y1="289.21664"
+       x2="275.73315"
+       y2="289.21664"
+       style="stroke-width:1.71"
+       id="line67" />
+    <line
+       x1="253.58315"
+       y1="247.38664"
+       x2="253.60316"
+       y2="247.38664"
+       style="stroke-width:1.71"
+       id="line68" />
+    <line
+       x1="253.58315"
+       y1="195.13664"
+       x2="253.58315"
+       y2="195.13664"
+       style="stroke-width:1.71"
+       id="line69" />
+    <line
+       x1="253.58315"
+       y1="174.25664"
+       x2="253.58315"
+       y2="174.25664"
+       style="stroke-width:1.71"
+       id="line70" />
+    <line
+       x1="253.58315"
+       y1="153.41664"
+       x2="253.58315"
+       y2="153.41664"
+       style="stroke-width:1.71"
+       id="line71" />
+    <line
+       x1="253.58315"
+       y1="132.66664"
+       x2="253.58315"
+       y2="132.66664"
+       style="stroke-width:1.71"
+       id="line72" />
+    <line
+       x1="253.58315"
+       y1="112.07664"
+       x2="253.58315"
+       y2="112.07664"
+       style="stroke-width:1.71"
+       id="line73" />
+    <line
+       x1="253.58315"
+       y1="91.816643"
+       x2="253.58315"
+       y2="91.816643"
+       style="stroke-width:1.71"
+       id="line74" />
+    <line
+       x1="253.58315"
+       y1="72.206642"
+       x2="253.58315"
+       y2="72.206642"
+       style="stroke-width:1.71"
+       id="line75" />
+    <line
+       x1="253.58315"
+       y1="53.896645"
+       x2="253.58315"
+       y2="53.896645"
+       style="stroke-width:1.71"
+       id="line76" />
+    <line
+       x1="253.58315"
+       y1="38.206646"
+       x2="253.58315"
+       y2="38.206646"
+       style="stroke-width:1.71"
+       id="line77" />
+    <line
+       x1="302.22318"
+       y1="719.33667"
+       x2="302.22318"
+       y2="738.94666"
+       style="stroke-width:1.71"
+       id="line78" />
+    <line
+       x1="508.74319"
+       y1="699.72668"
+       x2="508.74319"
+       y2="718.02667"
+       style="stroke-width:1.71"
+       id="line79" />
+    <line
+       x1="683.32312"
+       y1="681.4267"
+       x2="683.32312"
+       y2="697.1167"
+       style="stroke-width:1.71"
+       id="line80" />
+    <line
+       x1="683.32312"
+       y1="665.73669"
+       x2="683.32312"
+       y2="676.19666"
+       style="stroke-width:1.71"
+       id="line81" />
+    <line
+       x1="683.32312"
+       y1="665.73669"
+       x2="683.32312"
+       y2="655.27667"
+       style="stroke-width:1.71"
+       id="line82" />
+    <line
+       x1="778.90314"
+       y1="770.32666"
+       x2="778.90314"
+       y2="780.78668"
+       style="stroke-width:1.71"
+       id="line83" />
+    <line
+       x1="778.90314"
+       y1="770.32666"
+       x2="778.90314"
+       y2="759.8667"
+       style="stroke-width:1.71"
+       id="line84" />
+    <line
+       x1="448.10318"
+       y1="435.64664"
+       x2="448.10318"
+       y2="446.10663"
+       style="stroke-width:1.71"
+       id="line85" />
+    <line
+       x1="448.10318"
+       y1="435.64664"
+       x2="448.10318"
+       y2="425.18665"
+       style="stroke-width:1.71"
+       id="line86" />
+    <line
+       x1="399.53317"
+       y1="451.33664"
+       x2="399.53317"
+       y2="467.01663"
+       style="stroke-width:1.71"
+       id="line87" />
+    <line
+       x1="475.98318"
+       y1="372.88663"
+       x2="475.98318"
+       y2="383.34665"
+       style="stroke-width:1.71"
+       id="line88" />
+    <line
+       x1="475.98318"
+       y1="372.88663"
+       x2="475.98318"
+       y2="362.43665"
+       style="stroke-width:1.71"
+       id="line89" />
+    <line
+       x1="422.68317"
+       y1="388.57663"
+       x2="422.68317"
+       y2="404.26663"
+       style="stroke-width:1.71"
+       id="line90" />
+    <line
+       x1="251.22316"
+       y1="498.39664"
+       x2="251.22316"
+       y2="508.85666"
+       style="stroke-width:1.71"
+       id="line91" />
+    <line
+       x1="251.22316"
+       y1="498.39664"
+       x2="251.22316"
+       y2="487.93665"
+       style="stroke-width:1.71"
+       id="line92" />
+    <line
+       x1="251.22316"
+       y1="514.08667"
+       x2="251.22316"
+       y2="529.77667"
+       style="stroke-width:1.71"
+       id="line93" />
+    <line
+       x1="272.62317"
+       y1="561.14667"
+       x2="272.62317"
+       y2="571.60669"
+       style="stroke-width:1.71"
+       id="line94" />
+    <line
+       x1="272.62317"
+       y1="561.14667"
+       x2="272.62317"
+       y2="550.68665"
+       style="stroke-width:1.71"
+       id="line95" />
+    <line
+       x1="206.64314"
+       y1="535.65668"
+       x2="206.64314"
+       y2="592.52667"
+       style="stroke-width:1.71"
+       id="line96" />
+    <line
+       x1="275.73315"
+       y1="289.21664"
+       x2="275.73315"
+       y2="299.67664"
+       style="stroke-width:1.71"
+       id="line97" />
+    <line
+       x1="275.73315"
+       y1="289.21664"
+       x2="275.73315"
+       y2="278.76663"
+       style="stroke-width:1.71"
+       id="line98" />
+    <line
+       x1="253.60316"
+       y1="247.38664"
+       x2="253.60316"
+       y2="257.84665"
+       style="stroke-width:1.71"
+       id="line99" />
+    <line
+       x1="253.60316"
+       y1="247.38664"
+       x2="253.60316"
+       y2="236.92664"
+       style="stroke-width:1.71"
+       id="line100" />
+    <line
+       x1="253.58315"
+       y1="38.206646"
+       x2="253.58315"
+       y2="48.666645"
+       style="stroke-width:1.71"
+       id="line101" />
+    <line
+       x1="253.58315"
+       y1="38.206646"
+       x2="253.58315"
+       y2="27.756643"
+       style="stroke-width:1.71"
+       id="line102" />
+    <line
+       x1="253.58315"
+       y1="53.896645"
+       x2="253.58315"
+       y2="69.586639"
+       style="stroke-width:1.71"
+       id="line103" />
+    <line
+       x1="253.58315"
+       y1="72.206642"
+       x2="253.58315"
+       y2="90.506645"
+       style="stroke-width:1.71"
+       id="line104" />
+    <line
+       x1="253.58315"
+       y1="91.816643"
+       x2="253.58315"
+       y2="111.42664"
+       style="stroke-width:1.71"
+       id="line105" />
+    <line
+       x1="253.58315"
+       y1="112.07664"
+       x2="253.58315"
+       y2="132.33664"
+       style="stroke-width:1.71"
+       id="line106" />
+    <line
+       x1="253.58315"
+       y1="132.66664"
+       x2="253.58315"
+       y2="153.25664"
+       style="stroke-width:1.71"
+       id="line107" />
+    <line
+       x1="253.58315"
+       y1="153.41664"
+       x2="253.58315"
+       y2="174.17664"
+       style="stroke-width:1.71"
+       id="line108" />
+    <line
+       x1="253.58315"
+       y1="174.25664"
+       x2="253.58315"
+       y2="195.09665"
+       style="stroke-width:1.71"
+       id="line109" />
+    <line
+       x1="253.58315"
+       y1="195.13664"
+       x2="253.58315"
+       y2="216.00664"
+       style="stroke-width:1.71"
+       id="line110" />
+    <line
+       x1="253.58315"
+       y1="276.15665"
+       x2="253.58315"
+       y2="320.59665"
+       style="stroke-width:1.71"
+       id="line111" />
+    <line
+       x1="253.58315"
+       y1="308.83664"
+       x2="253.58315"
+       y2="341.51663"
+       style="stroke-width:1.71"
+       id="line112" />
+    <line
+       x1="184.84315"
+       y1="517.84668"
+       x2="184.84315"
+       y2="613.44666"
+       style="stroke-width:1.71"
+       id="line113" />
+    <line
+       x1="140.84315"
+       y1="576.10669"
+       x2="140.84315"
+       y2="634.35669"
+       style="stroke-width:1.71"
+       id="line114" />
+    <line
+       x1="116.94315"
+       y1="660.46667"
+       x2="116.94315"
+       y2="660.46667"
+       style="stroke-width:1.71"
+       id="line115" />
+    <line
+       x1="116.94315"
+       y1="660.46667"
+       x2="116.94315"
+       y2="744.82666"
+       style="stroke-width:1.71"
+       id="line116" />
+    <line
+       x1="273.33316"
+       y1="744.82666"
+       x2="273.33316"
+       y2="770.32666"
+       style="stroke-width:1.71"
+       id="line117" />
+    <line
+       x1="273.33316"
+       y1="744.82666"
+       x2="273.33316"
+       y2="719.33667"
+       style="stroke-width:1.71"
+       id="line118" />
+    <line
+       x1="302.22318"
+       y1="719.33667"
+       x2="302.22318"
+       y2="699.72668"
+       style="stroke-width:1.71"
+       id="line119" />
+    <line
+       x1="508.74319"
+       y1="699.72668"
+       x2="508.74319"
+       y2="681.4267"
+       style="stroke-width:1.71"
+       id="line120" />
+    <line
+       x1="683.32312"
+       y1="681.4267"
+       x2="683.32312"
+       y2="665.73669"
+       style="stroke-width:1.71"
+       id="line121" />
+    <line
+       x1="116.94315"
+       y1="660.46667"
+       x2="116.94315"
+       y2="576.10669"
+       style="stroke-width:1.71"
+       id="line122" />
+    <line
+       x1="140.84315"
+       y1="576.10669"
+       x2="140.84315"
+       y2="517.84668"
+       style="stroke-width:1.71"
+       id="line123" />
+    <line
+       x1="184.84315"
+       y1="517.84668"
+       x2="184.84315"
+       y2="422.24664"
+       style="stroke-width:1.71"
+       id="line124" />
+    <line
+       x1="184.84315"
+       y1="422.24664"
+       x2="184.84315"
+       y2="535.65668"
+       style="stroke-width:1.71"
+       id="line125" />
+    <line
+       x1="206.64314"
+       y1="535.65668"
+       x2="206.64314"
+       y2="478.78665"
+       style="stroke-width:1.71"
+       id="line126" />
+    <line
+       x1="231.44316"
+       y1="478.78665"
+       x2="231.44316"
+       y2="419.95663"
+       style="stroke-width:1.71"
+       id="line127" />
+    <line
+       x1="370.24316"
+       y1="419.95663"
+       x2="370.24316"
+       y2="451.33664"
+       style="stroke-width:1.71"
+       id="line128" />
+    <line
+       x1="399.53317"
+       y1="451.33664"
+       x2="399.53317"
+       y2="435.64664"
+       style="stroke-width:1.71"
+       id="line129" />
+    <line
+       x1="370.24316"
+       y1="419.95663"
+       x2="370.24316"
+       y2="388.57663"
+       style="stroke-width:1.71"
+       id="line130" />
+    <line
+       x1="422.68317"
+       y1="388.57663"
+       x2="422.68317"
+       y2="372.88663"
+       style="stroke-width:1.71"
+       id="line131" />
+    <line
+       x1="231.44316"
+       y1="478.78665"
+       x2="231.44316"
+       y2="537.6167"
+       style="stroke-width:1.71"
+       id="line132" />
+    <line
+       x1="251.22316"
+       y1="537.6167"
+       x2="251.22316"
+       y2="514.08667"
+       style="stroke-width:1.71"
+       id="line133" />
+    <line
+       x1="251.22316"
+       y1="514.08667"
+       x2="251.22316"
+       y2="498.39664"
+       style="stroke-width:1.71"
+       id="line134" />
+    <line
+       x1="251.22316"
+       y1="537.6167"
+       x2="251.22316"
+       y2="561.14667"
+       style="stroke-width:1.71"
+       id="line135" />
+    <line
+       x1="184.84315"
+       y1="422.24664"
+       x2="184.84315"
+       y2="308.83664"
+       style="stroke-width:1.71"
+       id="line136" />
+    <line
+       x1="253.58315"
+       y1="308.83664"
+       x2="253.58315"
+       y2="276.15665"
+       style="stroke-width:1.71"
+       id="line137" />
+    <line
+       x1="253.58315"
+       y1="276.15665"
+       x2="253.58315"
+       y2="231.71664"
+       style="stroke-width:1.71"
+       id="line138" />
+    <line
+       x1="253.58315"
+       y1="231.71664"
+       x2="253.58315"
+       y2="268.30664"
+       style="stroke-width:1.71"
+       id="line139" />
+    <line
+       x1="253.58315"
+       y1="268.30664"
+       x2="253.58315"
+       y2="289.21664"
+       style="stroke-width:1.71"
+       id="line140" />
+    <line
+       x1="253.58315"
+       y1="268.30664"
+       x2="253.58315"
+       y2="247.38664"
+       style="stroke-width:1.71"
+       id="line141" />
+    <line
+       x1="253.58315"
+       y1="231.71664"
+       x2="253.58315"
+       y2="195.13664"
+       style="stroke-width:1.71"
+       id="line142" />
+    <line
+       x1="253.58315"
+       y1="195.13664"
+       x2="253.58315"
+       y2="174.25664"
+       style="stroke-width:1.71"
+       id="line143" />
+    <line
+       x1="253.58315"
+       y1="174.25664"
+       x2="253.58315"
+       y2="153.41664"
+       style="stroke-width:1.71"
+       id="line144" />
+    <line
+       x1="253.58315"
+       y1="153.41664"
+       x2="253.58315"
+       y2="132.66664"
+       style="stroke-width:1.71"
+       id="line145" />
+    <line
+       x1="253.58315"
+       y1="132.66664"
+       x2="253.58315"
+       y2="112.07664"
+       style="stroke-width:1.71"
+       id="line146" />
+    <line
+       x1="253.58315"
+       y1="112.07664"
+       x2="253.58315"
+       y2="91.816643"
+       style="stroke-width:1.71"
+       id="line147" />
+    <line
+       x1="253.58315"
+       y1="91.816643"
+       x2="253.58315"
+       y2="72.206642"
+       style="stroke-width:1.71"
+       id="line148" />
+    <line
+       x1="253.58315"
+       y1="72.206642"
+       x2="253.58315"
+       y2="53.896645"
+       style="stroke-width:1.71"
+       id="line149" />
+    <line
+       x1="253.58315"
+       y1="53.896645"
+       x2="253.58315"
+       y2="38.206646"
+       style="stroke-width:1.71"
+       id="line150" />
+    <text
+       x="727.91998"
+       y="725.82001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="486.13"
+       lengthAdjust="spacingAndGlyphs"
+       id="text151"
+       transform="translate(-37.786848,-4.723356)">XR_010257955.1_187-321_PREDICTED__Ostrinia_nubilalis_uncharacterized_LOC135075056__LOC135075056___ncRNA</text>
+    <text
+       x="759.35999"
+       y="704.90997"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="412.16"
+       lengthAdjust="spacingAndGlyphs"
+       id="text152"
+       transform="translate(-37.786848,-4.723356)">GENS01167703.1_c194-51_TSA__Ptyssoptera_sp._AB-2015_k64_203871_transcribed_RNA_sequence</text>
+    <text
+       x="738.59003"
+       y="683.98999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="434.92999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text153"
+       transform="translate(-37.786848,-4.723356)">GERG01130045.1_2020-2163_TSA__Ptyssoptera_sp._AB-2015_c111313_g2_i3_transcribed_RNA_sequence</text>
+    <text
+       x="738.59003"
+       y="663.07001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="434.92999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text154"
+       transform="translate(-37.786848,-4.723356)">GERG01130044.1_2054-2197_TSA__Ptyssoptera_sp._AB-2015_c111313_g2_i2_transcribed_RNA_sequence</text>
+    <text
+       x="834.16998"
+       y="788.58002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#b623ff;fill-opacity:1"
+       textLength="373.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text155"
+       transform="translate(-37.786848,-4.723356)">NC_008952.1_2131-2277_Hyposoter_fugitivus_ichnovirus_segment_C2__complete_genome</text>
+    <text
+       x="969.84998"
+       y="767.65997"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#b623ff;fill-opacity:1"
+       textLength="446.70001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text156"
+       transform="translate(-37.786848,-4.723356)">UniRef50_Q6PYS8_p12-like_protein-c2_n_1_Tax_Ichnoviriform_fugitivi_TaxID_265522_RepID_Q6PYS8_9VIRU</text>
+    <text
+       x="639.58002"
+       y="453.89999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#b623ff;fill-opacity:1"
+       textLength="568.13"
+       lengthAdjust="spacingAndGlyphs"
+       id="text157"
+       transform="translate(-37.786848,-4.723356)">UniRef50_A0A067ZVS6_Uncharacterized_protein_n_1_Tax_Diadegma_semiclausum_ichnovirus_TaxID_993492_RepID_A0A067ZVS6_9VIRU</text>
+    <text
+       x="503.37"
+       y="432.98001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="320.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text158"
+       transform="translate(-37.786848,-4.723356)">KAL0830152.1_hypothetical_protein_ABMA28_003609__Loxostege_sticticalis_</text>
+    <text
+       x="454.79999"
+       y="474.81"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="320.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text159"
+       transform="translate(-37.786848,-4.723356)">KAL0879773.1_hypothetical_protein_ABMA27_003485__Loxostege_sticticalis_</text>
+    <text
+       x="969.84998"
+       y="391.14001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="320.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text160"
+       transform="translate(-37.786848,-4.723356)">KAL0830155.1_hypothetical_protein_ABMA28_003612__Loxostege_sticticalis_</text>
+    <text
+       x="577.46002"
+       y="370.23001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="320.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text161"
+       transform="translate(-37.786848,-4.723356)">KAL0830159.1_hypothetical_protein_ABMA28_003616__Loxostege_sticticalis_</text>
+    <text
+       x="556.64001"
+       y="412.06"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="320.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text162"
+       transform="translate(-37.786848,-4.723356)">KAL0830153.1_hypothetical_protein_ABMA28_003610__Loxostege_sticticalis_</text>
+    <text
+       x="377.57001"
+       y="516.65002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#b623ff;fill-opacity:1"
+       textLength="427.31"
+       lengthAdjust="spacingAndGlyphs"
+       id="text163"
+       transform="translate(-37.786848,-4.723356)">MZ129252.1_865-1008_Diadegma_fenestrale_ichnovirus_isolate_Jeju_segment_D4__complete_sequence</text>
+    <text
+       x="306.48999"
+       y="495.73001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="494.67999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text164"
+       transform="translate(-37.786848,-4.723356)">XR_009800441.1_1151-1231_PREDICTED__Cydia_pomonella_uncharacterized_LOC133524783__LOC133524783___ncRNA</text>
+    <text
+       x="373.12"
+       y="537.57001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="524.02002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text165"
+       transform="translate(-37.786848,-4.723356)">GIPL01004995.1_c346-200_TSA__Cydia_pomonella_breed_laboratory_rearing_CL1351.Contig2_All__transcribed_RNA_sequence</text>
+    <text
+       x="419.89001"
+       y="579.40002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#b623ff;fill-opacity:1"
+       textLength="389.85999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text166"
+       transform="translate(-37.786848,-4.723356)">KF156228.1_3241-3387_Diadegma_semiclausum_ichnovirus_segment_15__complete_sequence</text>
+    <text
+       x="374.91"
+       y="558.47998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="364.72"
+       lengthAdjust="spacingAndGlyphs"
+       id="text167"
+       transform="translate(-37.786848,-4.723356)">OZ263934.1_17647157-17647300_Pyrgus_onopordi_genome_assembly__chromosome__9</text>
+    <text
+       x="352.41"
+       y="600.32001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="364.72"
+       lengthAdjust="spacingAndGlyphs"
+       id="text168"
+       transform="translate(-37.786848,-4.723356)">OZ263954.1_c3349875-3349720_Pyrgus_onopordi_genome_assembly__chromosome__29</text>
+    <text
+       x="331"
+       y="307.47"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text169"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_22048517-22048669_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="331"
+       y="286.56"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text170"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_c2125962-2125810_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="469.54001"
+       y="265.64001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text171"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4538464-4538378_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="331.34"
+       y="244.72"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text172"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19410198-19410344_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="56.459999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text173"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4532325-4532179_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="35.549999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text174"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19454685-19454831_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="77.379997"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text175"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4510040-4509894_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="98.300003"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text176"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19459414-19459560_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="119.22"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text177"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19456259-19456405_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="140.13"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text178"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19462607-19462753_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="161.05"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text179"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19461010-19461156_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="181.97"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="387.98001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text180"
+       transform="translate(-37.786848,-4.723356)">OZ263526.1_19457822-19457968_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="202.89"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text181"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4511636-4511490_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="308.85001"
+       y="223.8"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text182"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4530731-4530585_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="331.04001"
+       y="328.39001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text183"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4508711-4508565_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="360.06"
+       y="349.31"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text184"
+       transform="translate(-37.786848,-4.723356)">OZ263557.1_c4529138-4529016_Agonopterix_yeatiana_genome_assembly__chromosome__13</text>
+    <text
+       x="240.11"
+       y="621.23999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="383.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text185"
+       transform="translate(-37.786848,-4.723356)">OZ263516.1_14766701-14766847_Agonopterix_yeatiana_genome_assembly__chromosome__3</text>
+    <text
+       x="196.11"
+       y="642.15002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="392.72"
+       lengthAdjust="spacingAndGlyphs"
+       id="text186"
+       transform="translate(-37.786848,-4.723356)">OZ263559.1_c19963379-19963233_Agonopterix_yeatiana_genome_assembly__chromosome__15</text>
+    <text
+       x="832.91998"
+       y="772.34998"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text187"
+       transform="translate(-74.844394,-4.723356)">99.7</text>
+    <text
+       x="562.76001"
+       y="701.75"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text188"
+       transform="translate(-74.188508,-4.723356)">86.3</text>
+    <text
+       x="737.34003"
+       y="683.45001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text189"
+       transform="translate(-74.516451,-4.0674703)">92.8</text>
+    <text
+       x="194.86"
+       y="578.13"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text190"
+       transform="translate(-74.285786,-4.723356)">85.1</text>
+    <text
+       x="260.66"
+       y="537.67999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text191"
+       transform="translate(-73.500863,8.22788)">76.8</text>
+    <text
+       x="285.45001"
+       y="480.81"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text192"
+       transform="translate(-74.678248,-4.3308943)">75.9</text>
+    <text
+       x="424.26001"
+       y="421.98001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text193"
+       transform="translate(-74.874479,-4.723356)">95.9</text>
+    <text
+       x="502.12"
+       y="437.67001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text194"
+       transform="translate(-74.482017,-4.9195869)">57.7</text>
+    <text
+       x="529.98999"
+       y="374.92001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text195"
+       transform="translate(-74.874479,-4.723356)">75.6</text>
+    <text
+       x="305.23999"
+       y="539.64001"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text196"
+       transform="translate(-72.91217,-5.3120486)">74.9</text>
+    <text
+       x="326.64001"
+       y="563.16998"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text197"
+       transform="translate(-74.678248,-4.9195869)">77.5</text>
+    <text
+       x="307.59"
+       y="310.85999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text198"
+       transform="translate(-75.07071,-4.723356)">92.8</text>
+    <text
+       x="329.73999"
+       y="291.25"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text199"
+       transform="translate(-74.089555,-4.5271252)">82.8</text>
+    <line
+       x1="132.89314"
+       y1="826.79669"
+       x2="212.66315"
+       y2="826.79669"
+       style="stroke-width:1.49;stroke-linecap:butt"
+       id="line199" />
+    <text
+       x="210.56"
+       y="823.15997"
+       text-anchor="middle"
+       style="font-size:9.96px;font-family:Arial"
+       textLength="74.739998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text200"
+       transform="translate(-37.786848,-4.723356)">0.088693209835</text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.00002px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;text-anchor:middle;fill:#9d0000;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6"
+       x="795.99628"
+       y="741.18512"
+       id="text681"><tspan
+         sodipodi:role="line"
+         id="tspan679"
+         style="stroke-width:4"
+         x="795.99628"
+         y="741.18512">XwIV_ORF27</tspan></text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHwzMDg1LjIwfDAuMDB8ODY0LjAw)"
+     id="g201" />
+  <g
+     id="g8111"
+     transform="matrix(1.6117298,0,0,1.6117298,-1022.8657,57.51491)">
+    <rect
+       style="fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327"
+       width="42.835152"
+       height="15.118288"
+       x="652.88538"
+       y="-16.378145"
+       ry="7.559144" />
+    <rect
+       style="fill:#b623ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-2"
+       width="42.835152"
+       height="15.118288"
+       x="652.88538"
+       y="3.5279188"
+       ry="7.559144" />
+    <rect
+       style="fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-80"
+       width="42.835152"
+       height="15.118288"
+       x="652.88538"
+       y="23.433983"
+       ry="7.559144" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="720.93243"
+       y="-5.1837473"
+       id="text7421"><tspan
+         sodipodi:role="line"
+         id="tspan7419"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9d0000;fill-opacity:1;stroke-width:1.7"
+         x="720.93243"
+         y="-5.1837473">XwIV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#b623ff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="736.08362"
+       y="15.401049"
+       id="text7475"><tspan
+         sodipodi:role="line"
+         id="tspan7473"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b623ff;fill-opacity:1;stroke-width:1.7"
+         x="736.08362"
+         y="15.401049">Ichnovirus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="720.07678"
+       y="34.71627"
+       id="text7479"><tspan
+         sodipodi:role="line"
+         id="tspan7477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0058c8;fill-opacity:1;stroke-width:1.7"
+         x="720.07678"
+         y="34.71627">Virus</tspan></text>
+  </g>
+</svg>

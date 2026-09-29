@@ -1,0 +1,6157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="1500.4pt"
+   height="3326.3999pt"
+   viewBox="0 0 1500.4001 3326.4"
+   version="1.1"
+   id="svg831"
+   sodipodi:docname="XwIV_ORF_38_midpoint_rooted.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview831"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="2.2435788"
+     inkscape:cx="824.12972"
+     inkscape:cy="4106.8314"
+     inkscape:window-width="1463"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g830"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHwzMjM2LjQwfDAuMDB8MzMyNi40MA==">
+      <rect
+         x="0"
+         y="0"
+         width="3236.3999"
+         height="3326.3999"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs4">
+    <clipPath
+       id="cpMTkuOTN8MzEzNi43N3wxOS45M3wzMzA2LjQ3">
+      <rect
+         x="19.93"
+         y="19.93"
+         width="3116.8501"
+         height="3286.55"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMTkuOTN8MzEzNi43N3wxOS45M3wzMzA2LjQ3)"
+     id="g830">
+    <line
+       x1="73.560974"
+       y1="3254.9766"
+       x2="847.74103"
+       y2="3254.9766"
+       style="stroke-width:1.71"
+       id="line5" />
+    <line
+       x1="351.71097"
+       y1="3065.8467"
+       x2="509.32095"
+       y2="3065.8467"
+       style="stroke-width:1.71"
+       id="line6" />
+    <line
+       x1="488.69095"
+       y1="2771.6567"
+       x2="488.69095"
+       y2="2771.6567"
+       style="stroke-width:1.71"
+       id="line7" />
+    <line
+       x1="488.69095"
+       y1="2750.6467"
+       x2="488.69095"
+       y2="2750.6467"
+       style="stroke-width:1.71"
+       id="line8" />
+    <line
+       x1="488.69095"
+       y1="2792.6667"
+       x2="488.69095"
+       y2="2792.6667"
+       style="stroke-width:1.71"
+       id="line9" />
+    <line
+       x1="502.07095"
+       y1="2729.6267"
+       x2="502.07095"
+       y2="2729.6267"
+       style="stroke-width:1.71"
+       id="line10" />
+    <line
+       x1="502.07095"
+       y1="2708.6167"
+       x2="502.07095"
+       y2="2708.6167"
+       style="stroke-width:1.71"
+       id="line11" />
+    <line
+       x1="515.37097"
+       y1="2687.6067"
+       x2="515.37097"
+       y2="2687.6067"
+       style="stroke-width:1.71"
+       id="line12" />
+    <line
+       x1="515.37097"
+       y1="2666.5867"
+       x2="515.37097"
+       y2="2666.5867"
+       style="stroke-width:1.71"
+       id="line13" />
+    <line
+       x1="584.61102"
+       y1="2519.4966"
+       x2="584.61102"
+       y2="2519.4966"
+       style="stroke-width:1.71"
+       id="line14" />
+    <line
+       x1="584.61102"
+       y1="2498.4766"
+       x2="584.61102"
+       y2="2498.4766"
+       style="stroke-width:1.71"
+       id="line15" />
+    <line
+       x1="584.61102"
+       y1="2540.5066"
+       x2="584.61102"
+       y2="2540.5066"
+       style="stroke-width:1.71"
+       id="line16" />
+    <line
+       x1="584.61102"
+       y1="2561.5166"
+       x2="584.61102"
+       y2="2561.5166"
+       style="stroke-width:1.71"
+       id="line17" />
+    <line
+       x1="584.61102"
+       y1="2582.5366"
+       x2="584.61102"
+       y2="2582.5366"
+       style="stroke-width:1.71"
+       id="line18" />
+    <line
+       x1="560.64099"
+       y1="2246.3167"
+       x2="560.64099"
+       y2="2246.3167"
+       style="stroke-width:1.71"
+       id="line19" />
+    <line
+       x1="560.64099"
+       y1="2225.2966"
+       x2="560.64099"
+       y2="2225.2966"
+       style="stroke-width:1.71"
+       id="line20" />
+    <line
+       x1="560.64099"
+       y1="2267.3267"
+       x2="560.64099"
+       y2="2267.3267"
+       style="stroke-width:1.71"
+       id="line21" />
+    <line
+       x1="558.28101"
+       y1="2288.3367"
+       x2="560.651"
+       y2="2288.3367"
+       style="stroke-width:1.71"
+       id="line22" />
+    <line
+       x1="568.03101"
+       y1="2330.3667"
+       x2="568.03101"
+       y2="2330.3667"
+       style="stroke-width:1.71"
+       id="line23" />
+    <line
+       x1="568.03101"
+       y1="2309.3567"
+       x2="568.03101"
+       y2="2309.3567"
+       style="stroke-width:1.71"
+       id="line24" />
+    <line
+       x1="550.44098"
+       y1="2351.3867"
+       x2="566.92102"
+       y2="2351.3867"
+       style="stroke-width:1.71"
+       id="line25" />
+    <line
+       x1="610.98102"
+       y1="2393.4067"
+       x2="610.98102"
+       y2="2393.4067"
+       style="stroke-width:1.71"
+       id="line26" />
+    <line
+       x1="610.98102"
+       y1="2372.3967"
+       x2="610.98102"
+       y2="2372.3967"
+       style="stroke-width:1.71"
+       id="line27" />
+    <line
+       x1="566.091"
+       y1="2435.4368"
+       x2="566.091"
+       y2="2435.4368"
+       style="stroke-width:1.71"
+       id="line28" />
+    <line
+       x1="566.091"
+       y1="2414.4268"
+       x2="566.091"
+       y2="2414.4268"
+       style="stroke-width:1.71"
+       id="line29" />
+    <line
+       x1="566.091"
+       y1="2456.4468"
+       x2="566.091"
+       y2="2456.4468"
+       style="stroke-width:1.71"
+       id="line30" />
+    <line
+       x1="500.14096"
+       y1="2477.4666"
+       x2="767.24103"
+       y2="2477.4666"
+       style="stroke-width:1.71"
+       id="line31" />
+    <line
+       x1="556.651"
+       y1="1657.9265"
+       x2="556.651"
+       y2="1657.9265"
+       style="stroke-width:1.71"
+       id="line32" />
+    <line
+       x1="556.651"
+       y1="1636.9165"
+       x2="556.651"
+       y2="1636.9165"
+       style="stroke-width:1.71"
+       id="line33" />
+    <line
+       x1="556.651"
+       y1="1678.9465"
+       x2="556.651"
+       y2="1678.9465"
+       style="stroke-width:1.71"
+       id="line34" />
+    <line
+       x1="556.651"
+       y1="1699.9565"
+       x2="556.651"
+       y2="1699.9565"
+       style="stroke-width:1.71"
+       id="line35" />
+    <line
+       x1="556.651"
+       y1="1720.9666"
+       x2="556.651"
+       y2="1720.9666"
+       style="stroke-width:1.71"
+       id="line36" />
+    <line
+       x1="556.651"
+       y1="1741.9866"
+       x2="556.651"
+       y2="1741.9866"
+       style="stroke-width:1.71"
+       id="line37" />
+    <line
+       x1="556.651"
+       y1="1762.9966"
+       x2="556.651"
+       y2="1762.9966"
+       style="stroke-width:1.71"
+       id="line38" />
+    <line
+       x1="556.651"
+       y1="1784.0066"
+       x2="556.651"
+       y2="1784.0066"
+       style="stroke-width:1.71"
+       id="line39" />
+    <line
+       x1="556.651"
+       y1="1805.0265"
+       x2="556.651"
+       y2="1805.0265"
+       style="stroke-width:1.71"
+       id="line40" />
+    <line
+       x1="556.651"
+       y1="1826.0365"
+       x2="556.651"
+       y2="1826.0365"
+       style="stroke-width:1.71"
+       id="line41" />
+    <line
+       x1="556.651"
+       y1="1847.0565"
+       x2="556.651"
+       y2="1847.0565"
+       style="stroke-width:1.71"
+       id="line42" />
+    <line
+       x1="556.651"
+       y1="1868.0665"
+       x2="556.651"
+       y2="1868.0665"
+       style="stroke-width:1.71"
+       id="line43" />
+    <line
+       x1="556.651"
+       y1="1889.0765"
+       x2="556.651"
+       y2="1889.0765"
+       style="stroke-width:1.71"
+       id="line44" />
+    <line
+       x1="556.651"
+       y1="1910.0966"
+       x2="556.651"
+       y2="1910.0966"
+       style="stroke-width:1.71"
+       id="line45" />
+    <line
+       x1="556.651"
+       y1="1931.1066"
+       x2="556.651"
+       y2="1931.1066"
+       style="stroke-width:1.71"
+       id="line46" />
+    <line
+       x1="556.651"
+       y1="1952.1166"
+       x2="556.651"
+       y2="1952.1166"
+       style="stroke-width:1.71"
+       id="line47" />
+    <line
+       x1="556.651"
+       y1="1973.1366"
+       x2="556.651"
+       y2="1973.1366"
+       style="stroke-width:1.71"
+       id="line48" />
+    <line
+       x1="668.47101"
+       y1="2015.1665"
+       x2="668.47101"
+       y2="2015.1665"
+       style="stroke-width:1.71"
+       id="line49" />
+    <line
+       x1="668.47101"
+       y1="1994.1466"
+       x2="668.47101"
+       y2="1994.1466"
+       style="stroke-width:1.71"
+       id="line50" />
+    <line
+       x1="668.47101"
+       y1="2036.1765"
+       x2="668.47101"
+       y2="2036.1765"
+       style="stroke-width:1.71"
+       id="line51" />
+    <line
+       x1="611.30103"
+       y1="2183.2766"
+       x2="611.30103"
+       y2="2183.2766"
+       style="stroke-width:1.71"
+       id="line52" />
+    <line
+       x1="611.30103"
+       y1="2162.2566"
+       x2="611.30103"
+       y2="2162.2566"
+       style="stroke-width:1.71"
+       id="line53" />
+    <line
+       x1="611.30103"
+       y1="2204.2866"
+       x2="611.30103"
+       y2="2204.2866"
+       style="stroke-width:1.71"
+       id="line54" />
+    <line
+       x1="653.211"
+       y1="2078.2068"
+       x2="653.211"
+       y2="2078.2068"
+       style="stroke-width:1.71"
+       id="line55" />
+    <line
+       x1="653.211"
+       y1="2057.1868"
+       x2="653.211"
+       y2="2057.1868"
+       style="stroke-width:1.71"
+       id="line56" />
+    <line
+       x1="653.211"
+       y1="2099.2166"
+       x2="653.211"
+       y2="2099.2166"
+       style="stroke-width:1.71"
+       id="line57" />
+    <line
+       x1="653.211"
+       y1="2120.2266"
+       x2="653.211"
+       y2="2120.2266"
+       style="stroke-width:1.71"
+       id="line58" />
+    <line
+       x1="653.211"
+       y1="2141.2466"
+       x2="653.211"
+       y2="2141.2466"
+       style="stroke-width:1.71"
+       id="line59" />
+    <line
+       x1="521.67102"
+       y1="2624.5566"
+       x2="521.67102"
+       y2="2624.5566"
+       style="stroke-width:1.71"
+       id="line60" />
+    <line
+       x1="521.67102"
+       y1="2603.5466"
+       x2="521.67102"
+       y2="2603.5466"
+       style="stroke-width:1.71"
+       id="line61" />
+    <line
+       x1="521.67102"
+       y1="2645.5767"
+       x2="521.67102"
+       y2="2645.5767"
+       style="stroke-width:1.71"
+       id="line62" />
+    <line
+       x1="459.11099"
+       y1="2834.6968"
+       x2="459.11099"
+       y2="2834.6968"
+       style="stroke-width:1.71"
+       id="line63" />
+    <line
+       x1="459.11099"
+       y1="2813.6868"
+       x2="459.11099"
+       y2="2813.6868"
+       style="stroke-width:1.71"
+       id="line64" />
+    <line
+       x1="459.11099"
+       y1="2855.7166"
+       x2="459.11099"
+       y2="2855.7166"
+       style="stroke-width:1.71"
+       id="line65" />
+    <line
+       x1="459.11099"
+       y1="2876.7266"
+       x2="459.11099"
+       y2="2876.7266"
+       style="stroke-width:1.71"
+       id="line66" />
+    <line
+       x1="459.11099"
+       y1="2897.7366"
+       x2="459.11099"
+       y2="2897.7366"
+       style="stroke-width:1.71"
+       id="line67" />
+    <line
+       x1="459.11099"
+       y1="2918.7566"
+       x2="459.11099"
+       y2="2918.7566"
+       style="stroke-width:1.71"
+       id="line68" />
+    <line
+       x1="459.11099"
+       y1="2939.7666"
+       x2="459.11099"
+       y2="2939.7666"
+       style="stroke-width:1.71"
+       id="line69" />
+    <line
+       x1="459.11099"
+       y1="2960.7766"
+       x2="459.11099"
+       y2="2960.7766"
+       style="stroke-width:1.71"
+       id="line70" />
+    <line
+       x1="459.11099"
+       y1="2981.7966"
+       x2="459.11099"
+       y2="2981.7966"
+       style="stroke-width:1.71"
+       id="line71" />
+    <line
+       x1="507.39096"
+       y1="1468.8065"
+       x2="507.39096"
+       y2="1468.8065"
+       style="stroke-width:1.71"
+       id="line72" />
+    <line
+       x1="507.39096"
+       y1="1447.7865"
+       x2="507.39096"
+       y2="1447.7865"
+       style="stroke-width:1.71"
+       id="line73" />
+    <line
+       x1="507.39096"
+       y1="1489.8165"
+       x2="507.39096"
+       y2="1489.8165"
+       style="stroke-width:1.71"
+       id="line74" />
+    <line
+       x1="507.39096"
+       y1="1510.8365"
+       x2="507.39096"
+       y2="1510.8365"
+       style="stroke-width:1.71"
+       id="line75" />
+    <line
+       x1="507.39096"
+       y1="1531.8466"
+       x2="507.39096"
+       y2="1531.8466"
+       style="stroke-width:1.71"
+       id="line76" />
+    <line
+       x1="507.39096"
+       y1="1573.8766"
+       x2="507.39096"
+       y2="1573.8766"
+       style="stroke-width:1.71"
+       id="line77" />
+    <line
+       x1="507.39096"
+       y1="1552.8566"
+       x2="507.39096"
+       y2="1552.8566"
+       style="stroke-width:1.71"
+       id="line78" />
+    <line
+       x1="507.39096"
+       y1="1594.8866"
+       x2="509.79099"
+       y2="1594.8866"
+       style="stroke-width:1.71"
+       id="line79" />
+    <line
+       x1="499.98099"
+       y1="1615.8966"
+       x2="504.77097"
+       y2="1615.8966"
+       style="stroke-width:1.71"
+       id="line80" />
+    <line
+       x1="696.94098"
+       y1="1384.7466"
+       x2="696.94098"
+       y2="1384.7466"
+       style="stroke-width:1.71"
+       id="line81" />
+    <line
+       x1="696.94098"
+       y1="1363.7366"
+       x2="696.94098"
+       y2="1363.7366"
+       style="stroke-width:1.71"
+       id="line82" />
+    <line
+       x1="696.94098"
+       y1="1405.7666"
+       x2="696.94098"
+       y2="1405.7666"
+       style="stroke-width:1.71"
+       id="line83" />
+    <line
+       x1="675.53101"
+       y1="1426.7765"
+       x2="698.521"
+       y2="1426.7765"
+       style="stroke-width:1.71"
+       id="line84" />
+    <line
+       x1="659.89099"
+       y1="1300.6965"
+       x2="659.89099"
+       y2="1300.6965"
+       style="stroke-width:1.71"
+       id="line85" />
+    <line
+       x1="659.89099"
+       y1="1279.6765"
+       x2="664.771"
+       y2="1279.6765"
+       style="stroke-width:1.71"
+       id="line86" />
+    <line
+       x1="685.60101"
+       y1="880.41663"
+       x2="685.60101"
+       y2="880.41663"
+       style="stroke-width:1.71"
+       id="line87" />
+    <line
+       x1="685.60101"
+       y1="859.40662"
+       x2="685.60101"
+       y2="859.40662"
+       style="stroke-width:1.71"
+       id="line88" />
+    <line
+       x1="685.60101"
+       y1="901.43658"
+       x2="685.60101"
+       y2="901.43658"
+       style="stroke-width:1.71"
+       id="line89" />
+    <line
+       x1="685.60101"
+       y1="922.44659"
+       x2="685.60101"
+       y2="922.44659"
+       style="stroke-width:1.71"
+       id="line90" />
+    <line
+       x1="685.60101"
+       y1="943.4566"
+       x2="685.60101"
+       y2="943.4566"
+       style="stroke-width:1.71"
+       id="line91" />
+    <line
+       x1="685.60101"
+       y1="964.47662"
+       x2="685.60101"
+       y2="964.47662"
+       style="stroke-width:1.71"
+       id="line92" />
+    <line
+       x1="685.60101"
+       y1="985.48663"
+       x2="685.60101"
+       y2="985.48663"
+       style="stroke-width:1.71"
+       id="line93" />
+    <line
+       x1="685.60101"
+       y1="1006.5066"
+       x2="685.60101"
+       y2="1006.5066"
+       style="stroke-width:1.71"
+       id="line94" />
+    <line
+       x1="685.60101"
+       y1="1027.5166"
+       x2="685.60101"
+       y2="1027.5166"
+       style="stroke-width:1.71"
+       id="line95" />
+    <line
+       x1="685.60101"
+       y1="1048.5265"
+       x2="685.60101"
+       y2="1048.5265"
+       style="stroke-width:1.71"
+       id="line96" />
+    <line
+       x1="685.60101"
+       y1="1069.5465"
+       x2="685.60101"
+       y2="1069.5465"
+       style="stroke-width:1.71"
+       id="line97" />
+    <line
+       x1="685.60101"
+       y1="1090.5565"
+       x2="685.60101"
+       y2="1090.5565"
+       style="stroke-width:1.71"
+       id="line98" />
+    <line
+       x1="690.88098"
+       y1="1132.5865"
+       x2="690.88098"
+       y2="1132.5865"
+       style="stroke-width:1.71"
+       id="line99" />
+    <line
+       x1="690.88098"
+       y1="1111.5665"
+       x2="690.88098"
+       y2="1111.5665"
+       style="stroke-width:1.71"
+       id="line100" />
+    <line
+       x1="690.88098"
+       y1="1153.5966"
+       x2="690.88098"
+       y2="1153.5966"
+       style="stroke-width:1.71"
+       id="line101" />
+    <line
+       x1="690.88098"
+       y1="1174.6166"
+       x2="690.88098"
+       y2="1174.6166"
+       style="stroke-width:1.71"
+       id="line102" />
+    <line
+       x1="690.88098"
+       y1="1195.6266"
+       x2="690.88098"
+       y2="1195.6266"
+       style="stroke-width:1.71"
+       id="line103" />
+    <line
+       x1="690.88098"
+       y1="1216.6366"
+       x2="690.88098"
+       y2="1216.6366"
+       style="stroke-width:1.71"
+       id="line104" />
+    <line
+       x1="690.87097"
+       y1="1237.6565"
+       x2="690.88098"
+       y2="1237.6565"
+       style="stroke-width:1.71"
+       id="line105" />
+    <line
+       x1="571.61102"
+       y1="1258.6665"
+       x2="636.66101"
+       y2="1258.6665"
+       style="stroke-width:1.71"
+       id="line106" />
+    <line
+       x1="698.41101"
+       y1="1342.7266"
+       x2="698.41101"
+       y2="1342.7266"
+       style="stroke-width:1.71"
+       id="line107" />
+    <line
+       x1="698.41101"
+       y1="1321.7065"
+       x2="698.41101"
+       y2="1321.7065"
+       style="stroke-width:1.71"
+       id="line108" />
+    <line
+       x1="402.83096"
+       y1="838.39661"
+       x2="466.43094"
+       y2="838.39661"
+       style="stroke-width:1.71"
+       id="line109" />
+    <line
+       x1="481.76096"
+       y1="607.23663"
+       x2="481.76096"
+       y2="607.23663"
+       style="stroke-width:1.71"
+       id="line110" />
+    <line
+       x1="481.76096"
+       y1="586.22662"
+       x2="481.76096"
+       y2="586.22662"
+       style="stroke-width:1.71"
+       id="line111" />
+    <line
+       x1="484.12094"
+       y1="544.19659"
+       x2="484.12094"
+       y2="544.19659"
+       style="stroke-width:1.71"
+       id="line112" />
+    <line
+       x1="498.44095"
+       y1="186.96658"
+       x2="498.44095"
+       y2="186.96658"
+       style="stroke-width:1.71"
+       id="line113" />
+    <line
+       x1="498.44095"
+       y1="165.95657"
+       x2="498.44095"
+       y2="165.95657"
+       style="stroke-width:1.71"
+       id="line114" />
+    <line
+       x1="498.44095"
+       y1="207.97658"
+       x2="498.44095"
+       y2="207.97658"
+       style="stroke-width:1.71"
+       id="line115" />
+    <line
+       x1="498.44095"
+       y1="228.99658"
+       x2="498.44095"
+       y2="228.99658"
+       style="stroke-width:1.71"
+       id="line116" />
+    <line
+       x1="498.44095"
+       y1="271.01657"
+       x2="498.44095"
+       y2="271.01657"
+       style="stroke-width:1.71"
+       id="line117" />
+    <line
+       x1="498.44095"
+       y1="250.00658"
+       x2="498.44095"
+       y2="250.00658"
+       style="stroke-width:1.71"
+       id="line118" />
+    <line
+       x1="500.80099"
+       y1="102.90659"
+       x2="500.80099"
+       y2="102.90659"
+       style="stroke-width:1.71"
+       id="line119" />
+    <line
+       x1="500.80099"
+       y1="81.896584"
+       x2="500.81094"
+       y2="81.896584"
+       style="stroke-width:1.71"
+       id="line120" />
+    <line
+       x1="500.81094"
+       y1="60.886585"
+       x2="500.81094"
+       y2="60.886585"
+       style="stroke-width:1.71"
+       id="line121" />
+    <line
+       x1="500.81094"
+       y1="39.866585"
+       x2="500.81094"
+       y2="39.866585"
+       style="stroke-width:1.71"
+       id="line122" />
+    <line
+       x1="500.80099"
+       y1="123.92658"
+       x2="500.80099"
+       y2="123.92658"
+       style="stroke-width:1.71"
+       id="line123" />
+    <line
+       x1="500.80099"
+       y1="144.93658"
+       x2="500.80099"
+       y2="144.93658"
+       style="stroke-width:1.71"
+       id="line124" />
+    <line
+       x1="493.55099"
+       y1="313.04657"
+       x2="493.55099"
+       y2="313.04657"
+       style="stroke-width:1.71"
+       id="line125" />
+    <line
+       x1="493.55099"
+       y1="292.03659"
+       x2="493.55099"
+       y2="292.03659"
+       style="stroke-width:1.71"
+       id="line126" />
+    <line
+       x1="493.55099"
+       y1="334.06659"
+       x2="493.55099"
+       y2="334.06659"
+       style="stroke-width:1.71"
+       id="line127" />
+    <line
+       x1="493.55099"
+       y1="355.07657"
+       x2="493.55099"
+       y2="355.07657"
+       style="stroke-width:1.71"
+       id="line128" />
+    <line
+       x1="493.55099"
+       y1="397.10657"
+       x2="493.55099"
+       y2="397.10657"
+       style="stroke-width:1.71"
+       id="line129" />
+    <line
+       x1="493.55099"
+       y1="376.08658"
+       x2="493.55099"
+       y2="376.08658"
+       style="stroke-width:1.71"
+       id="line130" />
+    <line
+       x1="493.55099"
+       y1="418.11658"
+       x2="493.55099"
+       y2="418.11658"
+       style="stroke-width:1.71"
+       id="line131" />
+    <line
+       x1="493.55099"
+       y1="439.12659"
+       x2="493.55099"
+       y2="439.12659"
+       style="stroke-width:1.71"
+       id="line132" />
+    <line
+       x1="493.54099"
+       y1="460.14658"
+       x2="493.54099"
+       y2="460.14658"
+       style="stroke-width:1.71"
+       id="line133" />
+    <line
+       x1="488.90097"
+       y1="481.15659"
+       x2="488.90097"
+       y2="481.15659"
+       style="stroke-width:1.71"
+       id="line134" />
+    <line
+       x1="484.12094"
+       y1="523.18658"
+       x2="486.47098"
+       y2="523.18658"
+       style="stroke-width:1.71"
+       id="line135" />
+    <line
+       x1="484.12094"
+       y1="502.17657"
+       x2="484.12094"
+       y2="502.17657"
+       style="stroke-width:1.71"
+       id="line136" />
+    <line
+       x1="481.76096"
+       y1="565.21661"
+       x2="481.76096"
+       y2="565.21661"
+       style="stroke-width:1.71"
+       id="line137" />
+    <line
+       x1="481.76096"
+       y1="649.2666"
+       x2="484.10098"
+       y2="649.2666"
+       style="stroke-width:1.71"
+       id="line138" />
+    <line
+       x1="481.76096"
+       y1="628.25659"
+       x2="481.76096"
+       y2="628.25659"
+       style="stroke-width:1.71"
+       id="line139" />
+    <line
+       x1="481.76096"
+       y1="670.28662"
+       x2="481.76096"
+       y2="670.28662"
+       style="stroke-width:1.71"
+       id="line140" />
+    <line
+       x1="480.29099"
+       y1="817.37659"
+       x2="480.29099"
+       y2="817.37659"
+       style="stroke-width:1.71"
+       id="line141" />
+    <line
+       x1="482.62094"
+       y1="775.34662"
+       x2="482.63095"
+       y2="775.34662"
+       style="stroke-width:1.71"
+       id="line142" />
+    <line
+       x1="482.63095"
+       y1="754.33661"
+       x2="482.63095"
+       y2="754.33661"
+       style="stroke-width:1.71"
+       id="line143" />
+    <line
+       x1="483.46097"
+       y1="712.30658"
+       x2="485.36099"
+       y2="712.30658"
+       style="stroke-width:1.71"
+       id="line144" />
+    <line
+       x1="483.46097"
+       y1="691.29663"
+       x2="492.09097"
+       y2="691.29663"
+       style="stroke-width:1.71"
+       id="line145" />
+    <line
+       x1="482.63095"
+       y1="733.3266"
+       x2="482.63095"
+       y2="733.3266"
+       style="stroke-width:1.71"
+       id="line146" />
+    <line
+       x1="480.29099"
+       y1="796.36664"
+       x2="480.29099"
+       y2="796.36664"
+       style="stroke-width:1.71"
+       id="line147" />
+    <line
+       x1="724.48102"
+       y1="3212.9468"
+       x2="735.62097"
+       y2="3212.9468"
+       style="stroke-width:1.71"
+       id="line148" />
+    <line
+       x1="758.19098"
+       y1="3191.9368"
+       x2="847.74103"
+       y2="3191.9368"
+       style="stroke-width:1.71"
+       id="line149" />
+    <line
+       x1="815.78101"
+       y1="3170.9167"
+       x2="815.78101"
+       y2="3170.9167"
+       style="stroke-width:1.71"
+       id="line150" />
+    <line
+       x1="815.78101"
+       y1="3149.9067"
+       x2="820.74103"
+       y2="3149.9067"
+       style="stroke-width:1.71"
+       id="line151" />
+    <line
+       x1="90.420975"
+       y1="3233.9568"
+       x2="324.44098"
+       y2="3233.9568"
+       style="stroke-width:1.71"
+       id="line152" />
+    <line
+       x1="497.71097"
+       y1="3107.8767"
+       x2="497.71097"
+       y2="3107.8767"
+       style="stroke-width:1.71"
+       id="line153" />
+    <line
+       x1="497.71097"
+       y1="3086.8667"
+       x2="497.71097"
+       y2="3086.8667"
+       style="stroke-width:1.71"
+       id="line154" />
+    <line
+       x1="497.71097"
+       y1="3128.8867"
+       x2="497.71097"
+       y2="3128.8867"
+       style="stroke-width:1.71"
+       id="line155" />
+    <line
+       x1="518.28101"
+       y1="3023.8267"
+       x2="518.28101"
+       y2="3023.8267"
+       style="stroke-width:1.71"
+       id="line156" />
+    <line
+       x1="518.28101"
+       y1="3002.8066"
+       x2="518.28101"
+       y2="3002.8066"
+       style="stroke-width:1.71"
+       id="line157" />
+    <line
+       x1="492.48099"
+       y1="3044.8367"
+       x2="497.25095"
+       y2="3044.8367"
+       style="stroke-width:1.71"
+       id="line158" />
+    <line
+       x1="73.560974"
+       y1="3088.8567"
+       x2="73.560974"
+       y2="3088.8567"
+       style="stroke-width:1.71"
+       id="line159" />
+    <line
+       x1="73.560974"
+       y1="2922.7366"
+       x2="90.420975"
+       y2="2922.7366"
+       style="stroke-width:1.71"
+       id="line160" />
+    <line
+       x1="90.420975"
+       y1="2611.5166"
+       x2="90.420975"
+       y2="2611.5166"
+       style="stroke-width:1.71"
+       id="line161" />
+    <line
+       x1="90.420975"
+       y1="2028.4866"
+       x2="224.07095"
+       y2="2028.4866"
+       style="stroke-width:1.71"
+       id="line162" />
+    <line
+       x1="224.07095"
+       y1="2936.9568"
+       x2="271.80096"
+       y2="2936.9568"
+       style="stroke-width:1.71"
+       id="line163" />
+    <line
+       x1="271.80096"
+       y1="3080.2966"
+       x2="300.69098"
+       y2="3080.2966"
+       style="stroke-width:1.71"
+       id="line164" />
+    <line
+       x1="300.69098"
+       y1="3047.4666"
+       x2="351.71097"
+       y2="3047.4666"
+       style="stroke-width:1.71"
+       id="line165" />
+    <line
+       x1="351.71097"
+       y1="3029.0767"
+       x2="492.48099"
+       y2="3029.0767"
+       style="stroke-width:1.71"
+       id="line166" />
+    <line
+       x1="492.48099"
+       y1="3013.3167"
+       x2="518.28101"
+       y2="3013.3167"
+       style="stroke-width:1.71"
+       id="line167" />
+    <line
+       x1="300.69098"
+       y1="3113.1267"
+       x2="497.71097"
+       y2="3113.1267"
+       style="stroke-width:1.71"
+       id="line168" />
+    <line
+       x1="497.71097"
+       y1="3097.3667"
+       x2="497.71097"
+       y2="3097.3667"
+       style="stroke-width:1.71"
+       id="line169" />
+    <line
+       x1="271.80096"
+       y1="2793.6067"
+       x2="408.66098"
+       y2="2793.6067"
+       style="stroke-width:1.71"
+       id="line170" />
+    <line
+       x1="408.66098"
+       y1="2626.3567"
+       x2="408.66098"
+       y2="2626.3567"
+       style="stroke-width:1.71"
+       id="line171" />
+    <line
+       x1="408.66098"
+       y1="2737.5066"
+       x2="448.80099"
+       y2="2737.5066"
+       style="stroke-width:1.71"
+       id="line172" />
+    <line
+       x1="448.80099"
+       y1="2776.9067"
+       x2="488.69095"
+       y2="2776.9067"
+       style="stroke-width:1.71"
+       id="line173" />
+    <line
+       x1="488.69095"
+       y1="2761.1467"
+       x2="488.69095"
+       y2="2761.1467"
+       style="stroke-width:1.71"
+       id="line174" />
+    <line
+       x1="448.80099"
+       y1="2698.1067"
+       x2="463.41098"
+       y2="2698.1067"
+       style="stroke-width:1.71"
+       id="line175" />
+    <line
+       x1="463.41098"
+       y1="2719.1267"
+       x2="502.07095"
+       y2="2719.1267"
+       style="stroke-width:1.71"
+       id="line176" />
+    <line
+       x1="463.41098"
+       y1="2677.0967"
+       x2="515.37097"
+       y2="2677.0967"
+       style="stroke-width:1.71"
+       id="line177" />
+    <line
+       x1="408.66098"
+       y1="2515.2068"
+       x2="434.56094"
+       y2="2515.2068"
+       style="stroke-width:1.71"
+       id="line178" />
+    <line
+       x1="434.56094"
+       y1="2400.5967"
+       x2="446.20096"
+       y2="2400.5967"
+       style="stroke-width:1.71"
+       id="line179" />
+    <line
+       x1="446.20096"
+       y1="2562.8367"
+       x2="584.61102"
+       y2="2562.8367"
+       style="stroke-width:1.71"
+       id="line180" />
+    <line
+       x1="584.61102"
+       y1="2543.1367"
+       x2="584.61102"
+       y2="2543.1367"
+       style="stroke-width:1.71"
+       id="line181" />
+    <line
+       x1="584.61102"
+       y1="2524.7466"
+       x2="584.61102"
+       y2="2524.7466"
+       style="stroke-width:1.71"
+       id="line182" />
+    <line
+       x1="584.61102"
+       y1="2508.9866"
+       x2="584.61102"
+       y2="2508.9866"
+       style="stroke-width:1.71"
+       id="line183" />
+    <line
+       x1="446.20096"
+       y1="2238.3467"
+       x2="459.56094"
+       y2="2238.3467"
+       style="stroke-width:1.71"
+       id="line184" />
+    <line
+       x1="459.56094"
+       y1="2406.0466"
+       x2="481.44095"
+       y2="2406.0466"
+       style="stroke-width:1.71"
+       id="line185" />
+    <line
+       x1="481.44095"
+       y1="2353.0266"
+       x2="504.33096"
+       y2="2353.0266"
+       style="stroke-width:1.71"
+       id="line186" />
+    <line
+       x1="504.33096"
+       y1="2323.1467"
+       x2="550.44098"
+       y2="2323.1467"
+       style="stroke-width:1.71"
+       id="line187" />
+    <line
+       x1="550.44098"
+       y1="2294.9067"
+       x2="558.28101"
+       y2="2294.9067"
+       style="stroke-width:1.71"
+       id="line188" />
+    <line
+       x1="558.28101"
+       y1="2269.9568"
+       x2="558.28101"
+       y2="2269.9568"
+       style="stroke-width:1.71"
+       id="line189" />
+    <line
+       x1="558.28101"
+       y1="2251.5667"
+       x2="560.64099"
+       y2="2251.5667"
+       style="stroke-width:1.71"
+       id="line190" />
+    <line
+       x1="560.64099"
+       y1="2235.8066"
+       x2="560.64099"
+       y2="2235.8066"
+       style="stroke-width:1.71"
+       id="line191" />
+    <line
+       x1="558.28101"
+       y1="2319.8567"
+       x2="568.03101"
+       y2="2319.8567"
+       style="stroke-width:1.71"
+       id="line192" />
+    <line
+       x1="504.33096"
+       y1="2382.9067"
+       x2="610.98102"
+       y2="2382.9067"
+       style="stroke-width:1.71"
+       id="line193" />
+    <line
+       x1="481.44095"
+       y1="2459.0767"
+       x2="500.14096"
+       y2="2459.0767"
+       style="stroke-width:1.71"
+       id="line194" />
+    <line
+       x1="500.14096"
+       y1="2440.6868"
+       x2="566.091"
+       y2="2440.6868"
+       style="stroke-width:1.71"
+       id="line195" />
+    <line
+       x1="566.091"
+       y1="2424.9268"
+       x2="566.091"
+       y2="2424.9268"
+       style="stroke-width:1.71"
+       id="line196" />
+    <line
+       x1="459.56094"
+       y1="2070.6467"
+       x2="475.32095"
+       y2="2070.6467"
+       style="stroke-width:1.71"
+       id="line197" />
+    <line
+       x1="475.32095"
+       y1="1986.2666"
+       x2="493.65097"
+       y2="1986.2666"
+       style="stroke-width:1.71"
+       id="line198" />
+    <line
+       x1="493.65097"
+       y1="1952.1166"
+       x2="556.651"
+       y2="1952.1166"
+       style="stroke-width:1.71"
+       id="line199" />
+    <line
+       x1="556.651"
+       y1="1931.1066"
+       x2="556.651"
+       y2="1931.1066"
+       style="stroke-width:1.71"
+       id="line200" />
+    <line
+       x1="556.651"
+       y1="1910.0966"
+       x2="556.651"
+       y2="1910.0966"
+       style="stroke-width:1.71"
+       id="line201" />
+    <line
+       x1="556.651"
+       y1="1889.0865"
+       x2="556.651"
+       y2="1889.0865"
+       style="stroke-width:1.71"
+       id="line202" />
+    <line
+       x1="556.651"
+       y1="1868.0665"
+       x2="556.651"
+       y2="1868.0665"
+       style="stroke-width:1.71"
+       id="line203" />
+    <line
+       x1="556.651"
+       y1="1847.0665"
+       x2="556.651"
+       y2="1847.0665"
+       style="stroke-width:1.71"
+       id="line204" />
+    <line
+       x1="556.651"
+       y1="1826.0565"
+       x2="556.651"
+       y2="1826.0565"
+       style="stroke-width:1.71"
+       id="line205" />
+    <line
+       x1="556.651"
+       y1="1805.0665"
+       x2="556.651"
+       y2="1805.0665"
+       style="stroke-width:1.71"
+       id="line206" />
+    <line
+       x1="556.651"
+       y1="1784.0966"
+       x2="556.651"
+       y2="1784.0966"
+       style="stroke-width:1.71"
+       id="line207" />
+    <line
+       x1="556.651"
+       y1="1763.1565"
+       x2="556.651"
+       y2="1763.1565"
+       style="stroke-width:1.71"
+       id="line208" />
+    <line
+       x1="556.651"
+       y1="1742.3165"
+       x2="556.651"
+       y2="1742.3165"
+       style="stroke-width:1.71"
+       id="line209" />
+    <line
+       x1="556.651"
+       y1="1721.6266"
+       x2="556.651"
+       y2="1721.6266"
+       style="stroke-width:1.71"
+       id="line210" />
+    <line
+       x1="556.651"
+       y1="1701.2666"
+       x2="556.651"
+       y2="1701.2666"
+       style="stroke-width:1.71"
+       id="line211" />
+    <line
+       x1="556.651"
+       y1="1681.5665"
+       x2="556.651"
+       y2="1681.5665"
+       style="stroke-width:1.71"
+       id="line212" />
+    <line
+       x1="556.651"
+       y1="1663.1865"
+       x2="556.651"
+       y2="1663.1865"
+       style="stroke-width:1.71"
+       id="line213" />
+    <line
+       x1="556.651"
+       y1="1647.4165"
+       x2="556.651"
+       y2="1647.4165"
+       style="stroke-width:1.71"
+       id="line214" />
+    <line
+       x1="493.65097"
+       y1="2020.4165"
+       x2="668.47101"
+       y2="2020.4165"
+       style="stroke-width:1.71"
+       id="line215" />
+    <line
+       x1="668.47101"
+       y1="2004.6565"
+       x2="668.47101"
+       y2="2004.6565"
+       style="stroke-width:1.71"
+       id="line216" />
+    <line
+       x1="475.32095"
+       y1="2155.0366"
+       x2="525.74103"
+       y2="2155.0366"
+       style="stroke-width:1.71"
+       id="line217" />
+    <line
+       x1="525.74103"
+       y1="2188.5266"
+       x2="611.30103"
+       y2="2188.5266"
+       style="stroke-width:1.71"
+       id="line218" />
+    <line
+       x1="611.30103"
+       y1="2172.7666"
+       x2="611.30103"
+       y2="2172.7666"
+       style="stroke-width:1.71"
+       id="line219" />
+    <line
+       x1="525.74103"
+       y1="2121.5466"
+       x2="653.211"
+       y2="2121.5466"
+       style="stroke-width:1.71"
+       id="line220" />
+    <line
+       x1="653.211"
+       y1="2101.8467"
+       x2="653.211"
+       y2="2101.8467"
+       style="stroke-width:1.71"
+       id="line221" />
+    <line
+       x1="653.211"
+       y1="2083.4568"
+       x2="653.211"
+       y2="2083.4568"
+       style="stroke-width:1.71"
+       id="line222" />
+    <line
+       x1="653.211"
+       y1="2067.6968"
+       x2="653.211"
+       y2="2067.6968"
+       style="stroke-width:1.71"
+       id="line223" />
+    <line
+       x1="434.56094"
+       y1="2629.8167"
+       x2="521.67102"
+       y2="2629.8167"
+       style="stroke-width:1.71"
+       id="line224" />
+    <line
+       x1="521.67102"
+       y1="2614.0566"
+       x2="521.67102"
+       y2="2614.0566"
+       style="stroke-width:1.71"
+       id="line225" />
+    <line
+       x1="408.66098"
+       y1="2960.8667"
+       x2="459.11099"
+       y2="2960.8667"
+       style="stroke-width:1.71"
+       id="line226" />
+    <line
+       x1="459.11099"
+       y1="2939.9268"
+       x2="459.11099"
+       y2="2939.9268"
+       style="stroke-width:1.71"
+       id="line227" />
+    <line
+       x1="459.11099"
+       y1="2919.0767"
+       x2="459.11099"
+       y2="2919.0767"
+       style="stroke-width:1.71"
+       id="line228" />
+    <line
+       x1="459.11099"
+       y1="2898.3967"
+       x2="459.11099"
+       y2="2898.3967"
+       style="stroke-width:1.71"
+       id="line229" />
+    <line
+       x1="459.11099"
+       y1="2878.0366"
+       x2="459.11099"
+       y2="2878.0366"
+       style="stroke-width:1.71"
+       id="line230" />
+    <line
+       x1="459.11099"
+       y1="2858.3367"
+       x2="459.11099"
+       y2="2858.3367"
+       style="stroke-width:1.71"
+       id="line231" />
+    <line
+       x1="459.11099"
+       y1="2839.9468"
+       x2="459.11099"
+       y2="2839.9468"
+       style="stroke-width:1.71"
+       id="line232" />
+    <line
+       x1="459.11099"
+       y1="2824.1868"
+       x2="459.11099"
+       y2="2824.1868"
+       style="stroke-width:1.71"
+       id="line233" />
+    <line
+       x1="224.07095"
+       y1="1120.0166"
+       x2="269.26096"
+       y2="1120.0166"
+       style="stroke-width:1.71"
+       id="line234" />
+    <line
+       x1="269.26096"
+       y1="1469.8766"
+       x2="384.05096"
+       y2="1469.8766"
+       style="stroke-width:1.71"
+       id="line235" />
+    <line
+       x1="384.05096"
+       y1="1591.1066"
+       x2="499.98099"
+       y2="1591.1066"
+       style="stroke-width:1.71"
+       id="line236" />
+    <line
+       x1="499.98099"
+       y1="1566.3165"
+       x2="507.39096"
+       y2="1566.3165"
+       style="stroke-width:1.71"
+       id="line237" />
+    <line
+       x1="507.39096"
+       y1="1537.7566"
+       x2="507.39096"
+       y2="1537.7566"
+       style="stroke-width:1.71"
+       id="line238" />
+    <line
+       x1="507.39096"
+       y1="1512.1466"
+       x2="507.39096"
+       y2="1512.1466"
+       style="stroke-width:1.71"
+       id="line239" />
+    <line
+       x1="507.39096"
+       y1="1492.4465"
+       x2="507.39096"
+       y2="1492.4465"
+       style="stroke-width:1.71"
+       id="line240" />
+    <line
+       x1="507.39096"
+       y1="1474.0565"
+       x2="507.39096"
+       y2="1474.0565"
+       style="stroke-width:1.71"
+       id="line241" />
+    <line
+       x1="507.39096"
+       y1="1458.2965"
+       x2="507.39096"
+       y2="1458.2965"
+       style="stroke-width:1.71"
+       id="line242" />
+    <line
+       x1="507.39096"
+       y1="1563.3666"
+       x2="507.39096"
+       y2="1563.3666"
+       style="stroke-width:1.71"
+       id="line243" />
+    <line
+       x1="384.05096"
+       y1="1348.6466"
+       x2="418.53098"
+       y2="1348.6466"
+       style="stroke-width:1.71"
+       id="line244" />
+    <line
+       x1="418.53098"
+       y1="1408.3866"
+       x2="675.53101"
+       y2="1408.3866"
+       style="stroke-width:1.71"
+       id="line245" />
+    <line
+       x1="675.53101"
+       y1="1390.0066"
+       x2="696.94098"
+       y2="1390.0066"
+       style="stroke-width:1.71"
+       id="line246" />
+    <line
+       x1="696.94098"
+       y1="1374.2466"
+       x2="696.94098"
+       y2="1374.2466"
+       style="stroke-width:1.71"
+       id="line247" />
+    <line
+       x1="418.53098"
+       y1="1288.8966"
+       x2="511.60098"
+       y2="1288.8966"
+       style="stroke-width:1.71"
+       id="line248" />
+    <line
+       x1="511.60098"
+       y1="1245.5765"
+       x2="560.521"
+       y2="1245.5765"
+       style="stroke-width:1.71"
+       id="line249" />
+    <line
+       x1="560.521"
+       y1="1290.1865"
+       x2="659.89099"
+       y2="1290.1865"
+       style="stroke-width:1.71"
+       id="line250" />
+    <line
+       x1="560.521"
+       y1="1200.9666"
+       x2="571.61102"
+       y2="1200.9666"
+       style="stroke-width:1.71"
+       id="line251" />
+    <line
+       x1="571.61102"
+       y1="1143.2566"
+       x2="682.08099"
+       y2="1143.2566"
+       style="stroke-width:1.71"
+       id="line252" />
+    <line
+       x1="682.08099"
+       y1="1069.5565"
+       x2="685.60101"
+       y2="1069.5565"
+       style="stroke-width:1.71"
+       id="line253" />
+    <line
+       x1="685.60101"
+       y1="1048.5465"
+       x2="685.60101"
+       y2="1048.5465"
+       style="stroke-width:1.71"
+       id="line254" />
+    <line
+       x1="685.60101"
+       y1="1027.5565"
+       x2="685.60101"
+       y2="1027.5565"
+       style="stroke-width:1.71"
+       id="line255" />
+    <line
+       x1="685.60101"
+       y1="1006.5866"
+       x2="685.60101"
+       y2="1006.5866"
+       style="stroke-width:1.71"
+       id="line256" />
+    <line
+       x1="685.60101"
+       y1="985.65662"
+       x2="685.60101"
+       y2="985.65662"
+       style="stroke-width:1.71"
+       id="line257" />
+    <line
+       x1="685.60101"
+       y1="964.80658"
+       x2="685.60101"
+       y2="964.80658"
+       style="stroke-width:1.71"
+       id="line258" />
+    <line
+       x1="685.60101"
+       y1="944.11664"
+       x2="685.60101"
+       y2="944.11664"
+       style="stroke-width:1.71"
+       id="line259" />
+    <line
+       x1="685.60101"
+       y1="923.75659"
+       x2="685.60101"
+       y2="923.75659"
+       style="stroke-width:1.71"
+       id="line260" />
+    <line
+       x1="685.60101"
+       y1="904.05658"
+       x2="685.60101"
+       y2="904.05658"
+       style="stroke-width:1.71"
+       id="line261" />
+    <line
+       x1="685.60101"
+       y1="885.67664"
+       x2="685.60101"
+       y2="885.67664"
+       style="stroke-width:1.71"
+       id="line262" />
+    <line
+       x1="685.60101"
+       y1="869.91663"
+       x2="685.60101"
+       y2="869.91663"
+       style="stroke-width:1.71"
+       id="line263" />
+    <line
+       x1="682.08099"
+       y1="1216.9666"
+       x2="690.87097"
+       y2="1216.9666"
+       style="stroke-width:1.71"
+       id="line264" />
+    <line
+       x1="690.87097"
+       y1="1196.2865"
+       x2="690.88098"
+       y2="1196.2865"
+       style="stroke-width:1.71"
+       id="line265" />
+    <line
+       x1="690.88098"
+       y1="1175.9265"
+       x2="690.88098"
+       y2="1175.9265"
+       style="stroke-width:1.71"
+       id="line266" />
+    <line
+       x1="690.88098"
+       y1="1156.2266"
+       x2="690.88098"
+       y2="1156.2266"
+       style="stroke-width:1.71"
+       id="line267" />
+    <line
+       x1="690.88098"
+       y1="1137.8365"
+       x2="690.88098"
+       y2="1137.8365"
+       style="stroke-width:1.71"
+       id="line268" />
+    <line
+       x1="690.88098"
+       y1="1122.0765"
+       x2="690.88098"
+       y2="1122.0765"
+       style="stroke-width:1.71"
+       id="line269" />
+    <line
+       x1="511.60098"
+       y1="1332.2166"
+       x2="698.41101"
+       y2="1332.2166"
+       style="stroke-width:1.71"
+       id="line270" />
+    <line
+       x1="269.26096"
+       y1="770.14661"
+       x2="402.83096"
+       y2="770.14661"
+       style="stroke-width:1.71"
+       id="line271" />
+    <line
+       x1="402.83096"
+       y1="701.90662"
+       x2="477.48099"
+       y2="701.90662"
+       style="stroke-width:1.71"
+       id="line272" />
+    <line
+       x1="477.48099"
+       y1="607.11664"
+       x2="481.76096"
+       y2="607.11664"
+       style="stroke-width:1.71"
+       id="line273" />
+    <line
+       x1="481.76096"
+       y1="559.71661"
+       x2="481.76096"
+       y2="559.71661"
+       style="stroke-width:1.71"
+       id="line274" />
+    <line
+       x1="481.76096"
+       y1="596.73663"
+       x2="481.76096"
+       y2="596.73663"
+       style="stroke-width:1.71"
+       id="line275" />
+    <line
+       x1="481.76096"
+       y1="522.69659"
+       x2="481.76096"
+       y2="522.69659"
+       style="stroke-width:1.71"
+       id="line276" />
+    <line
+       x1="481.76096"
+       y1="480.18658"
+       x2="484.12094"
+       y2="480.18658"
+       style="stroke-width:1.71"
+       id="line277" />
+    <line
+       x1="484.12094"
+       y1="416.16656"
+       x2="484.12094"
+       y2="416.16656"
+       style="stroke-width:1.71"
+       id="line278" />
+    <line
+       x1="484.12094"
+       y1="319.65659"
+       x2="488.90097"
+       y2="319.65659"
+       style="stroke-width:1.71"
+       id="line279" />
+    <line
+       x1="488.90097"
+       y1="180.06657"
+       x2="498.44095"
+       y2="180.06657"
+       style="stroke-width:1.71"
+       id="line280" />
+    <line
+       x1="498.44095"
+       y1="235.55658"
+       x2="498.44095"
+       y2="235.55658"
+       style="stroke-width:1.71"
+       id="line281" />
+    <line
+       x1="498.44095"
+       y1="210.60658"
+       x2="498.44095"
+       y2="210.60658"
+       style="stroke-width:1.71"
+       id="line282" />
+    <line
+       x1="498.44095"
+       y1="192.21658"
+       x2="498.44095"
+       y2="192.21658"
+       style="stroke-width:1.71"
+       id="line283" />
+    <line
+       x1="498.44095"
+       y1="176.45657"
+       x2="498.44095"
+       y2="176.45657"
+       style="stroke-width:1.71"
+       id="line284" />
+    <line
+       x1="498.44095"
+       y1="260.51657"
+       x2="498.44095"
+       y2="260.51657"
+       style="stroke-width:1.71"
+       id="line285" />
+    <line
+       x1="498.44095"
+       y1="124.58659"
+       x2="500.80099"
+       y2="124.58659"
+       style="stroke-width:1.71"
+       id="line286" />
+    <line
+       x1="500.80099"
+       y1="104.22659"
+       x2="500.80099"
+       y2="104.22659"
+       style="stroke-width:1.71"
+       id="line287" />
+    <line
+       x1="500.80099"
+       y1="84.526588"
+       x2="500.80099"
+       y2="84.526588"
+       style="stroke-width:1.71"
+       id="line288" />
+    <line
+       x1="500.80099"
+       y1="66.136581"
+       x2="500.80099"
+       y2="66.136581"
+       style="stroke-width:1.71"
+       id="line289" />
+    <line
+       x1="500.80099"
+       y1="50.376587"
+       x2="500.81094"
+       y2="50.376587"
+       style="stroke-width:1.71"
+       id="line290" />
+    <line
+       x1="488.90097"
+       y1="459.24658"
+       x2="488.90097"
+       y2="459.24658"
+       style="stroke-width:1.71"
+       id="line291" />
+    <line
+       x1="488.90097"
+       y1="437.32657"
+       x2="493.54099"
+       y2="437.32657"
+       style="stroke-width:1.71"
+       id="line292" />
+    <line
+       x1="493.54099"
+       y1="414.50659"
+       x2="493.55099"
+       y2="414.50659"
+       style="stroke-width:1.71"
+       id="line293" />
+    <line
+       x1="493.55099"
+       y1="389.87659"
+       x2="493.55099"
+       y2="389.87659"
+       style="stroke-width:1.71"
+       id="line294" />
+    <line
+       x1="493.55099"
+       y1="361.64658"
+       x2="493.55099"
+       y2="361.64658"
+       style="stroke-width:1.71"
+       id="line295" />
+    <line
+       x1="493.55099"
+       y1="336.68658"
+       x2="493.55099"
+       y2="336.68658"
+       style="stroke-width:1.71"
+       id="line296" />
+    <line
+       x1="493.55099"
+       y1="318.30658"
+       x2="493.55099"
+       y2="318.30658"
+       style="stroke-width:1.71"
+       id="line297" />
+    <line
+       x1="493.55099"
+       y1="302.54657"
+       x2="493.55099"
+       y2="302.54657"
+       style="stroke-width:1.71"
+       id="line298" />
+    <line
+       x1="493.55099"
+       y1="386.59659"
+       x2="493.55099"
+       y2="386.59659"
+       style="stroke-width:1.71"
+       id="line299" />
+    <line
+       x1="484.12094"
+       y1="512.67657"
+       x2="484.12094"
+       y2="512.67657"
+       style="stroke-width:1.71"
+       id="line300" />
+    <line
+       x1="481.76096"
+       y1="654.52661"
+       x2="481.76096"
+       y2="654.52661"
+       style="stroke-width:1.71"
+       id="line301" />
+    <line
+       x1="481.76096"
+       y1="638.7666"
+       x2="481.76096"
+       y2="638.7666"
+       style="stroke-width:1.71"
+       id="line302" />
+    <line
+       x1="477.48099"
+       y1="796.69659"
+       x2="480.29099"
+       y2="796.69659"
+       style="stroke-width:1.71"
+       id="line303" />
+    <line
+       x1="480.29099"
+       y1="776.00659"
+       x2="480.29099"
+       y2="776.00659"
+       style="stroke-width:1.71"
+       id="line304" />
+    <line
+       x1="480.29099"
+       y1="755.64661"
+       x2="482.62094"
+       y2="755.64661"
+       style="stroke-width:1.71"
+       id="line305" />
+    <line
+       x1="482.62094"
+       y1="735.94659"
+       x2="482.63095"
+       y2="735.94659"
+       style="stroke-width:1.71"
+       id="line306" />
+    <line
+       x1="482.63095"
+       y1="717.56659"
+       x2="482.63095"
+       y2="717.56659"
+       style="stroke-width:1.71"
+       id="line307" />
+    <line
+       x1="482.63095"
+       y1="701.80658"
+       x2="483.46097"
+       y2="701.80658"
+       style="stroke-width:1.71"
+       id="line308" />
+    <line
+       x1="90.420975"
+       y1="3194.5566"
+       x2="724.48102"
+       y2="3194.5566"
+       style="stroke-width:1.71"
+       id="line309" />
+    <line
+       x1="724.48102"
+       y1="3176.1667"
+       x2="758.19098"
+       y2="3176.1667"
+       style="stroke-width:1.71"
+       id="line310" />
+    <line
+       x1="758.19098"
+       y1="3160.4067"
+       x2="815.78101"
+       y2="3160.4067"
+       style="stroke-width:1.71"
+       id="line311" />
+    <line
+       x1="73.560974"
+       y1="3088.8567"
+       x2="73.560974"
+       y2="3254.9766"
+       style="stroke-width:1.71"
+       id="line312" />
+    <line
+       x1="351.71097"
+       y1="3047.4666"
+       x2="351.71097"
+       y2="3065.8467"
+       style="stroke-width:1.71"
+       id="line313" />
+    <line
+       x1="488.69095"
+       y1="2761.1467"
+       x2="488.69095"
+       y2="2771.6567"
+       style="stroke-width:1.71"
+       id="line314" />
+    <line
+       x1="488.69095"
+       y1="2761.1467"
+       x2="488.69095"
+       y2="2750.6467"
+       style="stroke-width:1.71"
+       id="line315" />
+    <line
+       x1="488.69095"
+       y1="2776.9067"
+       x2="488.69095"
+       y2="2792.6667"
+       style="stroke-width:1.71"
+       id="line316" />
+    <line
+       x1="502.07095"
+       y1="2719.1267"
+       x2="502.07095"
+       y2="2729.6267"
+       style="stroke-width:1.71"
+       id="line317" />
+    <line
+       x1="502.07095"
+       y1="2719.1267"
+       x2="502.07095"
+       y2="2708.6167"
+       style="stroke-width:1.71"
+       id="line318" />
+    <line
+       x1="515.37097"
+       y1="2677.0967"
+       x2="515.37097"
+       y2="2687.6067"
+       style="stroke-width:1.71"
+       id="line319" />
+    <line
+       x1="515.37097"
+       y1="2677.0967"
+       x2="515.37097"
+       y2="2666.5867"
+       style="stroke-width:1.71"
+       id="line320" />
+    <line
+       x1="584.61102"
+       y1="2508.9866"
+       x2="584.61102"
+       y2="2519.4966"
+       style="stroke-width:1.71"
+       id="line321" />
+    <line
+       x1="584.61102"
+       y1="2508.9866"
+       x2="584.61102"
+       y2="2498.4766"
+       style="stroke-width:1.71"
+       id="line322" />
+    <line
+       x1="584.61102"
+       y1="2524.7466"
+       x2="584.61102"
+       y2="2540.5066"
+       style="stroke-width:1.71"
+       id="line323" />
+    <line
+       x1="584.61102"
+       y1="2543.1367"
+       x2="584.61102"
+       y2="2561.5166"
+       style="stroke-width:1.71"
+       id="line324" />
+    <line
+       x1="584.61102"
+       y1="2562.8367"
+       x2="584.61102"
+       y2="2582.5366"
+       style="stroke-width:1.71"
+       id="line325" />
+    <line
+       x1="560.64099"
+       y1="2235.8066"
+       x2="560.64099"
+       y2="2246.3167"
+       style="stroke-width:1.71"
+       id="line326" />
+    <line
+       x1="560.64099"
+       y1="2235.8066"
+       x2="560.64099"
+       y2="2225.2966"
+       style="stroke-width:1.71"
+       id="line327" />
+    <line
+       x1="560.64099"
+       y1="2251.5667"
+       x2="560.64099"
+       y2="2267.3267"
+       style="stroke-width:1.71"
+       id="line328" />
+    <line
+       x1="558.28101"
+       y1="2269.9568"
+       x2="558.28101"
+       y2="2288.3367"
+       style="stroke-width:1.71"
+       id="line329" />
+    <line
+       x1="568.03101"
+       y1="2319.8567"
+       x2="568.03101"
+       y2="2330.3667"
+       style="stroke-width:1.71"
+       id="line330" />
+    <line
+       x1="568.03101"
+       y1="2319.8567"
+       x2="568.03101"
+       y2="2309.3567"
+       style="stroke-width:1.71"
+       id="line331" />
+    <line
+       x1="550.44098"
+       y1="2323.1467"
+       x2="550.44098"
+       y2="2351.3867"
+       style="stroke-width:1.71"
+       id="line332" />
+    <line
+       x1="610.98102"
+       y1="2382.9067"
+       x2="610.98102"
+       y2="2393.4067"
+       style="stroke-width:1.71"
+       id="line333" />
+    <line
+       x1="610.98102"
+       y1="2382.9067"
+       x2="610.98102"
+       y2="2372.3967"
+       style="stroke-width:1.71"
+       id="line334" />
+    <line
+       x1="566.091"
+       y1="2424.9268"
+       x2="566.091"
+       y2="2435.4368"
+       style="stroke-width:1.71"
+       id="line335" />
+    <line
+       x1="566.091"
+       y1="2424.9268"
+       x2="566.091"
+       y2="2414.4268"
+       style="stroke-width:1.71"
+       id="line336" />
+    <line
+       x1="566.091"
+       y1="2440.6868"
+       x2="566.091"
+       y2="2456.4468"
+       style="stroke-width:1.71"
+       id="line337" />
+    <line
+       x1="500.14096"
+       y1="2459.0767"
+       x2="500.14096"
+       y2="2477.4666"
+       style="stroke-width:1.71"
+       id="line338" />
+    <line
+       x1="556.651"
+       y1="1647.4165"
+       x2="556.651"
+       y2="1657.9265"
+       style="stroke-width:1.71"
+       id="line339" />
+    <line
+       x1="556.651"
+       y1="1647.4165"
+       x2="556.651"
+       y2="1636.9165"
+       style="stroke-width:1.71"
+       id="line340" />
+    <line
+       x1="556.651"
+       y1="1663.1865"
+       x2="556.651"
+       y2="1678.9465"
+       style="stroke-width:1.71"
+       id="line341" />
+    <line
+       x1="556.651"
+       y1="1681.5665"
+       x2="556.651"
+       y2="1699.9565"
+       style="stroke-width:1.71"
+       id="line342" />
+    <line
+       x1="556.651"
+       y1="1701.2666"
+       x2="556.651"
+       y2="1720.9666"
+       style="stroke-width:1.71"
+       id="line343" />
+    <line
+       x1="556.651"
+       y1="1721.6266"
+       x2="556.651"
+       y2="1741.9866"
+       style="stroke-width:1.71"
+       id="line344" />
+    <line
+       x1="556.651"
+       y1="1742.3165"
+       x2="556.651"
+       y2="1762.9966"
+       style="stroke-width:1.71"
+       id="line345" />
+    <line
+       x1="556.651"
+       y1="1763.1565"
+       x2="556.651"
+       y2="1784.0066"
+       style="stroke-width:1.71"
+       id="line346" />
+    <line
+       x1="556.651"
+       y1="1784.0966"
+       x2="556.651"
+       y2="1805.0265"
+       style="stroke-width:1.71"
+       id="line347" />
+    <line
+       x1="556.651"
+       y1="1805.0665"
+       x2="556.651"
+       y2="1826.0365"
+       style="stroke-width:1.71"
+       id="line348" />
+    <line
+       x1="556.651"
+       y1="1826.0565"
+       x2="556.651"
+       y2="1847.0565"
+       style="stroke-width:1.71"
+       id="line349" />
+    <line
+       x1="556.651"
+       y1="1847.0665"
+       x2="556.651"
+       y2="1868.0665"
+       style="stroke-width:1.71"
+       id="line350" />
+    <line
+       x1="556.651"
+       y1="1868.0665"
+       x2="556.651"
+       y2="1889.0765"
+       style="stroke-width:1.71"
+       id="line351" />
+    <line
+       x1="556.651"
+       y1="1889.0865"
+       x2="556.651"
+       y2="1910.0966"
+       style="stroke-width:1.71"
+       id="line352" />
+    <line
+       x1="556.651"
+       y1="1910.0966"
+       x2="556.651"
+       y2="1931.1066"
+       style="stroke-width:1.71"
+       id="line353" />
+    <line
+       x1="556.651"
+       y1="1931.1066"
+       x2="556.651"
+       y2="1952.1166"
+       style="stroke-width:1.71"
+       id="line354" />
+    <line
+       x1="556.651"
+       y1="1952.1166"
+       x2="556.651"
+       y2="1973.1366"
+       style="stroke-width:1.71"
+       id="line355" />
+    <line
+       x1="668.47101"
+       y1="2004.6565"
+       x2="668.47101"
+       y2="2015.1665"
+       style="stroke-width:1.71"
+       id="line356" />
+    <line
+       x1="668.47101"
+       y1="2004.6565"
+       x2="668.47101"
+       y2="1994.1466"
+       style="stroke-width:1.71"
+       id="line357" />
+    <line
+       x1="668.47101"
+       y1="2020.4165"
+       x2="668.47101"
+       y2="2036.1765"
+       style="stroke-width:1.71"
+       id="line358" />
+    <line
+       x1="611.30103"
+       y1="2172.7666"
+       x2="611.30103"
+       y2="2183.2766"
+       style="stroke-width:1.71"
+       id="line359" />
+    <line
+       x1="611.30103"
+       y1="2172.7666"
+       x2="611.30103"
+       y2="2162.2566"
+       style="stroke-width:1.71"
+       id="line360" />
+    <line
+       x1="611.30103"
+       y1="2188.5266"
+       x2="611.30103"
+       y2="2204.2866"
+       style="stroke-width:1.71"
+       id="line361" />
+    <line
+       x1="653.211"
+       y1="2067.6968"
+       x2="653.211"
+       y2="2078.2068"
+       style="stroke-width:1.71"
+       id="line362" />
+    <line
+       x1="653.211"
+       y1="2067.6968"
+       x2="653.211"
+       y2="2057.1868"
+       style="stroke-width:1.71"
+       id="line363" />
+    <line
+       x1="653.211"
+       y1="2083.4568"
+       x2="653.211"
+       y2="2099.2166"
+       style="stroke-width:1.71"
+       id="line364" />
+    <line
+       x1="653.211"
+       y1="2101.8467"
+       x2="653.211"
+       y2="2120.2266"
+       style="stroke-width:1.71"
+       id="line365" />
+    <line
+       x1="653.211"
+       y1="2121.5466"
+       x2="653.211"
+       y2="2141.2466"
+       style="stroke-width:1.71"
+       id="line366" />
+    <line
+       x1="521.67102"
+       y1="2614.0566"
+       x2="521.67102"
+       y2="2624.5566"
+       style="stroke-width:1.71"
+       id="line367" />
+    <line
+       x1="521.67102"
+       y1="2614.0566"
+       x2="521.67102"
+       y2="2603.5466"
+       style="stroke-width:1.71"
+       id="line368" />
+    <line
+       x1="521.67102"
+       y1="2629.8167"
+       x2="521.67102"
+       y2="2645.5767"
+       style="stroke-width:1.71"
+       id="line369" />
+    <line
+       x1="459.11099"
+       y1="2824.1868"
+       x2="459.11099"
+       y2="2834.6968"
+       style="stroke-width:1.71"
+       id="line370" />
+    <line
+       x1="459.11099"
+       y1="2824.1868"
+       x2="459.11099"
+       y2="2813.6868"
+       style="stroke-width:1.71"
+       id="line371" />
+    <line
+       x1="459.11099"
+       y1="2839.9468"
+       x2="459.11099"
+       y2="2855.7166"
+       style="stroke-width:1.71"
+       id="line372" />
+    <line
+       x1="459.11099"
+       y1="2858.3367"
+       x2="459.11099"
+       y2="2876.7266"
+       style="stroke-width:1.71"
+       id="line373" />
+    <line
+       x1="459.11099"
+       y1="2878.0366"
+       x2="459.11099"
+       y2="2897.7366"
+       style="stroke-width:1.71"
+       id="line374" />
+    <line
+       x1="459.11099"
+       y1="2898.3967"
+       x2="459.11099"
+       y2="2918.7566"
+       style="stroke-width:1.71"
+       id="line375" />
+    <line
+       x1="459.11099"
+       y1="2919.0767"
+       x2="459.11099"
+       y2="2939.7666"
+       style="stroke-width:1.71"
+       id="line376" />
+    <line
+       x1="459.11099"
+       y1="2939.9268"
+       x2="459.11099"
+       y2="2960.7766"
+       style="stroke-width:1.71"
+       id="line377" />
+    <line
+       x1="459.11099"
+       y1="2960.8667"
+       x2="459.11099"
+       y2="2981.7966"
+       style="stroke-width:1.71"
+       id="line378" />
+    <line
+       x1="507.39096"
+       y1="1458.2965"
+       x2="507.39096"
+       y2="1468.8065"
+       style="stroke-width:1.71"
+       id="line379" />
+    <line
+       x1="507.39096"
+       y1="1458.2965"
+       x2="507.39096"
+       y2="1447.7865"
+       style="stroke-width:1.71"
+       id="line380" />
+    <line
+       x1="507.39096"
+       y1="1474.0565"
+       x2="507.39096"
+       y2="1489.8165"
+       style="stroke-width:1.71"
+       id="line381" />
+    <line
+       x1="507.39096"
+       y1="1492.4465"
+       x2="507.39096"
+       y2="1510.8365"
+       style="stroke-width:1.71"
+       id="line382" />
+    <line
+       x1="507.39096"
+       y1="1512.1466"
+       x2="507.39096"
+       y2="1531.8466"
+       style="stroke-width:1.71"
+       id="line383" />
+    <line
+       x1="507.39096"
+       y1="1563.3666"
+       x2="507.39096"
+       y2="1573.8766"
+       style="stroke-width:1.71"
+       id="line384" />
+    <line
+       x1="507.39096"
+       y1="1563.3666"
+       x2="507.39096"
+       y2="1552.8566"
+       style="stroke-width:1.71"
+       id="line385" />
+    <line
+       x1="507.39096"
+       y1="1566.3165"
+       x2="507.39096"
+       y2="1594.8866"
+       style="stroke-width:1.71"
+       id="line386" />
+    <line
+       x1="499.98099"
+       y1="1591.1066"
+       x2="499.98099"
+       y2="1615.8966"
+       style="stroke-width:1.71"
+       id="line387" />
+    <line
+       x1="696.94098"
+       y1="1374.2466"
+       x2="696.94098"
+       y2="1384.7466"
+       style="stroke-width:1.71"
+       id="line388" />
+    <line
+       x1="696.94098"
+       y1="1374.2466"
+       x2="696.94098"
+       y2="1363.7366"
+       style="stroke-width:1.71"
+       id="line389" />
+    <line
+       x1="696.94098"
+       y1="1390.0066"
+       x2="696.94098"
+       y2="1405.7666"
+       style="stroke-width:1.71"
+       id="line390" />
+    <line
+       x1="675.53101"
+       y1="1408.3866"
+       x2="675.53101"
+       y2="1426.7765"
+       style="stroke-width:1.71"
+       id="line391" />
+    <line
+       x1="659.89099"
+       y1="1290.1865"
+       x2="659.89099"
+       y2="1300.6965"
+       style="stroke-width:1.71"
+       id="line392" />
+    <line
+       x1="659.89099"
+       y1="1290.1865"
+       x2="659.89099"
+       y2="1279.6765"
+       style="stroke-width:1.71"
+       id="line393" />
+    <line
+       x1="685.60101"
+       y1="869.91663"
+       x2="685.60101"
+       y2="880.41663"
+       style="stroke-width:1.71"
+       id="line394" />
+    <line
+       x1="685.60101"
+       y1="869.91663"
+       x2="685.60101"
+       y2="859.40662"
+       style="stroke-width:1.71"
+       id="line395" />
+    <line
+       x1="685.60101"
+       y1="885.67664"
+       x2="685.60101"
+       y2="901.43658"
+       style="stroke-width:1.71"
+       id="line396" />
+    <line
+       x1="685.60101"
+       y1="904.05658"
+       x2="685.60101"
+       y2="922.44659"
+       style="stroke-width:1.71"
+       id="line397" />
+    <line
+       x1="685.60101"
+       y1="923.75659"
+       x2="685.60101"
+       y2="943.4566"
+       style="stroke-width:1.71"
+       id="line398" />
+    <line
+       x1="685.60101"
+       y1="944.11664"
+       x2="685.60101"
+       y2="964.47662"
+       style="stroke-width:1.71"
+       id="line399" />
+    <line
+       x1="685.60101"
+       y1="964.80658"
+       x2="685.60101"
+       y2="985.48663"
+       style="stroke-width:1.71"
+       id="line400" />
+    <line
+       x1="685.60101"
+       y1="985.65662"
+       x2="685.60101"
+       y2="1006.5066"
+       style="stroke-width:1.71"
+       id="line401" />
+    <line
+       x1="685.60101"
+       y1="1006.5866"
+       x2="685.60101"
+       y2="1027.5166"
+       style="stroke-width:1.71"
+       id="line402" />
+    <line
+       x1="685.60101"
+       y1="1027.5565"
+       x2="685.60101"
+       y2="1048.5265"
+       style="stroke-width:1.71"
+       id="line403" />
+    <line
+       x1="685.60101"
+       y1="1048.5465"
+       x2="685.60101"
+       y2="1069.5465"
+       style="stroke-width:1.71"
+       id="line404" />
+    <line
+       x1="685.60101"
+       y1="1069.5565"
+       x2="685.60101"
+       y2="1090.5565"
+       style="stroke-width:1.71"
+       id="line405" />
+    <line
+       x1="690.88098"
+       y1="1122.0765"
+       x2="690.88098"
+       y2="1132.5865"
+       style="stroke-width:1.71"
+       id="line406" />
+    <line
+       x1="690.88098"
+       y1="1122.0765"
+       x2="690.88098"
+       y2="1111.5665"
+       style="stroke-width:1.71"
+       id="line407" />
+    <line
+       x1="690.88098"
+       y1="1137.8365"
+       x2="690.88098"
+       y2="1153.5966"
+       style="stroke-width:1.71"
+       id="line408" />
+    <line
+       x1="690.88098"
+       y1="1156.2266"
+       x2="690.88098"
+       y2="1174.6166"
+       style="stroke-width:1.71"
+       id="line409" />
+    <line
+       x1="690.88098"
+       y1="1175.9265"
+       x2="690.88098"
+       y2="1195.6266"
+       style="stroke-width:1.71"
+       id="line410" />
+    <line
+       x1="690.88098"
+       y1="1196.2865"
+       x2="690.88098"
+       y2="1216.6366"
+       style="stroke-width:1.71"
+       id="line411" />
+    <line
+       x1="690.87097"
+       y1="1216.9666"
+       x2="690.87097"
+       y2="1237.6565"
+       style="stroke-width:1.71"
+       id="line412" />
+    <line
+       x1="571.61102"
+       y1="1200.9666"
+       x2="571.61102"
+       y2="1258.6665"
+       style="stroke-width:1.71"
+       id="line413" />
+    <line
+       x1="698.41101"
+       y1="1332.2166"
+       x2="698.41101"
+       y2="1342.7266"
+       style="stroke-width:1.71"
+       id="line414" />
+    <line
+       x1="698.41101"
+       y1="1332.2166"
+       x2="698.41101"
+       y2="1321.7065"
+       style="stroke-width:1.71"
+       id="line415" />
+    <line
+       x1="402.83096"
+       y1="770.14661"
+       x2="402.83096"
+       y2="838.39661"
+       style="stroke-width:1.71"
+       id="line416" />
+    <line
+       x1="481.76096"
+       y1="596.73663"
+       x2="481.76096"
+       y2="607.23663"
+       style="stroke-width:1.71"
+       id="line417" />
+    <line
+       x1="481.76096"
+       y1="596.73663"
+       x2="481.76096"
+       y2="586.22662"
+       style="stroke-width:1.71"
+       id="line418" />
+    <line
+       x1="484.12094"
+       y1="480.18658"
+       x2="484.12094"
+       y2="544.19659"
+       style="stroke-width:1.71"
+       id="line419" />
+    <line
+       x1="498.44095"
+       y1="176.45657"
+       x2="498.44095"
+       y2="186.96658"
+       style="stroke-width:1.71"
+       id="line420" />
+    <line
+       x1="498.44095"
+       y1="176.45657"
+       x2="498.44095"
+       y2="165.95657"
+       style="stroke-width:1.71"
+       id="line421" />
+    <line
+       x1="498.44095"
+       y1="192.21658"
+       x2="498.44095"
+       y2="207.97658"
+       style="stroke-width:1.71"
+       id="line422" />
+    <line
+       x1="498.44095"
+       y1="210.60658"
+       x2="498.44095"
+       y2="228.99658"
+       style="stroke-width:1.71"
+       id="line423" />
+    <line
+       x1="498.44095"
+       y1="260.51657"
+       x2="498.44095"
+       y2="271.01657"
+       style="stroke-width:1.71"
+       id="line424" />
+    <line
+       x1="498.44095"
+       y1="260.51657"
+       x2="498.44095"
+       y2="250.00658"
+       style="stroke-width:1.71"
+       id="line425" />
+    <line
+       x1="500.80099"
+       y1="84.526588"
+       x2="500.80099"
+       y2="102.90659"
+       style="stroke-width:1.71"
+       id="line426" />
+    <line
+       x1="500.80099"
+       y1="66.136581"
+       x2="500.80099"
+       y2="81.896584"
+       style="stroke-width:1.71"
+       id="line427" />
+    <line
+       x1="500.81094"
+       y1="50.376587"
+       x2="500.81094"
+       y2="60.886585"
+       style="stroke-width:1.71"
+       id="line428" />
+    <line
+       x1="500.81094"
+       y1="50.376587"
+       x2="500.81094"
+       y2="39.866585"
+       style="stroke-width:1.71"
+       id="line429" />
+    <line
+       x1="500.80099"
+       y1="104.22659"
+       x2="500.80099"
+       y2="123.92658"
+       style="stroke-width:1.71"
+       id="line430" />
+    <line
+       x1="500.80099"
+       y1="124.58659"
+       x2="500.80099"
+       y2="144.93658"
+       style="stroke-width:1.71"
+       id="line431" />
+    <line
+       x1="493.55099"
+       y1="302.54657"
+       x2="493.55099"
+       y2="313.04657"
+       style="stroke-width:1.71"
+       id="line432" />
+    <line
+       x1="493.55099"
+       y1="302.54657"
+       x2="493.55099"
+       y2="292.03659"
+       style="stroke-width:1.71"
+       id="line433" />
+    <line
+       x1="493.55099"
+       y1="318.30658"
+       x2="493.55099"
+       y2="334.06659"
+       style="stroke-width:1.71"
+       id="line434" />
+    <line
+       x1="493.55099"
+       y1="336.68658"
+       x2="493.55099"
+       y2="355.07657"
+       style="stroke-width:1.71"
+       id="line435" />
+    <line
+       x1="493.55099"
+       y1="386.59659"
+       x2="493.55099"
+       y2="397.10657"
+       style="stroke-width:1.71"
+       id="line436" />
+    <line
+       x1="493.55099"
+       y1="386.59659"
+       x2="493.55099"
+       y2="376.08658"
+       style="stroke-width:1.71"
+       id="line437" />
+    <line
+       x1="493.55099"
+       y1="389.87659"
+       x2="493.55099"
+       y2="418.11658"
+       style="stroke-width:1.71"
+       id="line438" />
+    <line
+       x1="493.55099"
+       y1="414.50659"
+       x2="493.55099"
+       y2="439.12659"
+       style="stroke-width:1.71"
+       id="line439" />
+    <line
+       x1="493.54099"
+       y1="437.32657"
+       x2="493.54099"
+       y2="460.14658"
+       style="stroke-width:1.71"
+       id="line440" />
+    <line
+       x1="488.90097"
+       y1="459.24658"
+       x2="488.90097"
+       y2="481.15659"
+       style="stroke-width:1.71"
+       id="line441" />
+    <line
+       x1="484.12094"
+       y1="512.67657"
+       x2="484.12094"
+       y2="523.18658"
+       style="stroke-width:1.71"
+       id="line442" />
+    <line
+       x1="484.12094"
+       y1="512.67657"
+       x2="484.12094"
+       y2="502.17657"
+       style="stroke-width:1.71"
+       id="line443" />
+    <line
+       x1="481.76096"
+       y1="522.69659"
+       x2="481.76096"
+       y2="565.21661"
+       style="stroke-width:1.71"
+       id="line444" />
+    <line
+       x1="481.76096"
+       y1="638.7666"
+       x2="481.76096"
+       y2="649.2666"
+       style="stroke-width:1.71"
+       id="line445" />
+    <line
+       x1="481.76096"
+       y1="638.7666"
+       x2="481.76096"
+       y2="628.25659"
+       style="stroke-width:1.71"
+       id="line446" />
+    <line
+       x1="481.76096"
+       y1="654.52661"
+       x2="481.76096"
+       y2="670.28662"
+       style="stroke-width:1.71"
+       id="line447" />
+    <line
+       x1="480.29099"
+       y1="796.69659"
+       x2="480.29099"
+       y2="817.37659"
+       style="stroke-width:1.71"
+       id="line448" />
+    <line
+       x1="482.62094"
+       y1="755.64661"
+       x2="482.62094"
+       y2="775.34662"
+       style="stroke-width:1.71"
+       id="line449" />
+    <line
+       x1="482.63095"
+       y1="735.94659"
+       x2="482.63095"
+       y2="754.33661"
+       style="stroke-width:1.71"
+       id="line450" />
+    <line
+       x1="483.46097"
+       y1="701.80658"
+       x2="483.46097"
+       y2="712.30658"
+       style="stroke-width:1.71"
+       id="line451" />
+    <line
+       x1="483.46097"
+       y1="701.80658"
+       x2="483.46097"
+       y2="691.29663"
+       style="stroke-width:1.71"
+       id="line452" />
+    <line
+       x1="482.63095"
+       y1="717.56659"
+       x2="482.63095"
+       y2="733.3266"
+       style="stroke-width:1.71"
+       id="line453" />
+    <line
+       x1="480.29099"
+       y1="776.00659"
+       x2="480.29099"
+       y2="796.36664"
+       style="stroke-width:1.71"
+       id="line454" />
+    <line
+       x1="724.48102"
+       y1="3194.5566"
+       x2="724.48102"
+       y2="3212.9468"
+       style="stroke-width:1.71"
+       id="line455" />
+    <line
+       x1="758.19098"
+       y1="3176.1667"
+       x2="758.19098"
+       y2="3191.9368"
+       style="stroke-width:1.71"
+       id="line456" />
+    <line
+       x1="815.78101"
+       y1="3160.4067"
+       x2="815.78101"
+       y2="3170.9167"
+       style="stroke-width:1.71"
+       id="line457" />
+    <line
+       x1="815.78101"
+       y1="3160.4067"
+       x2="815.78101"
+       y2="3149.9067"
+       style="stroke-width:1.71"
+       id="line458" />
+    <line
+       x1="90.420975"
+       y1="2922.7366"
+       x2="90.420975"
+       y2="3233.9568"
+       style="stroke-width:1.71"
+       id="line459" />
+    <line
+       x1="497.71097"
+       y1="3097.3667"
+       x2="497.71097"
+       y2="3107.8767"
+       style="stroke-width:1.71"
+       id="line460" />
+    <line
+       x1="497.71097"
+       y1="3097.3667"
+       x2="497.71097"
+       y2="3086.8667"
+       style="stroke-width:1.71"
+       id="line461" />
+    <line
+       x1="497.71097"
+       y1="3113.1267"
+       x2="497.71097"
+       y2="3128.8867"
+       style="stroke-width:1.71"
+       id="line462" />
+    <line
+       x1="518.28101"
+       y1="3013.3167"
+       x2="518.28101"
+       y2="3023.8267"
+       style="stroke-width:1.71"
+       id="line463" />
+    <line
+       x1="518.28101"
+       y1="3013.3167"
+       x2="518.28101"
+       y2="3002.8066"
+       style="stroke-width:1.71"
+       id="line464" />
+    <line
+       x1="492.48099"
+       y1="3029.0767"
+       x2="492.48099"
+       y2="3044.8367"
+       style="stroke-width:1.71"
+       id="line465" />
+    <line
+       x1="73.560974"
+       y1="3088.8567"
+       x2="73.560974"
+       y2="3088.8567"
+       style="stroke-width:1.71"
+       id="line466" />
+    <line
+       x1="73.560974"
+       y1="3088.8567"
+       x2="73.560974"
+       y2="2922.7366"
+       style="stroke-width:1.71"
+       id="line467" />
+    <line
+       x1="90.420975"
+       y1="2922.7366"
+       x2="90.420975"
+       y2="2611.5166"
+       style="stroke-width:1.71"
+       id="line468" />
+    <line
+       x1="90.420975"
+       y1="2611.5166"
+       x2="90.420975"
+       y2="2028.4866"
+       style="stroke-width:1.71"
+       id="line469" />
+    <line
+       x1="224.07095"
+       y1="2028.4866"
+       x2="224.07095"
+       y2="2936.9568"
+       style="stroke-width:1.71"
+       id="line470" />
+    <line
+       x1="271.80096"
+       y1="2936.9568"
+       x2="271.80096"
+       y2="3080.2966"
+       style="stroke-width:1.71"
+       id="line471" />
+    <line
+       x1="300.69098"
+       y1="3080.2966"
+       x2="300.69098"
+       y2="3047.4666"
+       style="stroke-width:1.71"
+       id="line472" />
+    <line
+       x1="351.71097"
+       y1="3047.4666"
+       x2="351.71097"
+       y2="3029.0767"
+       style="stroke-width:1.71"
+       id="line473" />
+    <line
+       x1="492.48099"
+       y1="3029.0767"
+       x2="492.48099"
+       y2="3013.3167"
+       style="stroke-width:1.71"
+       id="line474" />
+    <line
+       x1="300.69098"
+       y1="3080.2966"
+       x2="300.69098"
+       y2="3113.1267"
+       style="stroke-width:1.71"
+       id="line475" />
+    <line
+       x1="497.71097"
+       y1="3113.1267"
+       x2="497.71097"
+       y2="3097.3667"
+       style="stroke-width:1.71"
+       id="line476" />
+    <line
+       x1="271.80096"
+       y1="2936.9568"
+       x2="271.80096"
+       y2="2793.6067"
+       style="stroke-width:1.71"
+       id="line477" />
+    <line
+       x1="408.66098"
+       y1="2793.6067"
+       x2="408.66098"
+       y2="2626.3567"
+       style="stroke-width:1.71"
+       id="line478" />
+    <line
+       x1="408.66098"
+       y1="2626.3567"
+       x2="408.66098"
+       y2="2737.5066"
+       style="stroke-width:1.71"
+       id="line479" />
+    <line
+       x1="448.80099"
+       y1="2737.5066"
+       x2="448.80099"
+       y2="2776.9067"
+       style="stroke-width:1.71"
+       id="line480" />
+    <line
+       x1="488.69095"
+       y1="2776.9067"
+       x2="488.69095"
+       y2="2761.1467"
+       style="stroke-width:1.71"
+       id="line481" />
+    <line
+       x1="448.80099"
+       y1="2737.5066"
+       x2="448.80099"
+       y2="2698.1067"
+       style="stroke-width:1.71"
+       id="line482" />
+    <line
+       x1="463.41098"
+       y1="2698.1067"
+       x2="463.41098"
+       y2="2719.1267"
+       style="stroke-width:1.71"
+       id="line483" />
+    <line
+       x1="463.41098"
+       y1="2698.1067"
+       x2="463.41098"
+       y2="2677.0967"
+       style="stroke-width:1.71"
+       id="line484" />
+    <line
+       x1="408.66098"
+       y1="2626.3567"
+       x2="408.66098"
+       y2="2515.2068"
+       style="stroke-width:1.71"
+       id="line485" />
+    <line
+       x1="434.56094"
+       y1="2515.2068"
+       x2="434.56094"
+       y2="2400.5967"
+       style="stroke-width:1.71"
+       id="line486" />
+    <line
+       x1="446.20096"
+       y1="2400.5967"
+       x2="446.20096"
+       y2="2562.8367"
+       style="stroke-width:1.71"
+       id="line487" />
+    <line
+       x1="584.61102"
+       y1="2562.8367"
+       x2="584.61102"
+       y2="2543.1367"
+       style="stroke-width:1.71"
+       id="line488" />
+    <line
+       x1="584.61102"
+       y1="2543.1367"
+       x2="584.61102"
+       y2="2524.7466"
+       style="stroke-width:1.71"
+       id="line489" />
+    <line
+       x1="584.61102"
+       y1="2524.7466"
+       x2="584.61102"
+       y2="2508.9866"
+       style="stroke-width:1.71"
+       id="line490" />
+    <line
+       x1="446.20096"
+       y1="2400.5967"
+       x2="446.20096"
+       y2="2238.3467"
+       style="stroke-width:1.71"
+       id="line491" />
+    <line
+       x1="459.56094"
+       y1="2238.3467"
+       x2="459.56094"
+       y2="2406.0466"
+       style="stroke-width:1.71"
+       id="line492" />
+    <line
+       x1="481.44095"
+       y1="2406.0466"
+       x2="481.44095"
+       y2="2353.0266"
+       style="stroke-width:1.71"
+       id="line493" />
+    <line
+       x1="504.33096"
+       y1="2353.0266"
+       x2="504.33096"
+       y2="2323.1467"
+       style="stroke-width:1.71"
+       id="line494" />
+    <line
+       x1="550.44098"
+       y1="2323.1467"
+       x2="550.44098"
+       y2="2294.9067"
+       style="stroke-width:1.71"
+       id="line495" />
+    <line
+       x1="558.28101"
+       y1="2294.9067"
+       x2="558.28101"
+       y2="2269.9568"
+       style="stroke-width:1.71"
+       id="line496" />
+    <line
+       x1="558.28101"
+       y1="2269.9568"
+       x2="558.28101"
+       y2="2251.5667"
+       style="stroke-width:1.71"
+       id="line497" />
+    <line
+       x1="560.64099"
+       y1="2251.5667"
+       x2="560.64099"
+       y2="2235.8066"
+       style="stroke-width:1.71"
+       id="line498" />
+    <line
+       x1="558.28101"
+       y1="2294.9067"
+       x2="558.28101"
+       y2="2319.8567"
+       style="stroke-width:1.71"
+       id="line499" />
+    <line
+       x1="504.33096"
+       y1="2353.0266"
+       x2="504.33096"
+       y2="2382.9067"
+       style="stroke-width:1.71"
+       id="line500" />
+    <line
+       x1="481.44095"
+       y1="2406.0466"
+       x2="481.44095"
+       y2="2459.0767"
+       style="stroke-width:1.71"
+       id="line501" />
+    <line
+       x1="500.14096"
+       y1="2459.0767"
+       x2="500.14096"
+       y2="2440.6868"
+       style="stroke-width:1.71"
+       id="line502" />
+    <line
+       x1="566.091"
+       y1="2440.6868"
+       x2="566.091"
+       y2="2424.9268"
+       style="stroke-width:1.71"
+       id="line503" />
+    <line
+       x1="459.56094"
+       y1="2238.3467"
+       x2="459.56094"
+       y2="2070.6467"
+       style="stroke-width:1.71"
+       id="line504" />
+    <line
+       x1="475.32095"
+       y1="2070.6467"
+       x2="475.32095"
+       y2="1986.2666"
+       style="stroke-width:1.71"
+       id="line505" />
+    <line
+       x1="493.65097"
+       y1="1986.2666"
+       x2="493.65097"
+       y2="1952.1166"
+       style="stroke-width:1.71"
+       id="line506" />
+    <line
+       x1="556.651"
+       y1="1952.1166"
+       x2="556.651"
+       y2="1931.1066"
+       style="stroke-width:1.71"
+       id="line507" />
+    <line
+       x1="556.651"
+       y1="1931.1066"
+       x2="556.651"
+       y2="1910.0966"
+       style="stroke-width:1.71"
+       id="line508" />
+    <line
+       x1="556.651"
+       y1="1910.0966"
+       x2="556.651"
+       y2="1889.0865"
+       style="stroke-width:1.71"
+       id="line509" />
+    <line
+       x1="556.651"
+       y1="1889.0865"
+       x2="556.651"
+       y2="1868.0665"
+       style="stroke-width:1.71"
+       id="line510" />
+    <line
+       x1="556.651"
+       y1="1868.0665"
+       x2="556.651"
+       y2="1847.0665"
+       style="stroke-width:1.71"
+       id="line511" />
+    <line
+       x1="556.651"
+       y1="1847.0665"
+       x2="556.651"
+       y2="1826.0565"
+       style="stroke-width:1.71"
+       id="line512" />
+    <line
+       x1="556.651"
+       y1="1826.0565"
+       x2="556.651"
+       y2="1805.0665"
+       style="stroke-width:1.71"
+       id="line513" />
+    <line
+       x1="556.651"
+       y1="1805.0665"
+       x2="556.651"
+       y2="1784.0966"
+       style="stroke-width:1.71"
+       id="line514" />
+    <line
+       x1="556.651"
+       y1="1784.0966"
+       x2="556.651"
+       y2="1763.1565"
+       style="stroke-width:1.71"
+       id="line515" />
+    <line
+       x1="556.651"
+       y1="1763.1565"
+       x2="556.651"
+       y2="1742.3165"
+       style="stroke-width:1.71"
+       id="line516" />
+    <line
+       x1="556.651"
+       y1="1742.3165"
+       x2="556.651"
+       y2="1721.6266"
+       style="stroke-width:1.71"
+       id="line517" />
+    <line
+       x1="556.651"
+       y1="1721.6266"
+       x2="556.651"
+       y2="1701.2666"
+       style="stroke-width:1.71"
+       id="line518" />
+    <line
+       x1="556.651"
+       y1="1701.2666"
+       x2="556.651"
+       y2="1681.5665"
+       style="stroke-width:1.71"
+       id="line519" />
+    <line
+       x1="556.651"
+       y1="1681.5665"
+       x2="556.651"
+       y2="1663.1865"
+       style="stroke-width:1.71"
+       id="line520" />
+    <line
+       x1="556.651"
+       y1="1663.1865"
+       x2="556.651"
+       y2="1647.4165"
+       style="stroke-width:1.71"
+       id="line521" />
+    <line
+       x1="493.65097"
+       y1="1986.2666"
+       x2="493.65097"
+       y2="2020.4165"
+       style="stroke-width:1.71"
+       id="line522" />
+    <line
+       x1="668.47101"
+       y1="2020.4165"
+       x2="668.47101"
+       y2="2004.6565"
+       style="stroke-width:1.71"
+       id="line523" />
+    <line
+       x1="475.32095"
+       y1="2070.6467"
+       x2="475.32095"
+       y2="2155.0366"
+       style="stroke-width:1.71"
+       id="line524" />
+    <line
+       x1="525.74103"
+       y1="2155.0366"
+       x2="525.74103"
+       y2="2188.5266"
+       style="stroke-width:1.71"
+       id="line525" />
+    <line
+       x1="611.30103"
+       y1="2188.5266"
+       x2="611.30103"
+       y2="2172.7666"
+       style="stroke-width:1.71"
+       id="line526" />
+    <line
+       x1="525.74103"
+       y1="2155.0366"
+       x2="525.74103"
+       y2="2121.5466"
+       style="stroke-width:1.71"
+       id="line527" />
+    <line
+       x1="653.211"
+       y1="2121.5466"
+       x2="653.211"
+       y2="2101.8467"
+       style="stroke-width:1.71"
+       id="line528" />
+    <line
+       x1="653.211"
+       y1="2101.8467"
+       x2="653.211"
+       y2="2083.4568"
+       style="stroke-width:1.71"
+       id="line529" />
+    <line
+       x1="653.211"
+       y1="2083.4568"
+       x2="653.211"
+       y2="2067.6968"
+       style="stroke-width:1.71"
+       id="line530" />
+    <line
+       x1="434.56094"
+       y1="2515.2068"
+       x2="434.56094"
+       y2="2629.8167"
+       style="stroke-width:1.71"
+       id="line531" />
+    <line
+       x1="521.67102"
+       y1="2629.8167"
+       x2="521.67102"
+       y2="2614.0566"
+       style="stroke-width:1.71"
+       id="line532" />
+    <line
+       x1="408.66098"
+       y1="2793.6067"
+       x2="408.66098"
+       y2="2960.8667"
+       style="stroke-width:1.71"
+       id="line533" />
+    <line
+       x1="459.11099"
+       y1="2960.8667"
+       x2="459.11099"
+       y2="2939.9268"
+       style="stroke-width:1.71"
+       id="line534" />
+    <line
+       x1="459.11099"
+       y1="2939.9268"
+       x2="459.11099"
+       y2="2919.0767"
+       style="stroke-width:1.71"
+       id="line535" />
+    <line
+       x1="459.11099"
+       y1="2919.0767"
+       x2="459.11099"
+       y2="2898.3967"
+       style="stroke-width:1.71"
+       id="line536" />
+    <line
+       x1="459.11099"
+       y1="2898.3967"
+       x2="459.11099"
+       y2="2878.0366"
+       style="stroke-width:1.71"
+       id="line537" />
+    <line
+       x1="459.11099"
+       y1="2878.0366"
+       x2="459.11099"
+       y2="2858.3367"
+       style="stroke-width:1.71"
+       id="line538" />
+    <line
+       x1="459.11099"
+       y1="2858.3367"
+       x2="459.11099"
+       y2="2839.9468"
+       style="stroke-width:1.71"
+       id="line539" />
+    <line
+       x1="459.11099"
+       y1="2839.9468"
+       x2="459.11099"
+       y2="2824.1868"
+       style="stroke-width:1.71"
+       id="line540" />
+    <line
+       x1="224.07095"
+       y1="2028.4866"
+       x2="224.07095"
+       y2="1120.0166"
+       style="stroke-width:1.71"
+       id="line541" />
+    <line
+       x1="269.26096"
+       y1="1120.0166"
+       x2="269.26096"
+       y2="1469.8766"
+       style="stroke-width:1.71"
+       id="line542" />
+    <line
+       x1="384.05096"
+       y1="1469.8766"
+       x2="384.05096"
+       y2="1591.1066"
+       style="stroke-width:1.71"
+       id="line543" />
+    <line
+       x1="499.98099"
+       y1="1591.1066"
+       x2="499.98099"
+       y2="1566.3165"
+       style="stroke-width:1.71"
+       id="line544" />
+    <line
+       x1="507.39096"
+       y1="1566.3165"
+       x2="507.39096"
+       y2="1537.7566"
+       style="stroke-width:1.71"
+       id="line545" />
+    <line
+       x1="507.39096"
+       y1="1537.7566"
+       x2="507.39096"
+       y2="1512.1466"
+       style="stroke-width:1.71"
+       id="line546" />
+    <line
+       x1="507.39096"
+       y1="1512.1466"
+       x2="507.39096"
+       y2="1492.4465"
+       style="stroke-width:1.71"
+       id="line547" />
+    <line
+       x1="507.39096"
+       y1="1492.4465"
+       x2="507.39096"
+       y2="1474.0565"
+       style="stroke-width:1.71"
+       id="line548" />
+    <line
+       x1="507.39096"
+       y1="1474.0565"
+       x2="507.39096"
+       y2="1458.2965"
+       style="stroke-width:1.71"
+       id="line549" />
+    <line
+       x1="507.39096"
+       y1="1537.7566"
+       x2="507.39096"
+       y2="1563.3666"
+       style="stroke-width:1.71"
+       id="line550" />
+    <line
+       x1="384.05096"
+       y1="1469.8766"
+       x2="384.05096"
+       y2="1348.6466"
+       style="stroke-width:1.71"
+       id="line551" />
+    <line
+       x1="418.53098"
+       y1="1348.6466"
+       x2="418.53098"
+       y2="1408.3866"
+       style="stroke-width:1.71"
+       id="line552" />
+    <line
+       x1="675.53101"
+       y1="1408.3866"
+       x2="675.53101"
+       y2="1390.0066"
+       style="stroke-width:1.71"
+       id="line553" />
+    <line
+       x1="696.94098"
+       y1="1390.0066"
+       x2="696.94098"
+       y2="1374.2466"
+       style="stroke-width:1.71"
+       id="line554" />
+    <line
+       x1="418.53098"
+       y1="1348.6466"
+       x2="418.53098"
+       y2="1288.8966"
+       style="stroke-width:1.71"
+       id="line555" />
+    <line
+       x1="511.60098"
+       y1="1288.8966"
+       x2="511.60098"
+       y2="1245.5765"
+       style="stroke-width:1.71"
+       id="line556" />
+    <line
+       x1="560.521"
+       y1="1245.5765"
+       x2="560.521"
+       y2="1290.1865"
+       style="stroke-width:1.71"
+       id="line557" />
+    <line
+       x1="560.521"
+       y1="1245.5765"
+       x2="560.521"
+       y2="1200.9666"
+       style="stroke-width:1.71"
+       id="line558" />
+    <line
+       x1="571.61102"
+       y1="1200.9666"
+       x2="571.61102"
+       y2="1143.2566"
+       style="stroke-width:1.71"
+       id="line559" />
+    <line
+       x1="682.08099"
+       y1="1143.2566"
+       x2="682.08099"
+       y2="1069.5565"
+       style="stroke-width:1.71"
+       id="line560" />
+    <line
+       x1="685.60101"
+       y1="1069.5565"
+       x2="685.60101"
+       y2="1048.5465"
+       style="stroke-width:1.71"
+       id="line561" />
+    <line
+       x1="685.60101"
+       y1="1048.5465"
+       x2="685.60101"
+       y2="1027.5565"
+       style="stroke-width:1.71"
+       id="line562" />
+    <line
+       x1="685.60101"
+       y1="1027.5565"
+       x2="685.60101"
+       y2="1006.5866"
+       style="stroke-width:1.71"
+       id="line563" />
+    <line
+       x1="685.60101"
+       y1="1006.5866"
+       x2="685.60101"
+       y2="985.65662"
+       style="stroke-width:1.71"
+       id="line564" />
+    <line
+       x1="685.60101"
+       y1="985.65662"
+       x2="685.60101"
+       y2="964.80658"
+       style="stroke-width:1.71"
+       id="line565" />
+    <line
+       x1="685.60101"
+       y1="964.80658"
+       x2="685.60101"
+       y2="944.11664"
+       style="stroke-width:1.71"
+       id="line566" />
+    <line
+       x1="685.60101"
+       y1="944.11664"
+       x2="685.60101"
+       y2="923.75659"
+       style="stroke-width:1.71"
+       id="line567" />
+    <line
+       x1="685.60101"
+       y1="923.75659"
+       x2="685.60101"
+       y2="904.05658"
+       style="stroke-width:1.71"
+       id="line568" />
+    <line
+       x1="685.60101"
+       y1="904.05658"
+       x2="685.60101"
+       y2="885.67664"
+       style="stroke-width:1.71"
+       id="line569" />
+    <line
+       x1="685.60101"
+       y1="885.67664"
+       x2="685.60101"
+       y2="869.91663"
+       style="stroke-width:1.71"
+       id="line570" />
+    <line
+       x1="682.08099"
+       y1="1143.2566"
+       x2="682.08099"
+       y2="1216.9666"
+       style="stroke-width:1.71"
+       id="line571" />
+    <line
+       x1="690.87097"
+       y1="1216.9666"
+       x2="690.87097"
+       y2="1196.2865"
+       style="stroke-width:1.71"
+       id="line572" />
+    <line
+       x1="690.88098"
+       y1="1196.2865"
+       x2="690.88098"
+       y2="1175.9265"
+       style="stroke-width:1.71"
+       id="line573" />
+    <line
+       x1="690.88098"
+       y1="1175.9265"
+       x2="690.88098"
+       y2="1156.2266"
+       style="stroke-width:1.71"
+       id="line574" />
+    <line
+       x1="690.88098"
+       y1="1156.2266"
+       x2="690.88098"
+       y2="1137.8365"
+       style="stroke-width:1.71"
+       id="line575" />
+    <line
+       x1="690.88098"
+       y1="1137.8365"
+       x2="690.88098"
+       y2="1122.0765"
+       style="stroke-width:1.71"
+       id="line576" />
+    <line
+       x1="511.60098"
+       y1="1288.8966"
+       x2="511.60098"
+       y2="1332.2166"
+       style="stroke-width:1.71"
+       id="line577" />
+    <line
+       x1="269.26096"
+       y1="1120.0166"
+       x2="269.26096"
+       y2="770.14661"
+       style="stroke-width:1.71"
+       id="line578" />
+    <line
+       x1="402.83096"
+       y1="770.14661"
+       x2="402.83096"
+       y2="701.90662"
+       style="stroke-width:1.71"
+       id="line579" />
+    <line
+       x1="477.48099"
+       y1="701.90662"
+       x2="477.48099"
+       y2="607.11664"
+       style="stroke-width:1.71"
+       id="line580" />
+    <line
+       x1="481.76096"
+       y1="607.11664"
+       x2="481.76096"
+       y2="559.71661"
+       style="stroke-width:1.71"
+       id="line581" />
+    <line
+       x1="481.76096"
+       y1="559.71661"
+       x2="481.76096"
+       y2="596.73663"
+       style="stroke-width:1.71"
+       id="line582" />
+    <line
+       x1="481.76096"
+       y1="559.71661"
+       x2="481.76096"
+       y2="522.69659"
+       style="stroke-width:1.71"
+       id="line583" />
+    <line
+       x1="481.76096"
+       y1="522.69659"
+       x2="481.76096"
+       y2="480.18658"
+       style="stroke-width:1.71"
+       id="line584" />
+    <line
+       x1="484.12094"
+       y1="480.18658"
+       x2="484.12094"
+       y2="416.16656"
+       style="stroke-width:1.71"
+       id="line585" />
+    <line
+       x1="484.12094"
+       y1="416.16656"
+       x2="484.12094"
+       y2="319.65659"
+       style="stroke-width:1.71"
+       id="line586" />
+    <line
+       x1="488.90097"
+       y1="319.65659"
+       x2="488.90097"
+       y2="180.06657"
+       style="stroke-width:1.71"
+       id="line587" />
+    <line
+       x1="498.44095"
+       y1="180.06657"
+       x2="498.44095"
+       y2="235.55658"
+       style="stroke-width:1.71"
+       id="line588" />
+    <line
+       x1="498.44095"
+       y1="235.55658"
+       x2="498.44095"
+       y2="210.60658"
+       style="stroke-width:1.71"
+       id="line589" />
+    <line
+       x1="498.44095"
+       y1="210.60658"
+       x2="498.44095"
+       y2="192.21658"
+       style="stroke-width:1.71"
+       id="line590" />
+    <line
+       x1="498.44095"
+       y1="192.21658"
+       x2="498.44095"
+       y2="176.45657"
+       style="stroke-width:1.71"
+       id="line591" />
+    <line
+       x1="498.44095"
+       y1="235.55658"
+       x2="498.44095"
+       y2="260.51657"
+       style="stroke-width:1.71"
+       id="line592" />
+    <line
+       x1="498.44095"
+       y1="180.06657"
+       x2="498.44095"
+       y2="124.58659"
+       style="stroke-width:1.71"
+       id="line593" />
+    <line
+       x1="500.80099"
+       y1="124.58659"
+       x2="500.80099"
+       y2="104.22659"
+       style="stroke-width:1.71"
+       id="line594" />
+    <line
+       x1="500.80099"
+       y1="104.22659"
+       x2="500.80099"
+       y2="84.526588"
+       style="stroke-width:1.71"
+       id="line595" />
+    <line
+       x1="500.80099"
+       y1="84.526588"
+       x2="500.80099"
+       y2="66.136581"
+       style="stroke-width:1.71"
+       id="line596" />
+    <line
+       x1="500.80099"
+       y1="66.136581"
+       x2="500.80099"
+       y2="50.376587"
+       style="stroke-width:1.71"
+       id="line597" />
+    <line
+       x1="488.90097"
+       y1="319.65659"
+       x2="488.90097"
+       y2="459.24658"
+       style="stroke-width:1.71"
+       id="line598" />
+    <line
+       x1="488.90097"
+       y1="459.24658"
+       x2="488.90097"
+       y2="437.32657"
+       style="stroke-width:1.71"
+       id="line599" />
+    <line
+       x1="493.54099"
+       y1="437.32657"
+       x2="493.54099"
+       y2="414.50659"
+       style="stroke-width:1.71"
+       id="line600" />
+    <line
+       x1="493.55099"
+       y1="414.50659"
+       x2="493.55099"
+       y2="389.87659"
+       style="stroke-width:1.71"
+       id="line601" />
+    <line
+       x1="493.55099"
+       y1="389.87659"
+       x2="493.55099"
+       y2="361.64658"
+       style="stroke-width:1.71"
+       id="line602" />
+    <line
+       x1="493.55099"
+       y1="361.64658"
+       x2="493.55099"
+       y2="336.68658"
+       style="stroke-width:1.71"
+       id="line603" />
+    <line
+       x1="493.55099"
+       y1="336.68658"
+       x2="493.55099"
+       y2="318.30658"
+       style="stroke-width:1.71"
+       id="line604" />
+    <line
+       x1="493.55099"
+       y1="318.30658"
+       x2="493.55099"
+       y2="302.54657"
+       style="stroke-width:1.71"
+       id="line605" />
+    <line
+       x1="493.55099"
+       y1="361.64658"
+       x2="493.55099"
+       y2="386.59659"
+       style="stroke-width:1.71"
+       id="line606" />
+    <line
+       x1="484.12094"
+       y1="416.16656"
+       x2="484.12094"
+       y2="512.67657"
+       style="stroke-width:1.71"
+       id="line607" />
+    <line
+       x1="481.76096"
+       y1="607.11664"
+       x2="481.76096"
+       y2="654.52661"
+       style="stroke-width:1.71"
+       id="line608" />
+    <line
+       x1="481.76096"
+       y1="654.52661"
+       x2="481.76096"
+       y2="638.7666"
+       style="stroke-width:1.71"
+       id="line609" />
+    <line
+       x1="477.48099"
+       y1="701.90662"
+       x2="477.48099"
+       y2="796.69659"
+       style="stroke-width:1.71"
+       id="line610" />
+    <line
+       x1="480.29099"
+       y1="796.69659"
+       x2="480.29099"
+       y2="776.00659"
+       style="stroke-width:1.71"
+       id="line611" />
+    <line
+       x1="480.29099"
+       y1="776.00659"
+       x2="480.29099"
+       y2="755.64661"
+       style="stroke-width:1.71"
+       id="line612" />
+    <line
+       x1="482.62094"
+       y1="755.64661"
+       x2="482.62094"
+       y2="735.94659"
+       style="stroke-width:1.71"
+       id="line613" />
+    <line
+       x1="482.63095"
+       y1="735.94659"
+       x2="482.63095"
+       y2="717.56659"
+       style="stroke-width:1.71"
+       id="line614" />
+    <line
+       x1="482.63095"
+       y1="717.56659"
+       x2="482.63095"
+       y2="701.80658"
+       style="stroke-width:1.71"
+       id="line615" />
+    <line
+       x1="90.420975"
+       y1="2611.5166"
+       x2="90.420975"
+       y2="3194.5566"
+       style="stroke-width:1.71"
+       id="line616" />
+    <line
+       x1="724.48102"
+       y1="3194.5566"
+       x2="724.48102"
+       y2="3176.1667"
+       style="stroke-width:1.71"
+       id="line617" />
+    <line
+       x1="758.19098"
+       y1="3176.1667"
+       x2="758.19098"
+       y2="3160.4067"
+       style="stroke-width:1.71"
+       id="line618" />
+    <text
+       x="944.84003"
+       y="3250.71"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="614.58002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text618"
+       transform="translate(-88.039031,7.336586)">UniRef50_A0AAT9JFC0_Genome_polyprotein_n_1_Tax_Plodia_interpunctella_associated_flavi-like_virus_TaxID_3142499_RepID_A0AAT9JFC0_9FLAV</text>
+    <text
+       x="585.78998"
+       y="2767.3899"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="285.48001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text620"
+       transform="translate(-88.039031,7.336586)">YP_009505994.1-Clas52-_Clostera-anastomosis-granulovirus-B_-Virus</text>
+    <text
+       x="585.78998"
+       y="2746.3799"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="359.97"
+       lengthAdjust="spacingAndGlyphs"
+       id="text621"
+       transform="translate(-88.039031,7.336586)">NC_038371.1_c43597-43001_Clostera_anastomosis_granulovirus_B__complete_genome</text>
+    <text
+       x="585.78998"
+       y="2788.3999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="270.81"
+       lengthAdjust="spacingAndGlyphs"
+       id="text622"
+       transform="translate(-88.039031,7.336586)">YP_009505994.1_Clas52__Clostera_anastomosis_granulovirus_B_</text>
+    <text
+       x="599.16998"
+       y="2725.3601"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="264.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text623"
+       transform="translate(-88.039031,7.336586)">UYE99013.1_MAG__hypothetical_protein__Betabaculovirus_sp._</text>
+    <text
+       x="599.16998"
+       y="2704.3501"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="381.79001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text624"
+       transform="translate(-88.039031,7.336586)">OP589943.1_c43530-42943_MAG__Betabaculovirus_sp._isolate_CafeGV1__complete_genome</text>
+    <text
+       x="612.46997"
+       y="2683.3401"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="294"
+       lengthAdjust="spacingAndGlyphs"
+       id="text625"
+       transform="translate(-88.039031,7.336586)">UXX41861.1_hypothetical_protein__Psilogramma_increta_granulovirus_</text>
+    <text
+       x="612.46997"
+       y="2662.3201"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="384.62"
+       lengthAdjust="spacingAndGlyphs"
+       id="text626"
+       transform="translate(-88.039031,7.336586)">ON803509.1_c42098-41523_Psilogramma_increta_granulovirus_strain_GZ__complete_genome</text>
+    <text
+       x="681.71002"
+       y="2515.23"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="349.94"
+       lengthAdjust="spacingAndGlyphs"
+       id="text627"
+       transform="translate(-88.039031,7.336586)">YP_009513099.1-hypothetical-protein-AsGV069-_Agrotis-segetum-granulovirus_-Virus</text>
+    <text
+       x="681.71002"
+       y="2494.21"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="322.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text628"
+       transform="translate(-88.039031,7.336586)">AY522332.4_c60018-59488_Agrotis_segetum_granulovirus__complete_genome</text>
+    <text
+       x="681.71002"
+       y="2536.24"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="372.76999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text629"
+       transform="translate(-88.039031,7.336586)">NC_039213.1_c59927-59397_Agrotis_segetum_granulovirus_strain_DA__complete_genome</text>
+    <text
+       x="681.71002"
+       y="2557.25"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="365.64999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text630"
+       transform="translate(-88.039031,7.336586)">KC994902.1_c59814-59284_Agrotis_segetum_granulovirus_strain_L1__complete_genome</text>
+    <text
+       x="681.71002"
+       y="2578.27"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="337.17001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text631"
+       transform="translate(-88.039031,7.336586)">YP_009513099.1_hypothetical_protein_AsGV069__Agrotis_segetum_granulovirus_</text>
+    <text
+       x="657.75"
+       y="2242.05"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="275.54999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text632"
+       transform="translate(-88.039031,7.336586)">YP_003429378.1-acetyltransferase-_Betabaculovirus-arrapae_-Virus</text>
+    <text
+       x="657.75"
+       y="2221.03"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="372.28"
+       lengthAdjust="spacingAndGlyphs"
+       id="text633"
+       transform="translate(-88.039031,7.336586)">MW306663.1_c47963-47379_Pieris_rapae_granulovirus_strain_WV1010__complete_genome</text>
+    <text
+       x="657.75"
+       y="2263.0601"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="385.07999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text634"
+       transform="translate(-88.039031,7.336586)">NC_013797.1_c47384-46800_Artogeia_rapae_granulovirus_isolate_Wuhan__complete_genome</text>
+    <text
+       x="657.75"
+       y="2284.0701"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="347.64001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text635"
+       transform="translate(-88.039031,7.336586)">GU111736.1_c47883-47299_Pieris_rapae_granulovirus_strain_E3__complete_genome</text>
+    <text
+       x="665.13"
+       y="2326.1001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="225.72"
+       lengthAdjust="spacingAndGlyphs"
+       id="text636"
+       transform="translate(-88.039031,7.336586)">6XB4_A_Chain_A__Poxin__Pieris_rapae_granulovirus_</text>
+    <text
+       x="665.13"
+       y="2305.0901"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="302.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text637"
+       transform="translate(-88.039031,7.336586)">JX968491.1_c47437-46853_Pieris_rapae_granulovirus__complete_genome</text>
+    <text
+       x="664.02002"
+       y="2347.1201"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="262.75"
+       lengthAdjust="spacingAndGlyphs"
+       id="text638"
+       transform="translate(-88.039031,7.336586)">QNN89449.1_acetyltransferase__Pieris_brassicae_granulovirus_</text>
+    <text
+       x="708.08002"
+       y="2389.1399"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="299.70001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text639"
+       transform="translate(-88.039031,7.336586)">WWX17185.1_acetyltransferase-like__Platynota_idaeusalis_granulovirus_</text>
+    <text
+       x="708.08002"
+       y="2368.1299"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="448.16"
+       lengthAdjust="spacingAndGlyphs"
+       id="text640"
+       transform="translate(-88.039031,7.336586)">PP449363.1_c45278-44679_Platynota_idaeusalis_granulovirus_isolate_IIBBL_BCIPV-2683__complete_genome</text>
+    <text
+       x="663.19"
+       y="2431.1699"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="361.84"
+       lengthAdjust="spacingAndGlyphs"
+       id="text641"
+       transform="translate(-88.039031,7.336586)">YP_009182253.1-acetyltransferase-like-protein-_Diatraea-saccharalis-granulovirus_-Virus</text>
+    <text
+       x="663.19"
+       y="2410.1599"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="342.91"
+       lengthAdjust="spacingAndGlyphs"
+       id="text642"
+       transform="translate(-88.039031,7.336586)">NC_028491.1_c40045-39512_Diatraea_saccharalis_granulovirus__complete_genome</text>
+    <text
+       x="663.19"
+       y="2452.1799"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="347.17001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text643"
+       transform="translate(-88.039031,7.336586)">YP_009182253.1_acetyltransferase-like_protein__Diatraea_saccharalis_granulovirus_</text>
+    <text
+       x="864.34003"
+       y="2473.2"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="243.77"
+       lengthAdjust="spacingAndGlyphs"
+       id="text644"
+       transform="translate(-88.039031,7.336586)">UYX49688.1_acetyltransferase__Darna_trima_granulovirus_</text>
+    <text
+       x="653.75"
+       y="1653.66"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="327.64001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text645"
+       transform="translate(-88.039031,7.336586)">NP_663224.1-hypothetical-protein-_Phthorimaea-operculella-granulovirus_-Virus</text>
+    <text
+       x="653.75"
+       y="1632.65"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="453.35999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text646"
+       transform="translate(-88.039031,7.336586)">MK033567.1_c51299-50766_Phthorimaea_operculella_granulovirus_isolate_PhopGV-GR1.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1674.6801"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="448.14001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text647"
+       transform="translate(-88.039031,7.336586)">MK033570.1_c51325-50792_Phthorimaea_operculella_granulovirus_isolate_PhopGV-IT1.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1695.6899"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="451.45001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text648"
+       transform="translate(-88.039031,7.336586)">MK033571.1_c51270-50737_Phthorimaea_operculella_granulovirus_isolate_PhopGV-LS1.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1716.7"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="451.45001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text649"
+       transform="translate(-88.039031,7.336586)">MK033573.1_c51009-50476_Phthorimaea_operculella_granulovirus_isolate_PhopGV-LS2.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1737.72"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="451.45001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text650"
+       transform="translate(-88.039031,7.336586)">MK033574.1_c51215-50682_Phthorimaea_operculella_granulovirus_isolate_PhopGV-LS3.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1758.73"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="453.35999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text651"
+       transform="translate(-88.039031,7.336586)">MK033569.1_c51344-50811_Phthorimaea_operculella_granulovirus_isolate_PhopGV-GR2.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1779.75"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="453.35999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text652"
+       transform="translate(-88.039031,7.336586)">MK033568.1_c51299-50766_Phthorimaea_operculella_granulovirus_isolate_PhopGV-GR1.2__complete_genome</text>
+    <text
+       x="653.75"
+       y="1800.76"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="359.48001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text653"
+       transform="translate(-88.039031,7.336586)">NC_004062.1_c51221-50688_Phthorimaea_operculella_granulovirus__complete_genome</text>
+    <text
+       x="653.75"
+       y="1821.77"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="452.88"
+       lengthAdjust="spacingAndGlyphs"
+       id="text654"
+       transform="translate(-88.039031,7.336586)">MK033565.1_c51203-50670_Phthorimaea_operculella_granulovirus_isolate_PhopGV-CR3.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1842.79"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="434.85999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text655"
+       transform="translate(-88.039031,7.336586)">MK033575.1_c51207-50674_Phthorimaea_operculella_granulovirus_isolate_PhopGV-R__complete_genome</text>
+    <text
+       x="653.75"
+       y="1863.8"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="449.09"
+       lengthAdjust="spacingAndGlyphs"
+       id="text656"
+       transform="translate(-88.039031,7.336586)">MK033576.1_c51065-50532_Phthorimaea_operculella_granulovirus_isolate_PhopGV-Ym.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1884.8101"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="403.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text657"
+       transform="translate(-88.039031,7.336586)">KU666536.1_c51150-50617_Phthorimaea_operculella_granulovirus_isolate_SA__complete_genome</text>
+    <text
+       x="653.75"
+       y="1905.83"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="452.88"
+       lengthAdjust="spacingAndGlyphs"
+       id="text658"
+       transform="translate(-88.039031,7.336586)">MK033566.1_c51126-50593_Phthorimaea_operculella_granulovirus_isolate_PhopGV-CR5.1__complete_genome</text>
+    <text
+       x="653.75"
+       y="1926.84"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="312.95999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text659"
+       transform="translate(-88.039031,7.336586)">NP_663224.1_hypothetical_protein__Phthorimaea_operculella_granulovirus_</text>
+    <text
+       x="653.75"
+       y="1947.85"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="451.45001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text660"
+       transform="translate(-88.039031,7.336586)">MK033572.1_c51154-50621_Phthorimaea_operculella_granulovirus_isolate_PhopGV-LS1.2__complete_genome</text>
+    <text
+       x="653.75"
+       y="1968.87"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="424.95001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text661"
+       transform="translate(-88.039031,7.336586)">UniRef50_Q8JS00_Acetyltransferase_n_14_Tax_Betabaculovirus_TaxID_558017_RepID_Q8JS00_9BBAC</text>
+    <text
+       x="765.57001"
+       y="2010.9"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="386.95001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text662"
+       transform="translate(-88.039031,7.336586)">YP_009229944.1-acetyltransferase-like_protein-_Cnaphalocrocis-medinalis-granulovirus_-Virus</text>
+    <text
+       x="765.57001"
+       y="1989.88"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="370.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text663"
+       transform="translate(-88.039031,7.336586)">YP_009229944.1_acetyltransferase-like_protein__Cnaphalocrocis_medinalis_granulovirus_</text>
+    <text
+       x="765.57001"
+       y="2031.91"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="459.10001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text664"
+       transform="translate(-88.039031,7.336586)">UniRef50_A0A120L138_Acetyltransferase_n_2_Tax_Betabaculovirus_TaxID_558017_RepID_A0A120L138_9BBAC</text>
+    <text
+       x="708.40002"
+       y="2179.01"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="331.95999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text665"
+       transform="translate(-88.039031,7.336586)">YP_010800776.1-acetyltransferase-_Matsumuraeses-phaseoli-granulovirus_-Virus</text>
+    <text
+       x="708.40002"
+       y="2157.99"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="418.29999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text666"
+       transform="translate(-88.039031,7.336586)">NC_076905.1_c52452-51913_Matsumuraeses_phaseoli_granulovirus_strain_IOZ01__complete_genome</text>
+    <text
+       x="708.40002"
+       y="2200.02"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="315.39001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text667"
+       transform="translate(-88.039031,7.336586)">YP_010800776.1_acetyltransferase__Matsumuraeses_phaseoli_granulovirus_</text>
+    <text
+       x="750.31"
+       y="2073.9399"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="255.59"
+       lengthAdjust="spacingAndGlyphs"
+       id="text668"
+       transform="translate(-88.039031,7.336586)">NP_872510.1-ORF_56-_Adoxophyes-orana-granulovirus_-Virus</text>
+    <text
+       x="750.31"
+       y="2052.9199"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="337.20001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text669"
+       transform="translate(-88.039031,7.336586)">NC_005038.1_c41244-40684_Adoxophyes_orana_granulovirus__complete_genome</text>
+    <text
+       x="750.31"
+       y="2094.95"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="401.20999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text670"
+       transform="translate(-88.039031,7.336586)">KM226332.1_c41164-40604_Adoxophyes_orana_granulovirus_strain_Miyazaki__complete_genome</text>
+    <text
+       x="750.31"
+       y="2115.96"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="239.00999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text671"
+       transform="translate(-88.039031,7.336586)">NP_872510.1_ORF_56__Adoxophyes_orana_granulovirus_</text>
+    <text
+       x="750.31"
+       y="2136.98"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="449.09"
+       lengthAdjust="spacingAndGlyphs"
+       id="text672"
+       transform="translate(-88.039031,7.336586)">UniRef50_Q7T9V9_ADOR55_n_1_Tax_Adoxophyes_orana_granulovirus_TaxID_170617_RepID_Q7T9V9_GVAO</text>
+    <text
+       x="618.78003"
+       y="2620.29"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="287.81"
+       lengthAdjust="spacingAndGlyphs"
+       id="text673"
+       transform="translate(-88.039031,7.336586)">YP_654469.1-unknown-_Choristoneura-fumiferana-granulovirus_-Virus</text>
+    <text
+       x="618.78003"
+       y="2599.28"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="364.69"
+       lengthAdjust="spacingAndGlyphs"
+       id="text674"
+       transform="translate(-88.039031,7.336586)">NC_008168.1_c44955-44383_Choristoneura_fumiferana_granulovirus__complete_genome</text>
+    <text
+       x="618.78003"
+       y="2641.3101"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="271.23001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text675"
+       transform="translate(-88.039031,7.336586)">YP_654469.1_unknown__Choristoneura_fumiferana_granulovirus_</text>
+    <text
+       x="556.21002"
+       y="2830.4299"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="293.03"
+       lengthAdjust="spacingAndGlyphs"
+       id="text676"
+       transform="translate(-88.039031,7.336586)">YP_009091897.1-hypothetical-protein-_Erinnyis-ello-granulovirus_-Virus</text>
+    <text
+       x="556.21002"
+       y="2809.4199"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="383.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text677"
+       transform="translate(-88.039031,7.336586)">KX859082.1_c41250-40654_Erinnyis_ello_granulovirus_isolate_ErelGV-00__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2851.45"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="385.54999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text678"
+       transform="translate(-88.039031,7.336586)">KX859084.1_c41095-40499_Erinnyis_ello_granulovirus_isolate_ErelGV-PA__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2872.46"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="383.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text679"
+       transform="translate(-88.039031,7.336586)">KX859079.1_c41222-40626_Erinnyis_ello_granulovirus_isolate_ErelGV-94__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2893.47"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="311.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text680"
+       transform="translate(-88.039031,7.336586)">NC_025257.1_c41251-40655_Erinnyis_ello_granulovirus__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2914.49"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="383.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text681"
+       transform="translate(-88.039031,7.336586)">KX859080.1_c41172-40576_Erinnyis_ello_granulovirus_isolate_ErelGV-98__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2935.5"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="386.03"
+       lengthAdjust="spacingAndGlyphs"
+       id="text682"
+       transform="translate(-88.039031,7.336586)">KX859083.1_c41213-40617_Erinnyis_ello_granulovirus_isolate_ErelGV-AC__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2956.51"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="383.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text683"
+       transform="translate(-88.039031,7.336586)">KX859081.1_c41253-40657_Erinnyis_ello_granulovirus_isolate_ErelGV-99__complete_genome</text>
+    <text
+       x="556.21002"
+       y="2977.53"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="278.35001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text684"
+       transform="translate(-88.039031,7.336586)">YP_009091897.1_hypothetical_protein__Erinnyis_ello_granulovirus_</text>
+    <text
+       x="604.48999"
+       y="1464.54"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="338.56"
+       lengthAdjust="spacingAndGlyphs"
+       id="text685"
+       transform="translate(-88.039031,7.336586)">YP_009111323.1-hypothetical-protein-_Dendrolimus-punctatus-cypovirus-22_-Virus</text>
+    <text
+       x="604.48999"
+       y="1443.53"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="469.04001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text686"
+       transform="translate(-88.039031,7.336586)">NC_025842.1_330-911_Dendrolimus_punctatus_cypovirus_22_isolate_Macheng_segment_14__complete_sequence</text>
+    <text
+       x="604.48999"
+       y="1485.55"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="462.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text687"
+       transform="translate(-88.039031,7.336586)">KJ191117.1_330-911_Dendrolimus_punctatus_cypovirus_22_isolate_Macheng_segment_14__complete_sequence</text>
+    <text
+       x="604.48999"
+       y="1506.5699"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="325.79001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text688"
+       transform="translate(-88.039031,7.336586)">YP_009111323.1_hypothetical_protein__Dendrolimus_punctatus_cypovirus_22_</text>
+    <text
+       x="604.48999"
+       y="1527.58"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="589"
+       lengthAdjust="spacingAndGlyphs"
+       id="text689"
+       transform="translate(-88.039031,7.336586)">UniRef50_A0A0A7E6B9_Uncharacterized_protein_n_1_Tax_Dendrolimus_punctatus_cypovirus_22_TaxID_1577776_RepID_A0A0A7E6B9_9REOV</text>
+    <text
+       x="604.48999"
+       y="1569.61"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="280.70999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text690"
+       transform="translate(-88.039031,7.336586)">WWV87601.1_MAG__hypothetical_protein__partial__Reoviridae_sp._</text>
+    <text
+       x="604.48999"
+       y="1548.59"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="350.95001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text691"
+       transform="translate(-88.039031,7.336586)">OR868260.1_3-536_MAG__Reoviridae_sp._isolate_MSJDC22/4022_genomic_sequence</text>
+    <text
+       x="606.89001"
+       y="1590.62"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="451.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text692"
+       transform="translate(-88.039031,7.336586)">GGET01004023.1_235-822_TSA__Ctenopseustis_herana_Cher_SOT_k39_C445105_transcribed_RNA_sequence</text>
+    <text
+       x="601.87"
+       y="1611.64"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="506.07001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text693"
+       transform="translate(-88.039031,7.336586)">GCOB01023893.1_319-900_TSA__Bicyclus_anynana_breed_wildtype_C215988_a_27_0_l_1117__transcribed_RNA_sequence</text>
+    <text
+       x="794.03998"
+       y="1380.48"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="277.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text694"
+       transform="translate(-88.039031,7.336586)">YP_009002595.1-hypothetical-protein-_Inachis-io-cypovirus-2_-Virus</text>
+    <text
+       x="794.03998"
+       y="1359.47"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="265.10001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text695"
+       transform="translate(-88.039031,7.336586)">YP_009002595.1_hypothetical_protein__Inachis_io_cypovirus_2_</text>
+    <text
+       x="794.03998"
+       y="1401.5"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="429.14001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text696"
+       transform="translate(-88.039031,7.336586)">UniRef50_W6EMH4_Uncharacterized_protein_n_2_Tax_Cypovirus_TaxID_10981_RepID_W6EMH4_9REOV</text>
+    <text
+       x="795.62"
+       y="1422.51"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="189.22"
+       lengthAdjust="spacingAndGlyphs"
+       id="text697"
+       transform="translate(-88.039031,7.336586)">QIQ51344.1_VP8__Erinnyis_ello_cypovirus_2_</text>
+    <text
+       x="757"
+       y="1296.4301"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="420.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text698"
+       transform="translate(-88.039031,7.336586)">GGFH01055693.1_529-1071_TSA__Ostrinia_furnacalis_Unigene22273_All__transcribed_RNA_sequence</text>
+    <text
+       x="761.87"
+       y="1275.42"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="421.62"
+       lengthAdjust="spacingAndGlyphs"
+       id="text699"
+       transform="translate(-88.039031,7.336586)">GAVD01019543.1_c793-251_TSA__Ostrinia_nubilalis_comp26271_c0_seq1_transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="876.15002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text700"
+       transform="translate(-88.039031,7.336586)">GITH01006499.1_579-1124_TSA__Busseola_fusca_TRINITY_DN11962_c0_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="855.14001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text701"
+       transform="translate(-88.039031,7.336586)">GITB01027007.1_579-1124_TSA__Busseola_fusca_TRINITY_DN6525_c1_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="897.16998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text702"
+       transform="translate(-88.039031,7.336586)">GITD01031327.1_610-1155_TSA__Busseola_fusca_TRINITY_DN6923_c0_g1_i5__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="918.17999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text703"
+       transform="translate(-88.039031,7.336586)">GITA01060387.1_c947-402_TSA__Busseola_fusca_TRINITY_DN9607_c0_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="939.20001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text704"
+       transform="translate(-88.039031,7.336586)">GITE01038748.1_596-1141_TSA__Busseola_fusca_TRINITY_DN7383_c0_g1_i3__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="960.21002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text705"
+       transform="translate(-88.039031,7.336586)">GISZ01027483.1_c890-345_TSA__Busseola_fusca_TRINITY_DN6880_c0_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="981.21997"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text706"
+       transform="translate(-88.039031,7.336586)">GITE01038746.1_596-1141_TSA__Busseola_fusca_TRINITY_DN7383_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="1002.24"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="444.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text707"
+       transform="translate(-88.039031,7.336586)">GISL01075369.1_596-1141_TSA__Busseola_fusca_TRINITY_DN22619_c1_g2_i3__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="1023.25"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="444.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text708"
+       transform="translate(-88.039031,7.336586)">GISL01075367.1_596-1141_TSA__Busseola_fusca_TRINITY_DN22619_c1_g2_i1__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="1044.26"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text709"
+       transform="translate(-88.039031,7.336586)">GITB01027009.1_579-1124_TSA__Busseola_fusca_TRINITY_DN6525_c1_g1_i4__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="1065.28"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.82001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text710"
+       transform="translate(-88.039031,7.336586)">GITG01003213.1_c858-313_TSA__Busseola_fusca_TRINITY_DN11371_c0_g1_i4__transcribed_RNA_sequence</text>
+    <text
+       x="782.70001"
+       y="1086.29"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text711"
+       transform="translate(-88.039031,7.336586)">GITB01027008.1_176-598_TSA__Busseola_fusca_TRINITY_DN6525_c1_g1_i3__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1128.3199"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="450.09"
+       lengthAdjust="spacingAndGlyphs"
+       id="text712"
+       transform="translate(-88.039031,7.336586)">GITD01031326.1_528-1073_TSA__Busseola_fusca_TRINITY_DN6923_c0_g1_i4_2__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1107.3101"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text713"
+       transform="translate(-88.039031,7.336586)">GITB01027010.1_579-1124_TSA__Busseola_fusca_TRINITY_DN6525_c1_g2_i1__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1149.33"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="444.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text714"
+       transform="translate(-88.039031,7.336586)">GISL01075368.1_596-1141_TSA__Busseola_fusca_TRINITY_DN22619_c1_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1170.35"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text715"
+       transform="translate(-88.039031,7.336586)">GITA01060388.1_c939-394_TSA__Busseola_fusca_TRINITY_DN9607_c0_g1_i3__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1191.36"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text716"
+       transform="translate(-88.039031,7.336586)">GITH01006498.1_579-1124_TSA__Busseola_fusca_TRINITY_DN11962_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1212.37"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text717"
+       transform="translate(-88.039031,7.336586)">GISZ01027482.1_c873-328_TSA__Busseola_fusca_TRINITY_DN6880_c0_g2_i1__transcribed_RNA_sequence</text>
+    <text
+       x="787.97998"
+       y="1233.39"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="436.32999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text718"
+       transform="translate(-88.039031,7.336586)">GITG01003212.1_c433-8_TSA__Busseola_fusca_TRINITY_DN11371_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="733.76001"
+       y="1254.4"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="413.57001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text719"
+       transform="translate(-88.039031,7.336586)">GBPX01008733.1_42-374_TSA__Podalonia_hirsuta_C82229_a_3_0_l_543_transcribed_RNA_sequence</text>
+    <text
+       x="795.52002"
+       y="1338.46"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="458.14999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text720"
+       transform="translate(-88.039031,7.336586)">GECN01066150.1_483-857_TSA__Diachasma_alloeum_Dall_Trinity_91778_c0_g1_i1_transcribed_RNA_sequence</text>
+    <text
+       x="795.52002"
+       y="1317.4399"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="458.14999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text721"
+       transform="translate(-88.039031,7.336586)">GECN01066151.1_483-857_TSA__Diachasma_alloeum_Dall_Trinity_91778_c0_g1_i2_transcribed_RNA_sequence</text>
+    <text
+       x="563.53003"
+       y="834.13"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="449.10999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text722"
+       transform="translate(-88.039031,7.336586)">GETN01004553.1_c527-21_TSA__Scirpophaga_incertulas_YSB_LS_c12375_g2_i1_transcribed_RNA_sequence</text>
+    <text
+       x="578.85999"
+       y="602.97998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="441.07001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text723"
+       transform="translate(-88.039031,7.336586)">GITG01024684.1_252-767_TSA__Busseola_fusca_TRINITY_DN13360_c1_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="578.85999"
+       y="581.96002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text724"
+       transform="translate(-88.039031,7.336586)">GISZ01038055.1_c798-283_TSA__Busseola_fusca_TRINITY_DN7936_c0_g3_i6__transcribed_RNA_sequence</text>
+    <text
+       x="581.21997"
+       y="539.92999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="439.64999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text725"
+       transform="translate(-88.039031,7.336586)">GITF01031871.1_c622-107_TSA__Busseola_fusca_TRINITY_DN6910_c0_g3_i1__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="182.7"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text726"
+       transform="translate(-88.039031,7.336586)">GITH01007806.1_681-1196_TSA__Busseola_fusca_TRINITY_DN12105_c1_g1_i4__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="161.69"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="441.07001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text727"
+       transform="translate(-88.039031,7.336586)">GITG01024686.1_252-767_TSA__Busseola_fusca_TRINITY_DN13360_c1_g1_i9__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="203.71001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text728"
+       transform="translate(-88.039031,7.336586)">GISZ01038056.1_c875-360_TSA__Busseola_fusca_TRINITY_DN7936_c0_g4_i1__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="224.73"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text729"
+       transform="translate(-88.039031,7.336586)">GITB01035238.1_c556-359_TSA__Busseola_fusca_TRINITY_DN7350_c0_g1_i4__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="266.76001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text730"
+       transform="translate(-88.039031,7.336586)">GISL01063689.1_c453-7_TSA__Busseola_fusca_TRINITY_DN21602_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="595.53998"
+       y="245.74001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="443.92001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text731"
+       transform="translate(-88.039031,7.336586)">GITJ01001143.1_606-1016_TSA__Busseola_fusca_TRINITY_DN10443_c0_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="98.650002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text732"
+       transform="translate(-88.039031,7.336586)">GITA01001680.1_c897-382_TSA__Busseola_fusca_TRINITY_DN10117_c1_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="77.629997"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text733"
+       transform="translate(-88.039031,7.336586)">GITD01050341.1_c829-359_TSA__Busseola_fusca_TRINITY_DN8801_c0_g2_i1__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="56.619999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text734"
+       transform="translate(-88.039031,7.336586)">GITE01025358.1_c402-184_TSA__Busseola_fusca_TRINITY_DN5348_c0_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="35.599998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text735"
+       transform="translate(-88.039031,7.336586)">GITE01025359.1_c415-197_TSA__Busseola_fusca_TRINITY_DN5348_c0_g2_i3__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="119.66"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text736"
+       transform="translate(-88.039031,7.336586)">GITB01035239.1_609-947_TSA__Busseola_fusca_TRINITY_DN7350_c0_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="597.90997"
+       y="140.67"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text737"
+       transform="translate(-88.039031,7.336586)">GITE01025360.1_c228-28_TSA__Busseola_fusca_TRINITY_DN5348_c1_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="308.78"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="441.07001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text738"
+       transform="translate(-88.039031,7.336586)">GITG01024683.1_252-767_TSA__Busseola_fusca_TRINITY_DN13360_c1_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="287.76999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text739"
+       transform="translate(-88.039031,7.336586)">GITA01001683.1_c970-455_TSA__Busseola_fusca_TRINITY_DN10117_c1_g1_i5__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="329.79999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text740"
+       transform="translate(-88.039031,7.336586)">GISZ01038053.1_c876-361_TSA__Busseola_fusca_TRINITY_DN7936_c0_g3_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="350.81"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text741"
+       transform="translate(-88.039031,7.336586)">GITH01007805.1_681-1196_TSA__Busseola_fusca_TRINITY_DN12105_c1_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="392.84"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text742"
+       transform="translate(-88.039031,7.336586)">GISL01063696.1_56-298_TSA__Busseola_fusca_TRINITY_DN21602_c1_g3_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="371.82001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text743"
+       transform="translate(-88.039031,7.336586)">GITD01050339.1_609-809_TSA__Busseola_fusca_TRINITY_DN8801_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="413.85001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text744"
+       transform="translate(-88.039031,7.336586)">GITD01050345.1_c638-309_TSA__Busseola_fusca_TRINITY_DN8801_c0_g4_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="434.87"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text745"
+       transform="translate(-88.039031,7.336586)">GITB01035236.1_c561-364_TSA__Busseola_fusca_TRINITY_DN7350_c0_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="590.65002"
+       y="455.88"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text746"
+       transform="translate(-88.039031,7.336586)">GISL01128425.1_57-200_TSA__Busseola_fusca_TRINITY_DN27406_c70_g1_i1__transcribed_RNA_sequence</text>
+    <text
+       x="586"
+       y="476.89001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text747"
+       transform="translate(-88.039031,7.336586)">GITB01035241.1_609-947_TSA__Busseola_fusca_TRINITY_DN7350_c0_g2_i4__transcribed_RNA_sequence</text>
+    <text
+       x="583.57001"
+       y="518.91998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="449.60999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text748"
+       transform="translate(-88.039031,7.336586)">GITE01025356.1_c685-170_TSA__Busseola_fusca_TRINITY_DN5348_c0_g1_i1_2__transcribed_RNA_sequence</text>
+    <text
+       x="581.21997"
+       y="497.91"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text749"
+       transform="translate(-88.039031,7.336586)">GITB01035237.1_c654-457_TSA__Busseola_fusca_TRINITY_DN7350_c0_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="578.85999"
+       y="560.95001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text750"
+       transform="translate(-88.039031,7.336586)">GITA01001681.1_c673-158_TSA__Busseola_fusca_TRINITY_DN10117_c1_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="581.21002"
+       y="645"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="443.92001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text751"
+       transform="translate(-88.039031,7.336586)">GITJ01001144.1_606-1121_TSA__Busseola_fusca_TRINITY_DN10443_c0_g2_i3__transcribed_RNA_sequence</text>
+    <text
+       x="578.85999"
+       y="623.98999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text752"
+       transform="translate(-88.039031,7.336586)">GITD01050340.1_609-809_TSA__Busseola_fusca_TRINITY_DN8801_c0_g1_i2__transcribed_RNA_sequence</text>
+    <text
+       x="578.85999"
+       y="666.02002"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text753"
+       transform="translate(-88.039031,7.336586)">GITB01035242.1_609-947_TSA__Busseola_fusca_TRINITY_DN7350_c0_g2_i6__transcribed_RNA_sequence</text>
+    <text
+       x="577.39001"
+       y="813.10999"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="445.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text754"
+       transform="translate(-88.039031,7.336586)">GITH01007807.1_681-1196_TSA__Busseola_fusca_TRINITY_DN12105_c1_g1_i5__transcribed_RNA_sequence</text>
+    <text
+       x="579.72998"
+       y="771.09003"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="441.07001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text755"
+       transform="translate(-88.039031,7.336586)">GITG01024685.1_252-767_TSA__Busseola_fusca_TRINITY_DN13360_c1_g1_i3__transcribed_RNA_sequence</text>
+    <text
+       x="579.72998"
+       y="750.07001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.12"
+       lengthAdjust="spacingAndGlyphs"
+       id="text756"
+       transform="translate(-88.039031,7.336586)">GISZ01038054.1_c484-2_TSA__Busseola_fusca_TRINITY_DN7936_c0_g3_i2_2__transcribed_RNA_sequence</text>
+    <text
+       x="582.46997"
+       y="708.03998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text757"
+       transform="translate(-88.039031,7.336586)">GISL01063697.1_25-438_TSA__Busseola_fusca_TRINITY_DN21602_c1_g3_i2__transcribed_RNA_sequence</text>
+    <text
+       x="589.19"
+       y="687.03003"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="439.17999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text758"
+       transform="translate(-88.039031,7.336586)">GITJ01001142.1_1-396_TSA__Busseola_fusca_TRINITY_DN10443_c0_g2_i1_2__transcribed_RNA_sequence</text>
+    <text
+       x="579.72998"
+       y="729.06"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="435.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text759"
+       transform="translate(-88.039031,7.336586)">GITB01035240.1_609-947_TSA__Busseola_fusca_TRINITY_DN7350_c0_g2_i3__transcribed_RNA_sequence</text>
+    <text
+       x="577.39001"
+       y="792.09998"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="440.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text760"
+       transform="translate(-88.039031,7.336586)">GITD01050342.1_c758-420_TSA__Busseola_fusca_TRINITY_DN8801_c0_g2_i2__transcribed_RNA_sequence</text>
+    <text
+       x="832.71997"
+       y="3208.6799"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="390.25"
+       lengthAdjust="spacingAndGlyphs"
+       id="text761"
+       transform="translate(-88.039031,7.336586)">YP_008003765.1-unknown-similar-to-AMEV225-_Mythimna-separata-entomopoxvirus-_L__-Virus</text>
+    <text
+       x="944.84003"
+       y="3187.6699"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="396.87"
+       lengthAdjust="spacingAndGlyphs"
+       id="text762"
+       transform="translate(-88.039031,7.336586)">YP_008004026.1-unknown-similar-to-AMEV225-_Adoxophyes-honmai-entomopoxvirus-_L__-Virus</text>
+    <text
+       x="912.88"
+       y="3166.6499"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="415.85001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text763"
+       transform="translate(-88.039031,7.336586)">YP_008004632.1-unknown-similar-to-AMEV225-_Choristoneura-rosaceana-entomopoxvirus-_L__-Virus</text>
+    <text
+       x="917.84003"
+       y="3145.6399"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="385.95999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text764"
+       transform="translate(-88.039031,7.336586)">YP_008004331.1-unknown-similar-to-AMEV225-_Choristoneura-biennis-entomopoxvirus_-Virus</text>
+    <text
+       x="421.54999"
+       y="3229.6899"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial"
+       textLength="470.42999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text765"
+       transform="translate(-88.039031,7.336586)">GETN01001522.1_9735-10283_TSA__Scirpophaga_incertulas_YSB_LS_CL8687Contig1_transcribed_RNA_sequence</text>
+    <text
+       x="594.81"
+       y="3103.6101"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="595.62"
+       lengthAdjust="spacingAndGlyphs"
+       id="text766"
+       transform="translate(-88.039031,7.336586)">UniRef50_A0AA86IVU2_Acetyltransferase-like_protein_n_1_Tax_Spodoptera_litura_male-killing_virus_TaxID_2996810_RepID_A0AA86IVU2_9VIRU</text>
+    <text
+       x="594.81"
+       y="3082.6001"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="405.95001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text767"
+       transform="translate(-88.039031,7.336586)">LC740466.1_409-939_Spodoptera_litura_male-killing_virus_RNA__segment_3__complete_sequence</text>
+    <text
+       x="594.81"
+       y="3124.6201"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="339.06"
+       lengthAdjust="spacingAndGlyphs"
+       id="text768"
+       transform="translate(-88.039031,7.336586)">BDU47020.1_acetyltransferase-like_protein__Spodoptera_litura_male-killing_virus_</text>
+    <text
+       x="615.38"
+       y="3019.5601"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="300.64001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text769"
+       transform="translate(-88.039031,7.336586)">URG17358.1_MAG__hypothetical_protein__partial__Betabaculovirus_sp._</text>
+    <text
+       x="615.38"
+       y="2998.54"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="476.60001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text770"
+       transform="translate(-88.039031,7.336586)">MW584307.1_3-431_MAG__Betabaculovirus_sp._isolate_TR5412_c0_g1_i1_hypothetical_protein_mRNA__partial_cds</text>
+    <text
+       x="594.34998"
+       y="3040.5701"
+       style="font-weight:bold;font-size:8.54px;font-family:Arial;fill:#0058c8;fill-opacity:1"
+       textLength="544.41998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text771"
+       transform="translate(-88.039031,7.336586)">MW584308.1_245-853_MAG__Betabaculovirus_sp._isolate_TR81448_c0_g1_i1_hypothetical_protein-like_mRNA__complete_sequence</text>
+    <text
+       x="185.21001"
+       y="2601.49"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="10.43"
+       lengthAdjust="spacingAndGlyphs"
+       id="text772"
+       transform="translate(-107.35221,316.02593)">95</text>
+    <text
+       x="320.04001"
+       y="2018.45"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text773"
+       transform="translate(-117.14403,5.5726469)">87.1</text>
+    <text
+       x="367.76999"
+       y="2926.9199"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text774"
+       transform="translate(-116.55554,6.9845303)">74.2</text>
+    <text
+       x="396.66"
+       y="3070.26"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text775"
+       transform="translate(-117.53317,7.0325226)">79.6</text>
+    <text
+       x="588.45001"
+       y="3019.04"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text776"
+       transform="translate(-116.62098,6.7284593)">99.9</text>
+    <text
+       x="614.25"
+       y="3003.28"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text777"
+       transform="translate(-116.31692,7.336586)">89.5</text>
+    <text
+       x="593.28003"
+       y="3103.0901"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text778"
+       transform="translate(-115.10067,7.6406493)">100</text>
+    <text
+       x="504.63"
+       y="2783.5701"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text779"
+       transform="translate(-116.62098,7.9447126)">99.7</text>
+    <text
+       x="544.77002"
+       y="2727.47"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text780"
+       transform="translate(-116.62098,7.336586)">97.2</text>
+    <text
+       x="584.65997"
+       y="2766.8799"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text781"
+       transform="translate(-116.01286,7.336586)">99.1</text>
+    <text
+       x="559.37"
+       y="2688.0701"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text782"
+       transform="translate(-116.92505,7.336586)">68.6</text>
+    <text
+       x="598.03998"
+       y="2709.0901"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text783"
+       transform="translate(-116.92505,7.336586)">98.9</text>
+    <text
+       x="611.34003"
+       y="2667.0601"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text784"
+       transform="translate(-117.22911,7.336586)">99.7</text>
+    <text
+       x="530.53003"
+       y="2505.1699"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text785"
+       transform="translate(-116.31692,7.0325226)">95.7</text>
+    <text
+       x="542.16998"
+       y="2390.5601"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text786"
+       transform="translate(-117.22911,7.9447126)">75.4</text>
+    <text
+       x="680.19"
+       y="2552.8"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text787"
+       transform="translate(-113.58035,7.0325226)">100</text>
+    <text
+       x="577.40002"
+       y="2396.02"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text788"
+       transform="translate(-116.31692,7.0325226)">87.7</text>
+    <text
+       x="599.13"
+       y="2342.99"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="10.43"
+       lengthAdjust="spacingAndGlyphs"
+       id="text789"
+       transform="translate(-107.80315,7.336586)">69</text>
+    <text
+       x="646.40997"
+       y="2313.1101"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text790"
+       transform="translate(-117.53317,8.2487759)">98.2</text>
+    <text
+       x="654.25"
+       y="2284.8701"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text791"
+       transform="translate(-117.22911,6.7284593)">83.5</text>
+    <text
+       x="656.60999"
+       y="2241.53"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text792"
+       transform="translate(-116.31692,7.6406493)">83.4</text>
+    <text
+       x="664"
+       y="2309.8301"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text793"
+       transform="translate(-113.27629,18.890992)">91.9</text>
+    <text
+       x="706.54999"
+       y="2372.8701"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text794"
+       transform="translate(-113.88441,7.0325226)">100</text>
+    <text
+       x="596.09998"
+       y="2449.04"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text795"
+       transform="translate(-116.31692,19.195055)">59.7</text>
+    <text
+       x="662.06"
+       y="2430.6599"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text796"
+       transform="translate(-116.01286,7.336586)">96.2</text>
+    <text
+       x="571.28998"
+       y="2060.6201"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text797"
+       transform="translate(-117.53317,7.0325226)">84.2</text>
+    <text
+       x="589.62"
+       y="1976.23"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text798"
+       transform="translate(-116.62098,7.0325226)">76.8</text>
+    <text
+       x="652.60999"
+       y="1942.09"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text799"
+       transform="translate(-117.22911,6.7284593)">98.7</text>
+    <text
+       x="764.04999"
+       y="2010.38"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text800"
+       transform="translate(-114.18848,7.0325226)">100</text>
+    <text
+       x="621.70001"
+       y="2145"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text801"
+       transform="translate(-116.01286,7.6406493)">94.5</text>
+    <text
+       x="707.26001"
+       y="2178.49"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text802"
+       transform="translate(-116.62098,7.336586)">99.7</text>
+    <text
+       x="748.78003"
+       y="2111.51"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text803"
+       transform="translate(-113.58035,7.336586)">100</text>
+    <text
+       x="617.25"
+       y="2619.78"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text804"
+       transform="translate(-114.18848,7.6406493)">100</text>
+    <text
+       x="555.08002"
+       y="2950.8301"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text805"
+       transform="translate(-116.62098,7.336586)">95.9</text>
+    <text
+       x="364.04999"
+       y="1109.98"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="10.43"
+       lengthAdjust="spacingAndGlyphs"
+       id="text806"
+       transform="translate(-108.41127,7.0325226)">73</text>
+    <text
+       x="480.01999"
+       y="1459.84"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text807"
+       transform="translate(-116.92505,7.336586)">97.7</text>
+    <text
+       x="595.95001"
+       y="1581.08"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text808"
+       transform="translate(-118.44536,7.336586)">99.4</text>
+    <text
+       x="602.17999"
+       y="1556.29"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="10.43"
+       lengthAdjust="spacingAndGlyphs"
+       id="text809"
+       transform="translate(-108.41127,7.0325226)">74</text>
+    <text
+       x="771.10999"
+       y="1398.35"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text810"
+       transform="translate(-115.10067,7.336586)">100</text>
+    <text
+       x="792.90997"
+       y="1379.97"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text811"
+       transform="translate(-116.62098,7.336586)">84.3</text>
+    <text
+       x="607.57001"
+       y="1278.86"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text812"
+       transform="translate(-116.01286,7.336586)">93.1</text>
+    <text
+       x="656.48999"
+       y="1235.54"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text813"
+       transform="translate(-116.92505,7.9447126)">57.4</text>
+    <text
+       x="754.69"
+       y="1280.15"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="10.43"
+       lengthAdjust="spacingAndGlyphs"
+       id="text814"
+       transform="translate(-108.41127,7.6406493)">99</text>
+    <text
+       x="667.58002"
+       y="1190.9301"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text815"
+       transform="translate(-116.92505,7.0325226)">65.5</text>
+    <text
+       x="778.04999"
+       y="1133.23"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text816"
+       transform="translate(-118.44536,6.424396)">99.6</text>
+    <text
+       x="781.57001"
+       y="1059.52"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text817"
+       transform="translate(-116.31692,7.336586)">74.6</text>
+    <text
+       x="786.84003"
+       y="1206.9301"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text818"
+       transform="translate(-116.31692,19.499118)">83.8</text>
+    <text
+       x="794.38"
+       y="1322.1801"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text819"
+       transform="translate(-116.62098,7.336586)">99.9</text>
+    <text
+       x="498.79999"
+       y="760.10999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text820"
+       transform="translate(-116.92505,7.336586)">98.8</text>
+    <text
+       x="573.45001"
+       y="691.87"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text821"
+       transform="translate(-116.01286,7.0325224)">98.1</text>
+    <text
+       x="577.71997"
+       y="597.08002"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text822"
+       transform="translate(-116.62098,6.7284593)">79.8</text>
+    <text
+       x="580.09003"
+       y="470.14999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text823"
+       transform="translate(-116.62098,7.336586)">92.9</text>
+    <text
+       x="584.85999"
+       y="309.62"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text824"
+       transform="translate(-116.92505,6.7284593)">88.6</text>
+    <text
+       x="594.40997"
+       y="170.03999"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text825"
+       transform="translate(-116.92505,6.7284593)">93.5</text>
+    <text
+       x="576.26001"
+       y="786.65997"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text826"
+       transform="translate(-118.74943,7.336586)">75.7</text>
+    <text
+       x="820.04999"
+       y="3184.52"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="15.64"
+       lengthAdjust="spacingAndGlyphs"
+       id="text827"
+       transform="translate(-114.41171,7.336586)">100</text>
+    <text
+       x="854.15002"
+       y="3166.1399"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text828"
+       transform="translate(-116.84077,6.9895771)">79.5</text>
+    <text
+       x="911.75"
+       y="3150.3799"
+       style="font-weight:bold;font-size:9.39px;font-family:Arial"
+       textLength="18.24"
+       lengthAdjust="spacingAndGlyphs"
+       id="text829"
+       transform="translate(-117.88179,6.6425682)">99.6</text>
+    <line
+       x1="89.04097"
+       y1="3301.2068"
+       x2="166.46097"
+       y2="3301.2068"
+       style="stroke-width:1.49;stroke-linecap:butt"
+       id="line829" />
+    <text
+       x="215.78999"
+       y="3285.46"
+       text-anchor="middle"
+       style="font-size:9.96px;font-family:Arial"
+       textLength="74.739998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text830"
+       transform="translate(-88.039031,7.336586)">0.223701837735</text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.00002px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;text-anchor:middle;fill:#9d0000;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6"
+       x="539.53979"
+       y="3068.4233"
+       id="text2701"><tspan
+         sodipodi:role="line"
+         id="tspan2699"
+         style="stroke-width:4"
+         x="539.53979"
+         y="3068.4233">XwIV_ORF38</tspan></text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHwzMjM2LjQwfDAuMDB8MzMyNi40MA==)"
+     id="g831" />
+  <g
+     id="g8111"
+     transform="matrix(1.6117298,0,0,1.6117298,-967.46481,60.809234)">
+    <rect
+       style="fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="-16.378145"
+       ry="7.559144" />
+    <rect
+       style="fill:#600090;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-2"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="3.5279188"
+       ry="7.559144" />
+    <rect
+       style="fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       id="rect7327-80"
+       width="42.835152"
+       height="15.118288"
+       x="675.28351"
+       y="23.433983"
+       ry="7.559144" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#9d0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="743.33057"
+       y="-5.1837473"
+       id="text7421"><tspan
+         sodipodi:role="line"
+         id="tspan7419"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9d0000;fill-opacity:1;stroke-width:1.7"
+         x="743.33057"
+         y="-5.1837473">XwIV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#600090;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="749.65826"
+       y="14.722317"
+       id="text7475"><tspan
+         sodipodi:role="line"
+         id="tspan7473"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.7"
+         x="749.65826"
+         y="14.722317">IVSPER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;fill:#0058c8;fill-opacity:1;fill-rule:evenodd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6;stroke-dasharray:none"
+       x="742.47491"
+       y="34.71627"
+       id="text7479"><tspan
+         sodipodi:role="line"
+         id="tspan7477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8402px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0058c8;fill-opacity:1;stroke-width:1.7"
+         x="742.47491"
+         y="34.71627">Virus</tspan></text>
+  </g>
+</svg>
