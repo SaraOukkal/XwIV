@@ -139,6 +139,12 @@ Hybrid assembly of Oxford Nanopore long reads and Illumina short reads, followed
 
 - `Plot_XwIV_Hybrid_ORFs.py`: Visualize ORFs and their annotations along the hybrid XwIV genome.
 
+- `Map_reads_circular_junction_whole_assembly.sh`: Test sequencing support across the XwIV end-to-start junction by rotating the viral contig and replacing the original XwIV scaffold within the complete hybrid assembly. ONT and Illumina reads are independently mapped against this competitive reference, and primary alignments and Illumina paired-end information are used to assess whether individual reads or concordant read pairs span the artificial junction.
+
+- `Test_zero_depth.py`: Examine zero-coverage positions across the rotated XwIV genome for ONT and Illumina data and identify continuous zero-depth regions. This analysis determines whether the lack of read coverage at the artificial end-to-start junction is unique or also occurs elsewhere in the viral genome.
+
+- `Test_stat_terminal_regions.py`: Compare the sequence architecture of the XwIV terminal and internal regions using 1-kb genomic windows. ORF density, low-complexity sequence coverage, and tandem-repeat coverage are compared between terminal and internal windows using two-sided Mann–Whitney U tests, with Benjamini–Hochberg correction for multiple testing.
+
 ---
 
 # Supplementary data
